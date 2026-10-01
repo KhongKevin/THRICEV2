@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-30",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 1,
+      "category": "History",
+      "answer": "George Washington",
+      "aliases": ["Washington"],
+      "clues": [
+        { "points": 3, "question": "Before leading a new nation, this Virginian worked as a surveyor and mapped land in the Shenandoah Valley." },
+        { "points": 2, "question": "This leader made Mount Vernon his home and commanded the Continental Army during the American Revolution." },
+        { "points": 1, "question": "Who was the first president of the United States?" }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Movies",
+      "answer": "Spirited Away",
+      "aliases": ["Sen to Chihiro no Kamikakushi"],
+      "clues": [
+        { "points": 3, "question": "In this animated film, a mysterious train travels across shallow water, carrying a young girl and a quiet, masked passenger." },
+        { "points": 2, "question": "Chihiro works in a bathhouse for spirits in this Hayao Miyazaki film." },
+        { "points": 1, "question": "Which Studio Ghibli film, whose English title starts with ‘Spirited’, follows a girl trying to rescue her parents after they become pigs?" }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Science",
+      "answer": "Mercury",
+      "aliases": ["The planet Mercury"],
+      "clues": [
+        { "points": 3, "question": "The Caloris Basin, a vast impact crater, lies on this planet's heavily cratered surface." },
+        { "points": 2, "question": "A year on this small, moonless planet lasts just 88 Earth days." },
+        { "points": 1, "question": "Which planet orbits closest to the Sun?" }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Sports",
+      "answer": "Badminton",
+      "aliases": [],
+      "clues": [
+        { "points": 3, "question": "In this racket sport, a traditional feathered projectile has 16 feathers fixed into its base." },
+        { "points": 2, "question": "Players in this indoor net sport aim a shuttlecock into the opposing side of the court." },
+        { "points": 1, "question": "Which racket sport uses a shuttlecock, also called a birdie, instead of a ball?" }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Geography",
+      "answer": "Iceland",
+      "aliases": ["Republic of Iceland", "Island", "Ísland"],
+      "clues": [
+        { "points": 3, "question": "At Thingvellir in this country, visitors can walk through a landscape shaped by the separation of the North American and Eurasian plates." },
+        { "points": 2, "question": "This North Atlantic island nation is known for glaciers, volcanoes, and geothermal pools such as the Blue Lagoon." },
+        { "points": 1, "question": "Reykjavík is the capital of which country?" }
+      ]
+    }
+  ]
+}
