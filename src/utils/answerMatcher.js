@@ -1,4 +1,26 @@
-export const SIMILARITY_THRESHOLD = 0.80;
+export const SIMILARITY_THRESHOLD = 0.72;
+const FILLER_WORDS = new Set(['a', 'an', 'the', 'and', 'or', 'of', 'to', 'in', 'on', 'at', 'by', 'for', 'from', 'with']);
+
+function wordsMatch(guess, accepted) {
+  if (guess === accepted) return true;
+  // Short words and numbers need an exact token match.
+  if (Math.min(guess.length, accepted.length) < 5 || /\d/.test(guess + accepted)) return false;
+  return similarity(guess, accepted) >= SIMILARITY_THRESHOLD;
+}
+
+function matchesAnswerWords(guess, accepted) {
+  const answerWords = accepted.split(' ').filter((word) => !FILLER_WORDS.has(word));
+  const guessWords = guess.split(' ').filter((word) => !FILLER_WORDS.has(word));
+  if (!accepted.includes(' ') || !guessWords.length || !guessWords.some((word) => word.length >= 3)) return false;
+  const remaining = [...answerWords];
+  return guessWords.every((word) => {
+    let index = remaining.findIndex((answerWord) => word === answerWord);
+    if (index < 0) index = remaining.findIndex((answerWord) => wordsMatch(word, answerWord));
+    if (index < 0) return false;
+    remaining.splice(index, 1);
+    return true;
+  });
+}
 
 export function normalizeAnswer(value) {
   return String(value ?? '')
@@ -39,11 +61,11 @@ export function isAnswerCorrect(guess, round) {
   return [round.answer, ...round.aliases].some((candidate) => {
     const accepted = normalizeAnswer(candidate);
     if (normalized === accepted) return true;
+    // Keep numeric guesses precise even while accepting partial names/titles.
+    const answerNumbers = accepted.match(/\d+/g) ?? [];
+    if ((normalized.match(/\d+/g) ?? []).some((number) => !answerNumbers.includes(number))) return false;
+    if (matchesAnswerWords(normalized, accepted)) return true;
     if (Math.min(Array.from(normalized).length, Array.from(accepted).length) < 4) return false;
-    // Dropping entire words is intentional shortening, and belongs in aliases.
-    const guessWords = normalized.split(' ');
-    const answerWords = accepted.split(' ');
-    if (guessWords.length < answerWords.length && guessWords.every((word) => answerWords.includes(word))) return false;
     return similarity(normalized, accepted) >= SIMILARITY_THRESHOLD;
   });
 }

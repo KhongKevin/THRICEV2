@@ -11,9 +11,23 @@ beforeEach(() => {
 });
 
 test('active progress restores on refresh', () => {
-  const active = { ...createInitialState(quiz), gameStarted: true, currentClueIndex: 1, feedback: 'Not quite.' };
+  const active = gameReducer({ ...createInitialState(quiz), gameStarted: true }, { type: 'GUESS', roundIndex: 0, clueIndex: 0, guess: 'Abraham Lincoln' }, quiz);
   assert.equal(saveGame(active), true);
   assert.deepEqual(loadGame(quiz), active);
+});
+
+test('older saves keep their score and migrate missing guesses without inventing text', () => {
+  let state = { ...createInitialState(quiz), gameStarted: true };
+  state = gameReducer(state, { type: 'SKIP', roundIndex: 0, clueIndex: 0 }, quiz);
+  state = gameReducer(state, { type: 'GUESS', roundIndex: 0, clueIndex: 1, guess: 'Washington' }, quiz);
+  delete state.attempts;
+  localStorage.setItem(STATE_KEY, JSON.stringify(state));
+  const loaded = loadGame(quiz);
+  assert.equal(loaded.score, 2);
+  assert.equal(loaded.roundComplete, true);
+  assert.deepEqual(loaded.attempts.map(({ guess, status }) => ({ guess, status })), [
+    { guess: null, status: 'unrecorded' }, { guess: null, status: 'correct' },
+  ]);
 });
 
 test('completed results restore and history keeps past dates', () => {

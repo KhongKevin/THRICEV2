@@ -41,7 +41,7 @@ def allowed_url(value):
     url = urllib.parse.urljoin(SOURCE_URL, value)
     parsed = urllib.parse.urlsplit(url)
     if (parsed.scheme != "https" or parsed.netloc != "thrice.geekswhodrink.com"
-            or parsed.path not in ("/", "/user-guess", "/next", "/robots.txt")):
+            or parsed.path not in ("/", "/user-guess", "/next", "/robots.txt", "/stats", "/stats/week")):
         raise CollectionError("The source returned an unexpected navigation URL.")
     return url
 

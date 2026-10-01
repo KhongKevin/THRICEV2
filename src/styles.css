@@ -112,7 +112,7 @@ h1:focus, main:focus { outline: none; }
 .clue-value-number { font-family: 'Libre Caslon Display', Georgia, serif; font-size: 65px; line-height: 1; color: #507c55; }
 .clue-value > span:nth-child(2) { font-size: 10px; line-height: 1.5; letter-spacing: 1.5px; color: #657763; }
 .clue-steps { display: flex; gap: 5px; margin-left: auto; }.clue-steps i { height: 7px; width: 7px; border-radius: 50%; background: #dce2d5; }.clue-steps .reached { background: #608661; }
-.clue-question { font-family: 'Libre Caslon Display', Georgia, serif; font-size: clamp(30px, 4.6vw, 39px); line-height: 1.21; font-weight: 400; letter-spacing: -.35px; margin: 0; min-height: 142px; }
+.clue-question { font-family: 'DM Sans', sans-serif; font-size: clamp(23px, 3.8vw, 29px); line-height: 1.42; font-weight: 650; letter-spacing: -.35px; margin: 0; min-height: 142px; }
 .clue-feedback { min-height: 49px; padding: 16px 0 14px; color: #6d634e; font-size: 13px; line-height: 1.5; }
 .clue-feedback > span { color: var(--muted); }
 .answer-form { border-top: 1px solid var(--line); padding-top: 23px; }
@@ -154,5 +154,50 @@ h1:focus, main:focus { outline: none; }
   .site-footer { flex-direction: column; gap: 10px; padding: 23px 0 27px; }.game-status { margin-top: 24px; }.game-status p { font-size: 22px; }.score-display { gap: 10px; padding: 10px 12px; }.score-display strong { font-size: 23px; }.round-progress { margin-bottom: 18px; }.game-card { padding: 25px 24px 27px; }.clue-position { font-size: 9px; letter-spacing: 1px; }.category-label { font-size: 11px; }.clue-value { margin-top: 24px; }.clue-question { font-size: 32px; min-height: 155px; }.clue-feedback { font-size: 12px; min-height: 51px; }.answer-form { padding-top: 20px; }.answer-actions { flex-direction: column; gap: 9px; }.answer-actions .button-primary { justify-content: center; }.answer-actions .button-quiet { min-height: 44px; }.game-bottom { gap: 8px; }.game-bottom > span { max-width: 48%; font-size: 11px; }.game-bottom .text-button { font-size: 11px; }
   .round-result { padding-top: 12px; }.round-result h1 { font-size: 43px; }.answer-reveal { font-size: 24px; }.results-card { padding: 30px 24px 4px; }.results-list li { gap: 11px; }.result-dots { gap: 4px; }.result-dots i { width: 6px; height: 6px; }.results-card .eyebrow { font-size: 9px; letter-spacing: 1.2px; }.final-score { font-size: 95px; }.result-copy { font-size: 13px; }
 }
-@media (max-width: 370px) { .start-card h1 { font-size: 44px; }.game-card { padding-left: 20px; padding-right: 20px; }.clue-question { font-size: 30px; }.result-dots { display: none; }.help-button span { max-width: 43px; }.brand { font-size: 24px; }.desktop-break { display: none; } }
+@media (max-width: 370px) { .start-card h1 { font-size: 44px; }.game-card { padding-left: 20px; padding-right: 20px; }.result-dots { display: none; }.help-button span { max-width: 43px; }.brand { font-size: 24px; }.desktop-break { display: none; } }
+
+.round-scoreboard { list-style: none; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; padding: 0; margin: 0 0 22px; }
+.round-scoreboard > li { display: flex; flex-direction: column; align-items: center; gap: 9px; padding: 12px 3px; border: 1px solid #ffffff24; border-radius: 9px; color: #c5d3d4; background: #ffffff04; }
+.round-scoreboard > .playing { border-color: #a9d5b7; background: #bee6c712; }
+.round-scoreboard > .scored { color: #dcefdc; }
+.scoreboard-round, .scoreboard-value { font-size: 12px; }
+.scoreboard-dots { display: flex; gap: 5px; }
+.scoreboard-dots i { display: block; width: 10px; height: 10px; border: 1px solid #91a8ad; border-radius: 50%; }
+.scoreboard-dots .earned { border-color: #bee6c7; background: #bee6c7; }
+.score-0 .scoreboard-value { color: #f0c4ae; }
+.previous-clues { margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--line); text-align: left; }
+.previous-clues h2 { font-size: 17px; font-weight: 650; margin: 0 0 16px; }
+.previous-clues ol, .review-clues ol { list-style: none; margin: 0; padding: 0; }
+.previous-clues li { background: #f0f2e9; border-radius: 8px; padding: 16px; }
+.previous-clues li + li, .review-clues li + li { margin-top: 14px; }
+.history-clue-value { display: block; color: #536b50; font-size: 12px; font-weight: 650; margin-bottom: 8px; }
+.history-question { font-size: 16px; font-weight: 550; line-height: 1.55; margin: 0 0 10px; overflow-wrap: anywhere; }
+.attempt-label { color: #66705d; font-size: 14px; line-height: 1.5; margin: 0; overflow-wrap: anywhere; }
+.attempt-label strong { font-weight: 650; }
+.attempt-label.incorrect { color: #805433; }
+.attempt-label.correct { color: #275541; }
+.full-recap { text-align: left; border-top: 1px solid var(--line); padding-top: 28px; margin-bottom: 28px; }
+.full-recap > h2 { font-size: 25px; font-weight: 650; margin-bottom: 22px; }
+.recap-round + .recap-round { border-top: 1px solid var(--line); padding-top: 24px; margin-top: 24px; }
+.recap-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.recap-heading h3 { font-size: 16px; font-weight: 650; margin: 0; }
+.recap-heading > span { font-size: 14px; white-space: nowrap; color: var(--green); }
+.recap-answer { font-size: 17px; line-height: 1.5; margin: 10px 0 20px; color: var(--green); }
+.recap-answer > span { font-size: 14px; color: var(--muted); }
+.review-clues li { padding-left: 14px; border-left: 2px solid #d6dece; }
+.daily-average { display: flex; align-items: center; justify-content: space-between; gap: 18px; border: 1px solid #ffffff26; border-radius: 10px; padding: 15px 18px; margin: 0 0 20px; color: #dce8e4; background: #ffffff05; }
+.average-label { font-size: 12px; color: #bdd2c7; }
+.daily-average p { margin: 6px 0 0; font-size: 16px; }
+.daily-average p strong { font-size: 26px; color: var(--mint); font-weight: 650; }
+.average-pending { font-size: 14px; }
+.average-note { display: flex; flex-direction: column; gap: 6px; font-size: 12px; line-height: 1.5; max-width: 52%; text-align: right; color: #bbcaca; }
+.average-note a { color: #c6e8cc; text-underline-offset: 3px; }
+@media (max-width: 600px) {
+  .clue-question { font-size: 24px; line-height: 1.45; }
+  .daily-average { align-items: flex-start; flex-direction: column; gap: 9px; padding: 14px 16px; }
+  .average-note { max-width: 100%; text-align: left; }
+  .scoreboard-dots { gap: 4px; }.scoreboard-dots i { width: 9px; height: 9px; }
+  .round-scoreboard { gap: 6px; }.round-scoreboard > li { padding: 11px 2px; }
+  .recap-heading { gap: 8px; }.recap-heading h3 { font-size: 15px; }
+}
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }

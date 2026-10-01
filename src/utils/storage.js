@@ -1,4 +1,4 @@
-import { createInitialState, isValidSavedState } from './gameState.js';
+import { createInitialState, isValidSavedState, legacyAttempts } from './gameState.js';
 
 export const STATE_KEY = 'thriceTriviaState:v1';
 export const HISTORY_KEY = 'thriceTriviaHistory:v1';
@@ -6,7 +6,7 @@ export const HISTORY_KEY = 'thriceTriviaHistory:v1';
 export function loadGame(quiz) {
   try {
     const saved = JSON.parse(localStorage.getItem(STATE_KEY));
-    if (isValidSavedState(saved, quiz)) return saved;
+    if (isValidSavedState(saved, quiz)) return { ...saved, attempts: saved.attempts ?? legacyAttempts(saved, quiz) };
     localStorage.removeItem(STATE_KEY);
   } catch {
     // Unavailable storage and malformed saves must never prevent a game.

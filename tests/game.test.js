@@ -99,3 +99,25 @@ test('quiz validation rejects missing fields, incorrect counts, dates and point 
     assert.throws(() => validateQuiz(data), /Invalid quiz/);
   }
 });
+
+test('guess history preserves exact input and skips across clues and rounds', () => {
+  let state = act(started(), 'GUESS', { guess: '  Abraham LINCOLN!  ' });
+  state = act(state, 'SKIP');
+  state = act(state, 'GUESS', { guess: 'George' });
+  assert.deepEqual(state.attempts, [
+    { roundId: 1, clueIndex: 0, guess: 'Abraham LINCOLN!', status: 'incorrect' },
+    { roundId: 1, clueIndex: 1, guess: null, status: 'skipped' },
+    { roundId: 1, clueIndex: 2, guess: 'George', status: 'correct' },
+  ]);
+  state = continueRound(state);
+  assert.equal(state.attempts.length, 3);
+  assert.equal(isValidSavedState(state, quiz), true);
+  assert.deepEqual(act(state, 'RESTART').attempts, []);
+});
+
+test('corrupt guess logs are rejected without recomputing scores under new matching rules', () => {
+  const state = act(started(), 'GUESS', { guess: 'Not this answer' });
+  for (const attempts of [[], [{ ...state.attempts[0], clueIndex: 2 }], [{ ...state.attempts[0], status: 'correct' }]]) {
+    assert.equal(isValidSavedState({ ...state, attempts }, quiz), false);
+  }
+});

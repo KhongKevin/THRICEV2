@@ -11,6 +11,8 @@ All times use `America/Chicago`, including daylight-saving changes:
 | Primary morning update | 6:17 a.m. |
 | First recovery run | 6:47 a.m. |
 | Additional recovery runs | 7:17, 8:17, 9:17 a.m., and 12:17 p.m. |
+| Daily-average snapshot | Noon |
+| Stats recovery runs | 12:17, 12:47, and 1:17 p.m. |
 
 The workflow also runs on pushes to `main`; `workflow_dispatch` is available for optional maintenance. Once today's validated quiz is saved, recovery runs do not contact Thrice again. They still rebuild and deploy, allowing recovery from a previous deployment failure. The workflow name is **Update daily quiz and deploy**.
 
@@ -46,6 +48,22 @@ Public answer reveals do not expose accepted-answer aliases, so imported rounds 
 - Failures and successful deployments are visible in Actions. Notification delivery depends on GitHub notification settings.
 
 An upstream markup change or site shutdown can still require parser maintenance. No scraper can guarantee an independently operated site's structure or availability.
+
+## Optional noon stats
+
+`python -m ingestion.update_stats` runs after quiz collection. It only collects after noon in `America/Chicago`, and only for that local day's published quiz. It requests `/stats/week?week=YYYY-MM-DD` with the quiz week's Sunday, reads the `data-global-stats` daily averages, and selects the index relative to `data-sunday`. This also handles Sunday rollovers and avoids the source's not-yet-available daily recap. Personal scores and all-time category averages are not used. The parser checks the date range, missing values, and a finite score between 0 and 15.
+
+The first valid daily snapshot is preserved on subsequent runs. It is written atomically to `public/data/stats.json` and archived separately under `public/data/stats-archive/`. The file contains the quiz date, source, score out of 15, and capture timestamp. A recovery run may capture later than noon; the UI shows the actual capture time. No estimated average is substituted for unavailable source data.
+
+The workflow marks this step `continue-on-error: true`, so even an unexpected stats failure does not prevent building, committing, or deploying the game. The frontend loads stats independently, ignores wrong-date snapshots, and remains playable before noon or when stats are missing. A request timeout or missing file cannot block the answer controls.
+
+To test the optional updater locally, after installing the same ingestion requirements:
+
+```sh
+python -m ingestion.update_stats
+```
+
+Before noon this exits successfully without requesting source stats. Unit tests exercise noon eligibility in both standard/daylight time, date-to-chart alignment, missing/malformed values, retry behavior, idempotence, and preservation of quiz files on failure.
 
 ## Local maintenance (optional)
 

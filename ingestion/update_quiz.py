@@ -95,7 +95,8 @@ def main():
                 output.write(f"### Daily quiz\n\n{quiz['date']}: {'updated' if changed else 'already current'}. "
                              "Validated 5 rounds, 15 clues and 5 answers.\n\n"
                              "Morning schedule: 06:17 and 06:47 America/Chicago; "
-                             "recovery runs at 07:17, 08:17, 09:17 and 12:17.\n")
+                             "recovery runs at 07:17, 08:17 and 09:17. "
+                             "Optional stats: 12:00, with recovery at 12:17, 12:47 and 13:17.\n")
         return 0
     except (CollectionError, OSError, ValueError) as error:
         print(f"Quiz update failed; last published quiz is retained. {error}", file=sys.stderr, flush=True)

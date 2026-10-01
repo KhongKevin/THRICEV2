@@ -16,15 +16,33 @@ test('canonical answers, aliases, and small typos are accepted', () => {
   }
 });
 
-test('empty, unrelated, very short, and non-aliased shortened answers fail', () => {
-  for (const guess of ['', '!!!', 'George', 'cat', 'The moon']) assert.equal(isAnswerCorrect(guess, washington), false);
-  assert.equal(isAnswerCorrect('Oklahoma', { answer: 'University of Oklahoma', aliases: [] }), false);
-  assert.equal(isAnswerCorrect('Washington', { answer: 'George Washington', aliases: [] }), false);
-  assert.equal(isAnswerCorrect('York City', { answer: 'New York City', aliases: [] }), false);
+test('meaningful words and subsets of multi-word answers are accepted', () => {
+  const name = { answer: 'Patrick Star Jane', aliases: [] };
+  for (const guess of ['Patrick', 'Star Jane', 'Patrick Jane', 'Jane Patrick', 'Patrik', 'Star']) {
+    assert.equal(isAnswerCorrect(guess, name), true, guess);
+  }
+  assert.equal(isAnswerCorrect('George', washington), true);
+  assert.equal(isAnswerCorrect('Oklahoma', { answer: 'University of Oklahoma', aliases: [] }), true);
+  assert.equal(isAnswerCorrect('Washington', { answer: 'George Washington', aliases: [] }), true);
+  assert.equal(isAnswerCorrect('York City', { answer: 'New York City', aliases: [] }), true);
+  assert.equal(isAnswerCorrect('Tom', { answer: 'Tom Hanks', aliases: [] }), true);
+});
+
+test('blank, filler-only, arbitrary substrings, unrelated words and wrong numbers fail', () => {
+  for (const guess of ['', '!!!', 'cat', 'The moon', 'wash', 'and']) assert.equal(isAnswerCorrect(guess, washington), false);
+  assert.equal(isAnswerCorrect('Patrick Batman', { answer: 'Patrick Star Jane', aliases: [] }), false);
+  assert.equal(isAnswerCorrect('the', { answer: 'The Golden Girls', aliases: [] }), false);
+  assert.equal(isAnswerCorrect('1913', { answer: '1912', aliases: [] }), false);
+  assert.equal(isAnswerCorrect('Apollo 12', { answer: 'Apollo 11', aliases: [] }), false);
   assert.equal(isAnswerCorrect('Oklahoma', { answer: 'University of Oklahoma', aliases: ['Oklahoma'] }), true);
   assert.equal(isAnswerCorrect('U.K.', { answer: 'United Kingdom', aliases: ['UK'] }), true);
   assert.equal(isAnswerCorrect('UK', { answer: 'USA', aliases: [] }), false);
   assert.equal(isAnswerCorrect('Cats', { answer: 'Cat', aliases: [] }), false);
+});
+
+test('a lower similarity threshold tolerates more spelling mistakes', () => {
+  assert.equal(isAnswerCorrect('badmintan', { answer: 'Badminton', aliases: [] }), true);
+  assert.equal(isAnswerCorrect('Washngtn', washington), true);
 });
 
 test('Levenshtein distance and normalized similarity handle boundary cases', () => {

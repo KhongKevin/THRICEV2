@@ -9,6 +9,9 @@ import RoundResult from './RoundResult.jsx';
 import Results from './Results.jsx';
 import Modal from './Modal.jsx';
 import Icon from './Icon.jsx';
+import ClueHistory from './ClueHistory.jsx';
+import RoundScores from './RoundScores.jsx';
+import DailyAverage from './DailyAverage.jsx';
 
 export default function Game({ quiz }) {
   const [state, dispatch] = useReducer((previous, action) => gameReducer(previous, action, quiz), quiz, loadGame);
@@ -45,17 +48,19 @@ export default function Game({ quiz }) {
   const round = quiz.rounds[state.currentRoundIndex];
   return (
     <>
+      <DailyAverage quizDate={quiz.date} score={state.gameComplete ? state.score : null} />
       {!storageAvailable && <p className="storage-warning" role="status">Your browser couldn’t save progress. You can keep playing, but this attempt may be lost when you leave.</p>}
-      {!state.gameStarted ? <StartScreen quiz={quiz} onStart={() => dispatch({ type: 'START' })} /> : state.gameComplete ? <Results state={state} onRestart={() => setConfirmRestart(true)} /> : (
+      {!state.gameStarted ? <StartScreen quiz={quiz} onStart={() => dispatch({ type: 'START' })} /> : state.gameComplete ? <Results quiz={quiz} state={state} onRestart={() => setConfirmRestart(true)} /> : (
         <>
           <div className="game-status"><div><span className="eyebrow">THE DAILY FIVE</span><p>Round <strong>{state.currentRoundIndex + 1}</strong><span> of 5</span></p></div><ScoreDisplay score={state.score} /></div>
-          <ol className="round-progress" aria-label="Round progress">{quiz.rounds.map((item, index) => <li key={item.id} className={state.roundResults[index] ? 'complete' : index === state.currentRoundIndex ? 'current' : ''} aria-current={index === state.currentRoundIndex ? 'step' : undefined}><span className="sr-only">Round {index + 1}: {state.roundResults[index] ? `${state.roundResults[index].points} points` : index === state.currentRoundIndex ? 'current' : 'upcoming'}</span></li>)}</ol>
+          <RoundScores quiz={quiz} state={state} />
           <div className="paper game-card">
             {state.roundComplete ? <RoundResult result={state.roundResults.at(-1)} isLast={state.currentRoundIndex === 4} onContinue={() => act('CONTINUE', { completedAt: new Date().toISOString() })} disabled={transitioning} /> : (
               <section aria-labelledby="clue-question">
                 <ClueCard round={round} clueIndex={state.currentClueIndex} />
                 <div className="clue-feedback" role="status" aria-live="polite" aria-atomic="true">{state.feedback || <span aria-hidden="true">Three clues. One answer. You’ve got this.</span>}</div>
                 <AnswerInput key={`${state.currentRoundIndex}-${state.currentClueIndex}`} onGuess={(guess) => act('GUESS', { guess })} onSkip={() => act('SKIP')} disabled={transitioning} />
+                <ClueHistory round={round} attempts={state.attempts} />
               </section>
             )}
           </div>

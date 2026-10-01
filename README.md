@@ -33,6 +33,8 @@ Preview normally runs at `http://localhost:4173/`. The production output is enti
 - Use **Continue** after each round and **See results** after round five.
 - Submit with Enter or the button. Empty guesses do nothing. Transitions briefly disable controls and stale actions are ignored to prevent duplicate submissions.
 - Progress saves automatically in this browser. **Restart Game** and **Play Again** require confirmation before erasing today's attempt and today's history entry; earlier history is kept.
+- After a miss or pass, previous clues and your guesses stay visible below the answer form. Each round's points appear in the five-round dot scoreboard.
+- The final recap includes all 15 clues, canonical answers, your guesses and passes, and clues you did not need. Guess history is saved locally from this version onward. Older attempts retain their scores and show when a guess was not recorded.
 
 ## Quiz data
 
@@ -60,13 +62,19 @@ See `ingestion/example_quiz.json` for a complete example.
 
 ### Answer matching
 
-`src/utils/answerMatcher.js` lowercases, strips punctuation and diacritics, and collapses whitespace. It checks the canonical answer and every explicit alias, then uses normalized Levenshtein similarity at the adjustable `SIMILARITY_THRESHOLD = 0.80`. Strings shorter than four characters require a normalized exact match. Dropping whole words is rejected unless that shorter answer is an alias; arbitrary substring matching is not used. Fuzzy matching is deliberately lightweight and may accept some near-matches; aliases remain the preferred way to author accepted variants.
+`src/utils/answerMatcher.js` lowercases, strips punctuation and diacritics, and collapses whitespace. It checks the canonical answer and aliases, then accepts meaningful whole-word subsets of multi-word answers in any order. For `Patrick Star Jane`, `Patrick`, `Star Jane`, and `Patrick Jane` all work. At least one guessed word must have three characters; filler-only guesses such as `the` do not count, unrelated extra words are rejected, and arbitrary character substrings do not match. Typo tolerance uses normalized Levenshtein similarity with adjustable `SIMILARITY_THRESHOLD = 0.72`; fuzzy token matching requires five-character words. Very short answers and numeric differences remain conservative. This intentionally generous matching may accept more answers than Thrice itself.
 
 ## Automatic daily updates
 
 The **Update daily quiz and deploy** GitHub Actions workflow collects the daily quiz at **6:17 a.m. America/Chicago**, with recovery runs at **6:47, 7:17, 8:17, 9:17 a.m., and 12:17 p.m.** Times follow Central daylight saving changes. Your computer does not need to be on.
 
 The collector follows the normal skip/reveal forms, captures all five categories, 15 clues, and five answers, checks the final recap, and validates the complete quiz. It then archives prior content, replaces `today.json`, runs a production build, commits the data, and deploys Pages. Once a day's quiz is saved, recovery runs skip collection and retry deployment. A failed scrape leaves the last published quiz available.
+
+### Noon average-score snapshot
+
+At **12:00 p.m. America/Chicago**, the workflow also reads Thrice's published daily average from its global weekly chart, using the quiz's date to select the correct value out of 15. Recovery runs at **12:17, 12:47 and 1:17 p.m.** retry missing stats. The first valid snapshot of the day is saved to `public/data/stats.json` and `public/data/stats-archive/YYYY-MM-DD.json`. Central time follows daylight saving changes.
+
+The stats step is optional and cannot fail the gameplay deployment. Before noon, the interface says stats are pending; missing, failed, malformed, or wrong-date stats show an unavailable message. Gameplay never waits for them. Open tabs recheck every five minutes while a snapshot is missing and when becoming visible. Available stats show the source, capture time, and your final score relative to the Thrice average. This is a snapshot of Thrice players, not a live average of this app's players.
 
 Thrice resets at midnight Eastern, so source dates use `America/New_York`. No daily manual input or personal-access-token setup is needed. GitHub can delay scheduled jobs, and source layout changes can require parser maintenance; recovery runs reduce transient failures but cannot promise exact timing or zero failures. See [ingestion/README.md](ingestion/README.md) for details and optional local commands.
 
@@ -99,7 +107,7 @@ On Windows, `py ingestion/validate_quiz.py public/data/today.json` also works wh
 
 ## Persistence and future history
 
-- `thriceTriviaState:v1`: the active quiz date, round/clue indexes, score, round results, completion flags, feedback, and completion timestamp.
+- `thriceTriviaState:v1`: the active quiz date, round/clue indexes, score, round results, guess/pass records, completion flags, feedback, and completion timestamp. Older saves are migrated without changing scores or inventing past guesses.
 - `thriceTriviaHistory:v1`: results indexed by quiz date, each containing `score`, `maxScore`, and `completedAt`.
 
 Saved state is validated before restoration. Incorrect dates, impossible indexes/scores, and malformed saves are discarded. Browser storage failures are nonfatal and display an in-game notice. Replaying removes today's history entry after confirmation; completing the replay writes the replacement. History is local to the browser/origin, does not synchronize between devices, and can be lost when browser data is cleared.
@@ -151,6 +159,8 @@ ThriceV2/
 │   ├── fonts/                      # Self-hosted fonts + OFL licenses
 │   └── data/
 │       ├── today.json
+│       ├── stats.json
+│       ├── stats-archive/             # Created after the first noon snapshot
 │       └── archive/.gitkeep
 ├── src/
 │   ├── main.jsx
@@ -165,12 +175,16 @@ ThriceV2/
 │   │   ├── ScoreDisplay.jsx
 │   │   ├── RoundResult.jsx
 │   │   ├── Results.jsx
+│   │   ├── ClueHistory.jsx
+│   │   ├── RoundScores.jsx
+│   │   ├── DailyAverage.jsx
 │   │   ├── Modal.jsx
 │   │   └── Icon.jsx
-│   ├── services/quizService.js
+│   ├── services/                     # quizService.js, statsService.js
 │   └── utils/
 │       ├── answerMatcher.js
 │       ├── gameState.js
+│       ├── stats.js
 │       ├── quizValidator.js
 │       └── storage.js
 ├── ingestion/
@@ -180,12 +194,15 @@ ThriceV2/
 │   ├── requirements.txt
 │   ├── thrice_client.py
 │   ├── update_quiz.py
+│   ├── update_stats.py
 │   ├── tests/test_ingestion.py
+│   ├── tests/test_stats.py
 │   ├── validate-quiz.js
 │   └── validate_quiz.py
 └── tests/
     ├── answerMatcher.test.js
     ├── game.test.js
+    ├── stats.test.js
     └── storage.test.js
 ```
 

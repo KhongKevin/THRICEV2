@@ -10,6 +10,7 @@ export function createInitialState(quiz) {
     currentClueIndex: 0,
     score: 0,
     roundResults: [],
+    attempts: [],
     roundComplete: false,
     gameComplete: false,
     completedAt: null,
@@ -33,17 +34,46 @@ export function gameReducer(state, action, quiz) {
   if (action.type === 'GUESS' && !String(action.guess ?? '').trim()) return state;
   const round = quiz.rounds[state.currentRoundIndex];
   const correct = action.type === 'GUESS' && isAnswerCorrect(action.guess, round);
+  const attempts = [...(state.attempts ?? legacyAttempts(state, quiz)), {
+    roundId: round.id,
+    clueIndex: state.currentClueIndex,
+    guess: action.type === 'GUESS' ? String(action.guess).trim().slice(0, 200) : null,
+    status: correct ? 'correct' : action.type === 'SKIP' ? 'skipped' : 'incorrect',
+  }];
   if (correct || state.currentClueIndex === 2) {
     const points = correct ? round.clues[state.currentClueIndex].points : 0;
     const result = { roundId: round.id, category: round.category, points, correct, answer: round.answer };
-    return { ...state, score: state.score + points, roundResults: [...state.roundResults, result], roundComplete: true, feedback: '' };
+    return { ...state, attempts, score: state.score + points, roundResults: [...state.roundResults, result], roundComplete: true, feedback: '' };
   }
   const nextPoints = round.clues[state.currentClueIndex + 1].points;
   return {
     ...state,
+    attempts,
     currentClueIndex: state.currentClueIndex + 1,
     feedback: action.type === 'GUESS' ? `Not quite. Try the ${nextPoints}-point clue.` : `Showing the ${nextPoints}-point clue.`,
   };
+}
+
+function attemptSlots(state, quiz) {
+  const slots = [];
+  state.roundResults.forEach((result, index) => {
+    const count = result.correct ? 4 - result.points : 3;
+    for (let clueIndex = 0; clueIndex < count; clueIndex += 1) {
+      slots.push({ roundId: quiz.rounds[index].id, clueIndex, correct: result.correct && clueIndex === count - 1 });
+    }
+  });
+  if (!state.roundComplete) {
+    for (let clueIndex = 0; clueIndex < state.currentClueIndex; clueIndex += 1) {
+      slots.push({ roundId: quiz.rounds[state.currentRoundIndex].id, clueIndex, correct: false });
+    }
+  }
+  return slots;
+}
+
+export function legacyAttempts(state, quiz) {
+  return attemptSlots(state, quiz).map(({ roundId, clueIndex, correct }) => ({
+    roundId, clueIndex, guess: null, status: correct ? 'correct' : 'unrecorded',
+  }));
 }
 
 export function isValidSavedState(state, quiz) {
@@ -66,5 +96,18 @@ export function isValidSavedState(state, quiz) {
     const points = state.roundResults.at(-1).points;
     if (points > 0 ? points !== 3 - state.currentClueIndex : state.currentClueIndex !== 2) return false;
   }
-  return typeof state.feedback === 'string';
+  if (typeof state.feedback !== 'string') return false;
+  // Older saves have scores but no guess log. Preserve them and migrate on load.
+  if (state.attempts === undefined) return true;
+  const slots = attemptSlots(state, quiz);
+  if (!Array.isArray(state.attempts) || state.attempts.length !== slots.length) return false;
+  return state.attempts.every((attempt, index) => {
+    const slot = slots[index];
+    if (!attempt || attempt.roundId !== slot.roundId || attempt.clueIndex !== slot.clueIndex) return false;
+    if (!['correct', 'incorrect', 'skipped', 'unrecorded'].includes(attempt.status)) return false;
+    if ((attempt.status === 'correct') !== slot.correct) return false;
+    if (['skipped', 'unrecorded'].includes(attempt.status)) return attempt.guess === null;
+    return (attempt.status === 'correct' && attempt.guess === null)
+      || (typeof attempt.guess === 'string' && attempt.guess.trim().length > 0 && attempt.guess.length <= 200);
+  });
 }
