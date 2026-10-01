@@ -1,6 +1,6 @@
 # Third Time — daily trivia
 
-A complete, static React + Vite trivia game. Five rounds, three clues per round, and up to 15 points. The original design uses a navy background, warm paper cards, green feedback, and self-hosted typography. No backend, database, accounts, or API keys are required.
+A complete, static React + Vite trivia game. Five rounds, three clues per round, and up to 15 points. The original design uses a navy background, warm paper cards, green feedback, and self-hosted typography. A scheduled GitHub Actions job imports the daily Thrice quiz and deploys the site automatically. No gameplay backend, database, accounts, or API keys are required.
 
 ## Local development
 
@@ -36,7 +36,7 @@ Preview normally runs at `http://localhost:4173/`. The production output is enti
 
 ## Quiz data
 
-`public/data/today.json` is the only content contract. It contains five original sample rounds dated **2026-09-30**. The date in this file is authoritative: the app shows the published quiz even if the computer's current date is different. There is no automatic daily content generator.
+`public/data/today.json` is the only frontend content contract. It is updated automatically from the public Thrice game. The original sample dated **2026-09-30** remains in `ingestion/example_quiz.json` for testing. The date in the published JSON is authoritative: the app shows that quiz even if the computer's current date is different. Source metadata records attribution, quiz identifiers, and retrieval time.
 
 Each quiz is an object with a real `YYYY-MM-DD` date, a title, and exactly five rounds. Each round has a unique positive integer or nonempty string `id`, a nonempty `category`, a canonical `answer`, an `aliases` array (which may be empty), and exactly three clues ordered by point values **3, 2, 1**. Every clue has nonempty `question` text.
 
@@ -62,13 +62,21 @@ See `ingestion/example_quiz.json` for a complete example.
 
 `src/utils/answerMatcher.js` lowercases, strips punctuation and diacritics, and collapses whitespace. It checks the canonical answer and every explicit alias, then uses normalized Levenshtein similarity at the adjustable `SIMILARITY_THRESHOLD = 0.80`. Strings shorter than four characters require a normalized exact match. Dropping whole words is rejected unless that shorter answer is an alias; arbitrary substring matching is not used. Fuzzy matching is deliberately lightweight and may accept some near-matches; aliases remain the preferred way to author accepted variants.
 
-## Updating today's quiz
+## Automatic daily updates
+
+The **Update daily quiz and deploy** GitHub Actions workflow collects the daily quiz at **6:17 a.m. America/Chicago**, with recovery runs at **6:47, 7:17, 8:17, 9:17 a.m., and 12:17 p.m.** Times follow Central daylight saving changes. Your computer does not need to be on.
+
+The collector follows the normal skip/reveal forms, captures all five categories, 15 clues, and five answers, checks the final recap, and validates the complete quiz. It then archives prior content, replaces `today.json`, runs a production build, commits the data, and deploys Pages. Once a day's quiz is saved, recovery runs skip collection and retry deployment. A failed scrape leaves the last published quiz available.
+
+Thrice resets at midnight Eastern, so source dates use `America/New_York`. No daily manual input or personal-access-token setup is needed. GitHub can delay scheduled jobs, and source layout changes can require parser maintenance; recovery runs reduce transient failures but cannot promise exact timing or zero failures. See [ingestion/README.md](ingestion/README.md) for details and optional local commands.
+
+### Manual content maintenance
 
 1. Optionally copy the current quiz to `public/data/archive/YYYY-MM-DD.json`.
 2. Replace `public/data/today.json`, including its date, with the next five-round quiz.
 3. Validate, commit, and push to `main`.
 
-The workflow rebuilds and publishes the site. Players receive the new quiz on their next page load. A changed quiz date resets active progress; historical scores remain. The page does not change quizzes halfway through an active session. If you are revising clues on the same date, keep ids and canonical answers stable; changed result metadata can invalidate an existing save.
+The workflow imports the current source quiz before deploying; manual replacement content without current source metadata is replaced by that import. To switch sources, change or remove the collection step and schedule deliberately. Players receive updates on their next page load. A changed quiz date resets active progress; historical scores remain. The page does not change quizzes halfway through an active session.
 
 There is no archive UI yet. Date-based archive files and the history store are ready for that future feature. The ingestion process is documented separately in [ingestion/README.md](ingestion/README.md).
 
@@ -113,14 +121,14 @@ Saved state is validated before restoration. Incorrect dates, impossible indexes
 
 3. In the GitHub repository, open **Settings → Pages**.
 4. Under **Build and deployment → Source**, choose **GitHub Actions**.
-5. Go to **Actions → Deploy to GitHub Pages → Run workflow**, select `main`, and run it. Future pushes to `main` deploy automatically. If the first push failed because Pages was not enabled yet, rerun the workflow after selecting the source.
+5. Go to **Actions → Update daily quiz and deploy → Run workflow**, select `main`, and run it. Future pushes and the daily schedule update/deploy automatically. If the first push failed because Pages was not enabled yet, rerun the workflow after selecting the source.
 6. The deployment job links to:
 
    ```text
    https://USERNAME.github.io/REPOSITORY_NAME/
    ```
 
-The [official Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) approach uses checkout, setup-node, configure-pages, upload-pages-artifact, and deploy-pages. This project's workflow uses the current stable majors verified at implementation: **v7, v7, v6, v5, v5**, respectively. It installs with `npm ci`, runs tests, validates/builds, uploads `dist`, and deploys the artifact. Build permissions are `contents: read` and `pages: read`; the deployment job has `pages: write` and `id-token: write`. No personal access token or secrets are needed for deployment.
+The [official Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) approach uses checkout, setup-node, configure-pages, upload-pages-artifact, and deploy-pages. This project's workflow uses stable majors **v7, v7, v6, v5, v5**, respectively, and **setup-python v7** for ingestion. It installs with `npm ci`, tests the frontend and collector, imports/validates/builds, commits quiz updates, uploads `dist`, and deploys the artifact. Build permissions are `contents: write` (quiz commits) and `pages: read`; the deployment job has `pages: write` and `id-token: write`. GitHub supplies `GITHUB_TOKEN` automatically; no personal access token or added repository secrets are needed.
 
 ### Project URL support
 
@@ -168,6 +176,11 @@ ThriceV2/
 ├── ingestion/
 │   ├── README.md
 │   ├── example_quiz.json
+│   ├── __init__.py
+│   ├── requirements.txt
+│   ├── thrice_client.py
+│   ├── update_quiz.py
+│   ├── tests/test_ingestion.py
 │   ├── validate-quiz.js
 │   └── validate_quiz.py
 └── tests/
@@ -195,4 +208,4 @@ For a release, use the production preview to check:
 
 Answers are delivered in public JSON and can be inspected using developer tools or by opening the JSON URL. This is acceptable for a casual trivia game. There is no fake encryption or claim of secure answer hiding. Local scores are also client-controlled and are not suitable for competitive leaderboards.
 
-The font files are DM Sans and Libre Caslon Display, distributed under their included SIL Open Font Licenses. All game assets are self-hosted; gameplay makes no third-party requests. Questions and branding are original sample content and do not reproduce another game's assets or question bank.
+The font files are DM Sans and Libre Caslon Display, distributed under their included SIL Open Font Licenses. All game assets are self-hosted; frontend gameplay makes no third-party requests. Interface branding is original. Daily imported questions and answers come from Thrice by Geeks Who Drink, as recorded in source metadata; the bundled example questions are original sample content.

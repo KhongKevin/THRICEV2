@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import { createInitialState, gameReducer, isValidSavedState } from '../src/utils/gameState.js';
 import { validateQuiz } from '../src/utils/quizValidator.js';
 
-const quiz = JSON.parse(readFileSync(new URL('../public/data/today.json', import.meta.url), 'utf8'));
+const quiz = JSON.parse(readFileSync(new URL('../ingestion/example_quiz.json', import.meta.url), 'utf8'));
 const started = () => gameReducer(createInitialState(quiz), { type: 'START' }, quiz);
 const act = (state, type, extra = {}) => gameReducer(state, { type, roundIndex: state.currentRoundIndex, clueIndex: state.currentClueIndex, ...extra }, quiz);
 const continueRound = (state) => act(state, 'CONTINUE', { completedAt: '2026-09-30T18:00:00.000Z' });

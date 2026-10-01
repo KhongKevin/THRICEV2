@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import { createInitialState, gameReducer } from '../src/utils/gameState.js';
 import { loadGame, saveGame, saveHistory, clearToday, STATE_KEY, HISTORY_KEY } from '../src/utils/storage.js';
 
-const quiz = JSON.parse(readFileSync(new URL('../public/data/today.json', import.meta.url), 'utf8'));
+const quiz = JSON.parse(readFileSync(new URL('../ingestion/example_quiz.json', import.meta.url), 'utf8'));
 beforeEach(() => {
   const data = new Map();
   globalThis.localStorage = { getItem: (key) => data.get(key) ?? null, setItem: (key, value) => data.set(key, value), removeItem: (key) => data.delete(key) };
