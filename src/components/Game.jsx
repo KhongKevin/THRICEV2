@@ -48,7 +48,7 @@ export default function Game({ quiz }) {
   const round = quiz.rounds[state.currentRoundIndex];
   return (
     <>
-      <DailyAverage quizDate={quiz.date} score={state.gameComplete ? state.score : null} />
+      {state.gameComplete && <DailyAverage quizDate={quiz.date} score={state.score} />}
       {!storageAvailable && <p className="storage-warning" role="status">Your browser couldn’t save progress. You can keep playing, but this attempt may be lost when you leave.</p>}
       {!state.gameStarted ? <StartScreen quiz={quiz} onStart={() => dispatch({ type: 'START' })} /> : state.gameComplete ? <Results quiz={quiz} state={state} onRestart={() => setConfirmRestart(true)} /> : (
         <>
