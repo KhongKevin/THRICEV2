@@ -14,6 +14,8 @@ All times use `America/Chicago`, including daylight-saving changes:
 | Daily-average snapshot | Noon |
 | Stats recovery runs | 12:17, 12:47, and 1:17 p.m. |
 
+An additional UTC schedule checks hourly at **11:37–20:37 UTC**, or **6:37 a.m.–3:37 p.m. CDT / 5:37 a.m.–2:37 p.m. CST**. This adds recovery opportunities after missed primary triggers, but shares GitHub's scheduler and its availability limits. Stats collection still waits until noon Central.
+
 The workflow also runs on pushes to `main`; `workflow_dispatch` is available for optional maintenance. Once today's validated quiz is saved, recovery runs do not contact Thrice again. They still rebuild and deploy, allowing recovery from a previous deployment failure. The workflow name is **Update daily quiz and deploy**.
 
 Thrice's countdown uses `America/New_York`. The collector uses that timezone for the quiz date, checks HTTP response dates throughout collection, and aborts if the source day changes midway. The schedule uses Central time; these are deliberately separate.

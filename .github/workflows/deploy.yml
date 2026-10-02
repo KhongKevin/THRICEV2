@@ -10,6 +10,9 @@ on:
       timezone: America/Chicago
     - cron: '0 12 * * *'
       timezone: America/Chicago
+    # Additional UTC recovery checks if a primary scheduled trigger is missed.
+    # 06:37–15:37 CDT / 05:37–14:37 CST; stats remain gated until noon Central.
+    - cron: '37 11-20 * * *'
   workflow_dispatch:
 
 permissions:

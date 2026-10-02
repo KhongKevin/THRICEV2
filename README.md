@@ -68,6 +68,8 @@ See `ingestion/example_quiz.json` for a complete example.
 
 The **Update daily quiz and deploy** GitHub Actions workflow collects the daily quiz at **6:17 a.m. America/Chicago**, with recovery runs at **6:47, 7:17, 8:17, 9:17 a.m., and 12:17 p.m.** Times follow Central daylight saving changes. Your computer does not need to be on.
 
+Additional hourly recovery checks run at **:37 from 11:00 through 20:00 UTC** (6:37 a.m.–3:37 p.m. CDT / 5:37 a.m.–2:37 p.m. CST). These provide more opportunities to recover when GitHub misses a primary trigger; they use the same GitHub scheduler and cannot guarantee an on-time run.
+
 The collector follows the normal skip/reveal forms, captures all five categories, 15 clues, and five answers, checks the final recap, and validates the complete quiz. It then archives prior content, replaces `today.json`, runs a production build, commits the data, and deploys Pages. Once a day's quiz is saved, recovery runs skip collection and retry deployment. A failed scrape leaves the last published quiz available.
 
 ### Noon average-score snapshot
