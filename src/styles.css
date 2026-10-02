@@ -156,7 +156,7 @@ h1:focus, main:focus { outline: none; }
 }
 @media (max-width: 370px) { .start-card h1 { font-size: 44px; }.game-card { padding-left: 20px; padding-right: 20px; }.result-dots { display: none; }.help-button span { max-width: 43px; }.brand { font-size: 24px; }.desktop-break { display: none; } }
 
-.round-scoreboard { list-style: none; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 6px; padding: 0; margin: 0 0 12px; }
+.round-scoreboard { list-style: none; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 6px; padding: 0; margin: 0 0 15px; }
 .round-scoreboard > li { display: flex; flex-wrap: wrap; align-content: center; justify-content: center; align-items: center; gap: 5px 6px; min-height: 46px; padding: 7px 3px; border: 1px solid #ffffff24; border-radius: 7px; color: #c5d3d4; background: #ffffff04; }
 .round-scoreboard > .current { border-color: #a9d5b7; background: #bee6c712; }
 .round-scoreboard > .scored { color: #dcefdc; }
@@ -208,8 +208,8 @@ h1:focus, main:focus { outline: none; }
 .app-shell { padding-top: 0; }
 .site-header { padding: 12px 0; }
 .brand { font-size: 25px; }
-.edition-line { margin: 12px 0; }
-.game-status { margin: 0 0 10px; }
+.edition-line { margin: 15px 0; }
+.game-status { margin: 0 0 13px; }
 .game-status p { font-size: 18px; margin: 0; }
 .score-display { padding: 0; gap: 9px; border: 0; background: transparent; }
 .score-display strong { font-size: 21px; }
@@ -236,7 +236,7 @@ h1:focus, main:focus { outline: none; }
 .results-card .daily-average p strong, .results-card .average-note a { color: var(--green); }
 @media (max-width: 600px) {
   .site-header { padding: 8px 0; }
-  .edition-line { margin: 10px 0; }
+  .edition-line { margin: 13px 0; }
   .game-card { padding: 18px; }
   .clue-topline { margin-bottom: 12px; }
   .clue-question { font-size: 22px; line-height: 1.4; }
