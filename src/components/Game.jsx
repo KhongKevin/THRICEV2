@@ -11,7 +11,6 @@ import Modal from './Modal.jsx';
 import Icon from './Icon.jsx';
 import ClueHistory from './ClueHistory.jsx';
 import RoundScores from './RoundScores.jsx';
-import DailyAverage from './DailyAverage.jsx';
 
 export default function Game({ quiz }) {
   const [state, dispatch] = useReducer((previous, action) => gameReducer(previous, action, quiz), quiz, loadGame);
@@ -48,11 +47,10 @@ export default function Game({ quiz }) {
   const round = quiz.rounds[state.currentRoundIndex];
   return (
     <>
-      {state.gameComplete && <DailyAverage quizDate={quiz.date} score={state.score} />}
       {!storageAvailable && <p className="storage-warning" role="status">Your browser couldn’t save progress. You can keep playing, but this attempt may be lost when you leave.</p>}
       {!state.gameStarted ? <StartScreen quiz={quiz} onStart={() => dispatch({ type: 'START' })} /> : state.gameComplete ? <Results quiz={quiz} state={state} onRestart={() => setConfirmRestart(true)} /> : (
         <>
-          <div className="game-status"><div><span className="eyebrow">THE DAILY FIVE</span><p>Round <strong>{state.currentRoundIndex + 1}</strong><span> of 5</span></p></div><ScoreDisplay score={state.score} /></div>
+          <div className="game-status"><p>Round <strong>{state.currentRoundIndex + 1}</strong><span> of 5</span></p><ScoreDisplay score={state.score} /></div>
           <RoundScores quiz={quiz} state={state} />
           <div className="paper game-card">
             {state.roundComplete ? <RoundResult result={state.roundResults.at(-1)} isLast={state.currentRoundIndex === 4} onContinue={() => act('CONTINUE', { completedAt: new Date().toISOString() })} disabled={transitioning} /> : (

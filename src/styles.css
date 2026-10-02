@@ -53,7 +53,7 @@ button, input { -webkit-tap-highlight-color: transparent; }
 button { transition: background 160ms ease, transform 160ms ease, border-color 160ms ease; }
 button:disabled { cursor: default; opacity: .48; }
 button:not(:disabled):active { transform: translateY(1px); }
-button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid #709e6d; outline-offset: 4px; }
+button:focus-visible, a:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px solid #709e6d; outline-offset: 4px; }
 h1, h2, p { margin-top: 0; }
 h1:focus, main:focus { outline: none; }
 .icon { flex-shrink: 0; vertical-align: middle; }
@@ -156,13 +156,14 @@ h1:focus, main:focus { outline: none; }
 }
 @media (max-width: 370px) { .start-card h1 { font-size: 44px; }.game-card { padding-left: 20px; padding-right: 20px; }.result-dots { display: none; }.help-button span { max-width: 43px; }.brand { font-size: 24px; }.desktop-break { display: none; } }
 
-.round-scoreboard { list-style: none; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; padding: 0; margin: 0 0 22px; }
-.round-scoreboard > li { display: flex; flex-direction: column; align-items: center; gap: 9px; padding: 12px 3px; border: 1px solid #ffffff24; border-radius: 9px; color: #c5d3d4; background: #ffffff04; }
-.round-scoreboard > .playing { border-color: #a9d5b7; background: #bee6c712; }
+.round-scoreboard { list-style: none; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 6px; padding: 0; margin: 0 0 12px; }
+.round-scoreboard > li { display: flex; flex-wrap: wrap; align-content: center; justify-content: center; align-items: center; gap: 5px 6px; min-height: 46px; padding: 7px 3px; border: 1px solid #ffffff24; border-radius: 7px; color: #c5d3d4; background: #ffffff04; }
+.round-scoreboard > .current { border-color: #a9d5b7; background: #bee6c712; }
 .round-scoreboard > .scored { color: #dcefdc; }
-.scoreboard-round, .scoreboard-value { font-size: 12px; }
+.scoreboard-round { width: 100%; text-align: center; font-size: 11px; }
+.scoreboard-value { font-size: 10px; line-height: 1; }
 .scoreboard-dots { display: flex; gap: 5px; }
-.scoreboard-dots i { display: block; width: 10px; height: 10px; border: 1px solid #91a8ad; border-radius: 50%; }
+.scoreboard-dots i { display: block; width: 7px; height: 7px; border: 1px solid #91a8ad; border-radius: 50%; }
 .scoreboard-dots .earned { border-color: #bee6c7; background: #bee6c7; }
 .score-0 .scoreboard-value { color: #f0c4ae; }
 .previous-clues { margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--line); text-align: left; }
@@ -176,14 +177,16 @@ h1:focus, main:focus { outline: none; }
 .attempt-label strong { font-weight: 650; }
 .attempt-label.incorrect { color: #805433; }
 .attempt-label.correct { color: #275541; }
-.full-recap { text-align: left; border-top: 1px solid var(--line); padding-top: 28px; margin-bottom: 28px; }
-.full-recap > h2 { font-size: 25px; font-weight: 650; margin-bottom: 22px; }
-.recap-round + .recap-round { border-top: 1px solid var(--line); padding-top: 24px; margin-top: 24px; }
-.recap-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
-.recap-heading h3 { font-size: 16px; font-weight: 650; margin: 0; }
-.recap-heading > span { font-size: 14px; white-space: nowrap; color: var(--green); }
-.recap-answer { font-size: 17px; line-height: 1.5; margin: 10px 0 20px; color: var(--green); }
-.recap-answer > span { font-size: 14px; color: var(--muted); }
+.recap-hint { font-size: 12px; line-height: 1.5; color: var(--muted); margin-bottom: 12px; }
+.results-rounds { display: grid; gap: 8px; margin-bottom: 20px; text-align: left; }
+.recap-round { border: 1px solid #d6ddcf; border-radius: 10px; background: #f3f5ec; }
+.recap-round summary { display: flex; align-items: center; gap: 12px; padding: 12px 14px; cursor: pointer; list-style: none; border-radius: 10px; }
+.recap-round summary::-webkit-details-marker { display: none; }
+.recap-round summary:hover { background: #e9efdf; }
+.recap-round[open] summary { border-bottom: 1px solid var(--line); border-radius: 10px 10px 0 0; }
+.recap-chevron { width: 8px; height: 8px; flex-shrink: 0; border-right: 1.5px solid #526c51; border-bottom: 1.5px solid #526c51; transform: rotate(45deg); margin: -4px 2px 0 4px; }
+.recap-round[open] .recap-chevron { transform: rotate(225deg); margin-top: 4px; }
+.recap-round .review-clues { padding: 18px 14px; }
 .review-clues li { padding-left: 14px; border-left: 2px solid #d6dece; }
 .daily-average { display: flex; align-items: center; justify-content: space-between; gap: 18px; border: 1px solid #ffffff26; border-radius: 10px; padding: 15px 18px; margin: 0 0 20px; color: #dce8e4; background: #ffffff05; }
 .average-label { font-size: 12px; color: #bdd2c7; }
@@ -196,8 +199,52 @@ h1:focus, main:focus { outline: none; }
   .clue-question { font-size: 24px; line-height: 1.45; }
   .daily-average { align-items: flex-start; flex-direction: column; gap: 9px; padding: 14px 16px; }
   .average-note { max-width: 100%; text-align: left; }
-  .scoreboard-dots { gap: 4px; }.scoreboard-dots i { width: 9px; height: 9px; }
-  .round-scoreboard { gap: 6px; }.round-scoreboard > li { padding: 11px 2px; }
-  .recap-heading { gap: 8px; }.recap-heading h3 { font-size: 15px; }
+  .scoreboard-dots { gap: 3px; }
+  .round-scoreboard { gap: 4px; }.round-scoreboard > li { padding: 7px 2px; gap: 5px 4px; }
+  .recap-round summary { gap: 9px; padding: 12px 10px; }
+}
+
+/* Keep the question and answer controls close to the top on small screens. */
+.app-shell { padding-top: 0; }
+.site-header { padding: 12px 0; }
+.brand { font-size: 25px; }
+.edition-line { margin: 12px 0; }
+.game-status { margin: 0 0 10px; }
+.game-status p { font-size: 18px; margin: 0; }
+.score-display { padding: 0; gap: 9px; border: 0; background: transparent; }
+.score-display strong { font-size: 21px; }
+.game-card { padding: 22px 28px; }
+.clue-topline { margin-bottom: 16px; flex-wrap: wrap; gap: 8px; }
+.clue-position { font-size: 12px; letter-spacing: 0; white-space: nowrap; }
+.clue-position strong { font-weight: 650; color: var(--green); }
+.category-label { font-size: 11px; padding: 6px 9px; }
+.clue-question { min-height: 0; }
+.clue-feedback { min-height: 0; padding: 10px 0; }
+.answer-form { padding-top: 14px; }
+.answer-form label { margin-bottom: 6px; }
+.answer-form input { min-height: 48px; padding: 11px 13px; }
+.input-hint { margin: 7px 0 12px; line-height: 1.4; }
+.answer-actions .button { min-height: 44px; padding: 10px 16px; }
+.game-bottom { margin-top: 6px; }
+.site-footer { padding: 16px 0; }
+.results-card { padding-top: 22px; }
+.results-card h1 { margin-top: 10px; font-size: 32px; }
+.final-score { font-size: 76px; }
+.score-message { margin-bottom: 16px; font-size: 14px; }
+.results-card .daily-average { text-align: left; background: #eef2e8; border-color: var(--line); color: var(--ink); padding: 12px 14px; gap: 12px; margin-bottom: 18px; }
+.results-card .average-label, .results-card .average-note { color: #53674f; }
+.results-card .daily-average p strong, .results-card .average-note a { color: var(--green); }
+@media (max-width: 600px) {
+  .site-header { padding: 8px 0; }
+  .edition-line { margin: 10px 0; }
+  .game-card { padding: 18px; }
+  .clue-topline { margin-bottom: 12px; }
+  .clue-question { font-size: 22px; line-height: 1.4; }
+  .answer-actions { flex-direction: row; gap: 8px; }
+  .answer-actions .button { font-size: 13px; padding: 10px; gap: 8px; }
+  .site-footer { gap: 6px; }
+  .results-card { padding: 20px 16px 0; }
+  .results-card .daily-average { flex-direction: row; align-items: center; }
+  .results-card .average-note { max-width: 57%; font-size: 11px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
