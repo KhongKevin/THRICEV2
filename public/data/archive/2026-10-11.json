@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-11",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5238,
+      "category": "Science & Nature",
+      "answer": "Porcupine",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The unofficial mascot of the Libertarian Party is what rodent whose specialized hairs contain a natural antibiotic?"
+        },
+        {
+          "points": 2,
+          "question": "In addition to their more obvious defenses, the \"Crested\" species of what beaver-cousins have a mane they can raise up to intimidate predators?"
+        },
+        {
+          "points": 1,
+          "question": "Hedgehogs have spines and mostly eat insects, whereas what similar creature has quills and prefers plants?"
+        }
+      ]
+    },
+    {
+      "id": 5230,
+      "category": "Social Sciences",
+      "answer": "The Art of War",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Advocating for Roman military structures to be brought back, what's the only prose book written by Machiavelli that was published during his lifetime?"
+        },
+        {
+          "points": 2,
+          "question": "Written during China's Spring and Autumn Period, \"Maneuvering,\" \"Terrain,\"and \"Laying Plans\" are all sections of what other book with that title?"
+        },
+        {
+          "points": 1,
+          "question": "A possible descendant of Sun Tzu, Sun Bin is the author of another military treatise with what \"artsy\" title?"
+        }
+      ]
+    },
+    {
+      "id": 5240,
+      "category": "Consumer Stuff",
+      "answer": "Cocktail Sauce",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The UK's Marie Rose sauce is also called what name that refers to a condiment with a bit more zip stateside?"
+        },
+        {
+          "points": 2,
+          "question": "Originally invented for oysters, what pseudo-dressing is typically a mix of ketchup and Worcestershire sauce?"
+        },
+        {
+          "points": 1,
+          "question": "In the '50s, Las Vegas casinos popularized having shrimp in a sundae glass alongside what seafood sauce?"
+        }
+      ]
+    },
+    {
+      "id": 5236,
+      "category": "Arts & Culture",
+      "answer": "The Charge of the Light Brigade",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 1890, Rudyard Kipling wrote a rather sorrowful response to what 1854 war poem?"
+        },
+        {
+          "points": 2,
+          "question": "A failed maneuver from the Battle of Balaclava is immortalized in what poem with the line \"Theirs but to do and die\"?"
+        },
+        {
+          "points": 1,
+          "question": "\"Into the valley of Death / Rode the six hundred\" goes what Tennyson poem about 600 cavalryman from the Crimean War?"
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "category": "Entertainment",
+      "answer": "The Incredible Hulk",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Joe Fixit, a street smart Las Vegas bouncer, is one of the alter egos of what superhero?"
+        },
+        {
+          "points": 2,
+          "question": "The Leader, General Thaddeus Ross, and Zzzax have all had run-ins with gamma radiation and fought what cousin of Jennifer Walters?"
+        },
+        {
+          "points": 1,
+          "question": "\"The Avengers\" combined performances by Mark Ruffalo and Lou Ferigno to create what enormous green rage monster?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1200,
+    "dailyId": "1243",
+    "retrievedAt": "2026-10-11T16:26:37.568116+00:00"
+  }
+}

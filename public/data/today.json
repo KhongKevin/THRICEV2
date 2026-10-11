@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5239,
-      "category": "Consumer Stuff",
-      "answer": "Meow Mix",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Naturally, Eartha Kitt was one of the guests at a NYC pop-up café set up in 2004 by what orange-and-yellow pet food brand?"
-        },
-        {
-          "points": 2,
-          "question": "To make it look it was singing their oh-so repetitive jingle, in the 70s what brand used a looping a video of a cat coughing up a fur-ball?"
-        },
-        {
-          "points": 1,
-          "question": "Said feline sings \"I like salmon / I like chicken,\" expressing its undying affection for what cat food \"Mix\"?"
-        }
-      ]
-    },
-    {
-      "id": 5222,
-      "category": "Arts & Culture",
-      "answer": "Baroque",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Associated with Bernini and Velázquez, a Portuguese word meaning \"misshapen pearl\" is the namesake of what 17th-century art movement?"
-        },
-        {
-          "points": 2,
-          "question": "A response to the Counter Reformation, J. S. Bach and his harpsichord typify the ostentation and awe associated with what a B-style that preceded Rococo?"
-        },
-        {
-          "points": 1,
-          "question": "A classic art pun! In \"Beauty and the Beast\" Cogsworth is giving Belle a tour of their lofty castle when he remarks \"if it's not WHAT, don't fix it\"?"
-        }
-      ]
-    },
-    {
-      "id": 5231,
-      "category": "Social Sciences",
-      "answer": "Isthmus",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The Peloponnese peninsula is connected to the rest of Greece by a narrow land bridge called the WHAT of Corinth?"
-        },
-        {
-          "points": 2,
-          "question": "The Karelian in Europe and the Suez bridging North Africa and Asia are examples what landform whose name comes from the Greek for \"neck\"?"
-        },
-        {
-          "points": 1,
-          "question": "The Panama Canal goes through what sort of narrow landform that's a useful rhyme for \"Christmas\" in a rap battle?"
-        }
-      ]
-    },
-    {
-      "id": 5233,
-      "category": "Entertainment",
-      "answer": "Party",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Parker Posey, Alan Cumming, Jennifer Jason Leigh, and a bunch of other fun people squabbled while rolling on MDMA in 2001's \"The Anniversary WHAT\"?"
-        },
-        {
-          "points": 2,
-          "question": "Parker Posey learned librarian skills to fund designer outfits and warehouse throwdowns in the 1995 classic \"WHAT Girl\"?"
-        },
-        {
-          "points": 1,
-          "question": "Parker Posey played Brick, a culty artist encountered during the hunt for a missing lady in the 2010s dark comedy series \"Search WHAT\"?"
-        }
-      ]
-    },
-    {
-      "id": 5205,
+      "id": 5238,
       "category": "Science & Nature",
-      "answer": "Ayahuasca",
+      "answer": "Porcupine",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "\"Spirit rope\" is a rough translation for the name of what drug that's chock-full of DMT"
+          "question": "The unofficial mascot of the Libertarian Party is what rodent whose specialized hairs contain a natural antibiotic?"
         },
         {
           "points": 2,
-          "question": "In \"The Yagé Letters,\" William S. Burroughs writes about his Amazon quest to find whathallucinogen?"
+          "question": "In addition to their more obvious defenses, the \"Crested\" species of what beaver-cousins have a mane they can raise up to intimidate predators?"
         },
         {
           "points": 1,
-          "question": "Shamans have been known to blow mapacho tobacco smoke up the noses of people taking what South American drug beloved by dumbass quarterback Aaron Rodgers?"
+          "question": "Hedgehogs have spines and mostly eat insects, whereas what similar creature has quills and prefers plants?"
+        }
+      ]
+    },
+    {
+      "id": 5230,
+      "category": "Social Sciences",
+      "answer": "The Art of War",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Advocating for Roman military structures to be brought back, what's the only prose book written by Machiavelli that was published during his lifetime?"
+        },
+        {
+          "points": 2,
+          "question": "Written during China's Spring and Autumn Period, \"Maneuvering,\" \"Terrain,\"and \"Laying Plans\" are all sections of what other book with that title?"
+        },
+        {
+          "points": 1,
+          "question": "A possible descendant of Sun Tzu, Sun Bin is the author of another military treatise with what \"artsy\" title?"
+        }
+      ]
+    },
+    {
+      "id": 5240,
+      "category": "Consumer Stuff",
+      "answer": "Cocktail Sauce",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The UK's Marie Rose sauce is also called what name that refers to a condiment with a bit more zip stateside?"
+        },
+        {
+          "points": 2,
+          "question": "Originally invented for oysters, what pseudo-dressing is typically a mix of ketchup and Worcestershire sauce?"
+        },
+        {
+          "points": 1,
+          "question": "In the '50s, Las Vegas casinos popularized having shrimp in a sundae glass alongside what seafood sauce?"
+        }
+      ]
+    },
+    {
+      "id": 5236,
+      "category": "Arts & Culture",
+      "answer": "The Charge of the Light Brigade",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 1890, Rudyard Kipling wrote a rather sorrowful response to what 1854 war poem?"
+        },
+        {
+          "points": 2,
+          "question": "A failed maneuver from the Battle of Balaclava is immortalized in what poem with the line \"Theirs but to do and die\"?"
+        },
+        {
+          "points": 1,
+          "question": "\"Into the valley of Death / Rode the six hundred\" goes what Tennyson poem about 600 cavalryman from the Crimean War?"
+        }
+      ]
+    },
+    {
+      "id": 5228,
+      "category": "Entertainment",
+      "answer": "The Incredible Hulk",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Joe Fixit, a street smart Las Vegas bouncer, is one of the alter egos of what superhero?"
+        },
+        {
+          "points": 2,
+          "question": "The Leader, General Thaddeus Ross, and Zzzax have all had run-ins with gamma radiation and fought what cousin of Jennifer Walters?"
+        },
+        {
+          "points": 1,
+          "question": "\"The Avengers\" combined performances by Mark Ruffalo and Lou Ferigno to create what enormous green rage monster?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1199,
-    "dailyId": "1242",
-    "retrievedAt": "2026-10-10T15:58:16.816670+00:00"
+    "quizNumber": 1200,
+    "dailyId": "1243",
+    "retrievedAt": "2026-10-11T16:26:37.568116+00:00"
   }
 }
