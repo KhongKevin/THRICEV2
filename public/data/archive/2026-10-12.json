@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-12",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5226,
+      "category": "Consumer Stuff",
+      "answer": "Germany",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "China's Tsingtao Brewery started in the early 1900s, under the supervision of brewmasters from what country?"
+        },
+        {
+          "points": 2,
+          "question": "Wisconsin's New Glarus Brewing brews its Spotted Cow beer in accordance with the strictures of what country's Reinheitsgebot?"
+        },
+        {
+          "points": 1,
+          "question": "Pabst, Schlitz, and Miller (née Müller) are the products of immigrants from what Euro country?"
+        }
+      ]
+    },
+    {
+      "id": 5237,
+      "category": "Science & Nature",
+      "answer": "Grasshopper",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A whole lot of crème de menthe is used to make the dessert cocktail named after what insect from the suborder Caelifera?"
+        },
+        {
+          "points": 2,
+          "question": "A brown liquid, colloquially known as \"tobacco juice,\" get spat up by locusts and what related bug when they feel threatened?"
+        },
+        {
+          "points": 1,
+          "question": "While they can fly, most members of what insect group prefer to jump, even reaching heights of about two feet in a single bound?"
+        }
+      ]
+    },
+    {
+      "id": 5218,
+      "category": "Entertainment",
+      "answer": "Dexter",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Pretty fly for a white guy! The lead singer of The Offspring was born Bryan but goes by \"WHO Holland\"?"
+        },
+        {
+          "points": 2,
+          "question": "Dee Dee is the free-spirited older sister of the nerdy main character in Cartoon Network's \"WHO's Laboratory\"?"
+        },
+        {
+          "points": 1,
+          "question": "Carving his way through Miami, Michael C. Hall plays the title serial killer in the Showtime spin-off \"WHO: Resurrection\"?"
+        }
+      ]
+    },
+    {
+      "id": 5221,
+      "category": "Arts & Culture",
+      "answer": "​Girl with​ a ​Pearl Earring",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A maid named Griet is the title character of the Tracy Chevalier novel named after what prized possession of The Hague's Mauritshuis?"
+        },
+        {
+          "points": 2,
+          "question": "Dubbed \"The Mona Lisa of the North,\" what Johannes Vermeer depicts a woman wearing a blue and yellow turban?"
+        },
+        {
+          "points": 1,
+          "question": "Per the title, what 1665 Dutch painting depicts a young woman wearing a very shiny jewel from a clam on her ear?"
+        }
+      ]
+    },
+    {
+      "id": 5227,
+      "category": "Social Sciences",
+      "answer": "Blarney Stone",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "It's not true, but popular folklore holds that Cormac Láidir McCarthy received what object from the Scottish king Robert the Bruce?"
+        },
+        {
+          "points": 2,
+          "question": "Elizabeth I failed to take Dermot McCarthy's castle due to all his smooth talking, a skill he allegedly acquired from what Cork tourist attraction?"
+        },
+        {
+          "points": 1,
+          "question": "Visitors to Ireland are said to acquire the \"gift of the gab\" if they kiss what hunk of limestone?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1201,
+    "dailyId": "1244",
+    "retrievedAt": "2026-10-12T20:01:19.720987+00:00"
+  }
+}

@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5238,
-      "category": "Science & Nature",
-      "answer": "Porcupine",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The unofficial mascot of the Libertarian Party is what rodent whose specialized hairs contain a natural antibiotic?"
-        },
-        {
-          "points": 2,
-          "question": "In addition to their more obvious defenses, the \"Crested\" species of what beaver-cousins have a mane they can raise up to intimidate predators?"
-        },
-        {
-          "points": 1,
-          "question": "Hedgehogs have spines and mostly eat insects, whereas what similar creature has quills and prefers plants?"
-        }
-      ]
-    },
-    {
-      "id": 5230,
-      "category": "Social Sciences",
-      "answer": "The Art of War",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Advocating for Roman military structures to be brought back, what's the only prose book written by Machiavelli that was published during his lifetime?"
-        },
-        {
-          "points": 2,
-          "question": "Written during China's Spring and Autumn Period, \"Maneuvering,\" \"Terrain,\"and \"Laying Plans\" are all sections of what other book with that title?"
-        },
-        {
-          "points": 1,
-          "question": "A possible descendant of Sun Tzu, Sun Bin is the author of another military treatise with what \"artsy\" title?"
-        }
-      ]
-    },
-    {
-      "id": 5240,
+      "id": 5226,
       "category": "Consumer Stuff",
-      "answer": "Cocktail Sauce",
+      "answer": "Germany",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The UK's Marie Rose sauce is also called what name that refers to a condiment with a bit more zip stateside?"
+          "question": "China's Tsingtao Brewery started in the early 1900s, under the supervision of brewmasters from what country?"
         },
         {
           "points": 2,
-          "question": "Originally invented for oysters, what pseudo-dressing is typically a mix of ketchup and Worcestershire sauce?"
+          "question": "Wisconsin's New Glarus Brewing brews its Spotted Cow beer in accordance with the strictures of what country's Reinheitsgebot?"
         },
         {
           "points": 1,
-          "question": "In the '50s, Las Vegas casinos popularized having shrimp in a sundae glass alongside what seafood sauce?"
+          "question": "Pabst, Schlitz, and Miller (née Müller) are the products of immigrants from what Euro country?"
         }
       ]
     },
     {
-      "id": 5236,
-      "category": "Arts & Culture",
-      "answer": "The Charge of the Light Brigade",
+      "id": 5237,
+      "category": "Science & Nature",
+      "answer": "Grasshopper",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "In 1890, Rudyard Kipling wrote a rather sorrowful response to what 1854 war poem?"
+          "question": "A whole lot of crème de menthe is used to make the dessert cocktail named after what insect from the suborder Caelifera?"
         },
         {
           "points": 2,
-          "question": "A failed maneuver from the Battle of Balaclava is immortalized in what poem with the line \"Theirs but to do and die\"?"
+          "question": "A brown liquid, colloquially known as \"tobacco juice,\" get spat up by locusts and what related bug when they feel threatened?"
         },
         {
           "points": 1,
-          "question": "\"Into the valley of Death / Rode the six hundred\" goes what Tennyson poem about 600 cavalryman from the Crimean War?"
+          "question": "While they can fly, most members of what insect group prefer to jump, even reaching heights of about two feet in a single bound?"
         }
       ]
     },
     {
-      "id": 5228,
+      "id": 5218,
       "category": "Entertainment",
-      "answer": "The Incredible Hulk",
+      "answer": "Dexter",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Joe Fixit, a street smart Las Vegas bouncer, is one of the alter egos of what superhero?"
+          "question": "Pretty fly for a white guy! The lead singer of The Offspring was born Bryan but goes by \"WHO Holland\"?"
         },
         {
           "points": 2,
-          "question": "The Leader, General Thaddeus Ross, and Zzzax have all had run-ins with gamma radiation and fought what cousin of Jennifer Walters?"
+          "question": "Dee Dee is the free-spirited older sister of the nerdy main character in Cartoon Network's \"WHO's Laboratory\"?"
         },
         {
           "points": 1,
-          "question": "\"The Avengers\" combined performances by Mark Ruffalo and Lou Ferigno to create what enormous green rage monster?"
+          "question": "Carving his way through Miami, Michael C. Hall plays the title serial killer in the Showtime spin-off \"WHO: Resurrection\"?"
+        }
+      ]
+    },
+    {
+      "id": 5221,
+      "category": "Arts & Culture",
+      "answer": "​Girl with​ a ​Pearl Earring",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A maid named Griet is the title character of the Tracy Chevalier novel named after what prized possession of The Hague's Mauritshuis?"
+        },
+        {
+          "points": 2,
+          "question": "Dubbed \"The Mona Lisa of the North,\" what Johannes Vermeer depicts a woman wearing a blue and yellow turban?"
+        },
+        {
+          "points": 1,
+          "question": "Per the title, what 1665 Dutch painting depicts a young woman wearing a very shiny jewel from a clam on her ear?"
+        }
+      ]
+    },
+    {
+      "id": 5227,
+      "category": "Social Sciences",
+      "answer": "Blarney Stone",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "It's not true, but popular folklore holds that Cormac Láidir McCarthy received what object from the Scottish king Robert the Bruce?"
+        },
+        {
+          "points": 2,
+          "question": "Elizabeth I failed to take Dermot McCarthy's castle due to all his smooth talking, a skill he allegedly acquired from what Cork tourist attraction?"
+        },
+        {
+          "points": 1,
+          "question": "Visitors to Ireland are said to acquire the \"gift of the gab\" if they kiss what hunk of limestone?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1200,
-    "dailyId": "1243",
-    "retrievedAt": "2026-10-11T16:26:37.568116+00:00"
+    "quizNumber": 1201,
+    "dailyId": "1244",
+    "retrievedAt": "2026-10-12T20:01:19.720987+00:00"
   }
 }
