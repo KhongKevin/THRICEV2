@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-13",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5243,
+      "category": "Entertainment",
+      "answer": "Nets / Basketball nets",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Carron SOMETHING Company is the official supplier of what sporting good for the NBA and WNBA?"
+        },
+        {
+          "points": 2,
+          "question": "Back in the '40s, NC State coach Everett Case started the college tradition of taking down what piece of sporting equipment as a trophy?"
+        },
+        {
+          "points": 1,
+          "question": "For some reason, a simple ball is the logo for what Brooklyn NBA team?"
+        }
+      ]
+    },
+    {
+      "id": 5245,
+      "category": "Arts & Culture",
+      "answer": "Kiss / Kissing",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A young fella with wings gets a bit intimate in Antonio Canova's sculpture “Psyche Revived by Love's WHAT”?"
+        },
+        {
+          "points": 2,
+          "question": "A sailor gets overly fresh in public on VJ Day, in Victor Jorgensen's 1945 photo “WHATing the War Goodbye”?"
+        },
+        {
+          "points": 1,
+          "question": "Two bobbies swap spit in Banksy's 2004 mural \"WHATing Coppers”?"
+        }
+      ]
+    },
+    {
+      "id": 5244,
+      "category": "Science & Nature",
+      "answer": "Fibula",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Etruscans fastened clothing with a brooch archaeologists refer to by the name of what leg bone?"
+        },
+        {
+          "points": 2,
+          "question": "No lie: What's the slenderest of the human leg bones?"
+        },
+        {
+          "points": 1,
+          "question": "Because it happens at the distal end, \"ankle fracture\" is the name given to the most common break of what bone that's not the tibia?"
+        }
+      ]
+    },
+    {
+      "id": 5242,
+      "category": "Consumer Stuff",
+      "answer": "Camembert",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Dalí said the melting clocks in \"The Persistence of Memory\" were inspired by what soft-ripened Normandy cheese melting in the sun?"
+        },
+        {
+          "points": 2,
+          "question": "During World War I, French soldiers were issued what cheese that's sometimes confused with brie?"
+        },
+        {
+          "points": 1,
+          "question": "Breathable little poplar boxes prevented runny mishaps while shipping what cheese that anagrams to CAT MEMBER?"
+        }
+      ]
+    },
+    {
+      "id": 5241,
+      "category": "Social Sciences",
+      "answer": "Pakistan",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Shehbaz Sharif is the sitting prime minister of what country that borders Afghanistan?"
+        },
+        {
+          "points": 2,
+          "question": "The widower of Benazhir Bhutto, Asif Ali Zardari is the current president of what country that borders China?"
+        },
+        {
+          "points": 1,
+          "question": "Liaquat Ali Khan was the first PM of what country that shares an uneasy Kashmir border with India?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1202,
+    "dailyId": "1245",
+    "retrievedAt": "2026-10-13T17:50:06.840404+00:00"
+  }
+}
