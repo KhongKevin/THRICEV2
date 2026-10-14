@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-14",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5250,
+      "category": "Arts & Culture",
+      "answer": "English",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "With a libretto by Aphra Behn or Anne Kingsmill, John Blow's \"Venus and Adonis\" is the earliest surviving opera in what language?"
+        },
+        {
+          "points": 2,
+          "question": "Alice Goodman's libretto for John Adams's \"Nixon in China\" is in what language that's not any form of Chinese?"
+        },
+        {
+          "points": 1,
+          "question": "Annie Proulx's libretto for Charles Wuorinen's \"Brokeback Mountain\" is in what language with over a billion native speakers worldwide?"
+        }
+      ]
+    },
+    {
+      "id": 5249,
+      "category": "Science & Nature",
+      "answer": "Discover",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Peter Graves hosted the '80s \"World of Science\" PBS show created by what periodical?"
+        },
+        {
+          "points": 2,
+          "question": "\"This Newly Identified Species of Extinct Crocodile is Missing the Tip of Its Nose, Just Like the Great Sphinx.\" That's a recent headline from what science mag that's not affiliated with that \"Shark Week\" channel?"
+        },
+        {
+          "points": 1,
+          "question": "It pays to read what science magazine that shares a name with a major credit card?"
+        }
+      ]
+    },
+    {
+      "id": 5246,
+      "category": "Entertainment",
+      "answer": "Ali Wong",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Hustle and Pho\" is chapter five of \"Dear Girls,\" a memoir by what \"Beef\" Emmy winner?"
+        },
+        {
+          "points": 2,
+          "question": "\"Everyone has it\" and \"Men don't get it\" are parts of a Venn diagram dissecting part of what comedian's \"Baby Cobra\" special?"
+        },
+        {
+          "points": 1,
+          "question": "\"Single Lady\" and \"Don Wong\" are more recent specials from what stand-up?"
+        }
+      ]
+    },
+    {
+      "id": 5248,
+      "category": "Social Sciences",
+      "answer": "1940s",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Zoot Suit Riots rocked LA near the beginning of what decade that saw \"LAND\" yoinked from the HOLLYWOOD sign?"
+        },
+        {
+          "points": 2,
+          "question": "Ben Kingsley was born in what decade that saw the assassination of Mahatma Gandhi?"
+        },
+        {
+          "points": 1,
+          "question": "Iceland declared independence from Denmark in what decade that saw Germany occupy Denmark after Operation Weserübung?"
+        }
+      ]
+    },
+    {
+      "id": 5247,
+      "category": "Consumer Stuff",
+      "answer": "Corvette",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The C8 is Chevy's latest edition of what model that shares a name with a type of small warship?"
+        },
+        {
+          "points": 2,
+          "question": "On its 25th anniversary in 1978, what Chevy sports car model served as the Indy 500 pace car for the first of many times?"
+        },
+        {
+          "points": 1,
+          "question": "In a certain 1983 single, Prince sang about the distinct Stingray bodies of what Chevy sports car?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1203,
+    "dailyId": "1246",
+    "retrievedAt": "2026-10-14T15:33:37.101075+00:00"
+  }
+}
