@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-15",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5252,
+      "category": "Consumer Stuff",
+      "answer": "Chainsaw",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 1927, Dolmar founder Emil Lerp invented the first gas-powered version of what tool?"
+        },
+        {
+          "points": 2,
+          "question": "Thanks to the MS 261 C-M and MSA 300, Stihl is the world's leading seller of what cutting tool?"
+        },
+        {
+          "points": 1,
+          "question": "In the original 1974 film, Leatherface uses a Poulan 245A version of what very loud tool?"
+        }
+      ]
+    },
+    {
+      "id": 5259,
+      "category": "Arts & Culture",
+      "answer": "The Taming of the Shrew",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "John Kendrick Bangs's 1888 operetta \"Katherine: A Travesty\" adapted what Italian-set Shakespeare comedy?"
+        },
+        {
+          "points": 2,
+          "question": "Cole Porter's \"Kiss Me, Kate\" gave the Broadway treatment to what Shakespeare love story?"
+        },
+        {
+          "points": 1,
+          "question": "\"10 Things I Hate About You\" and \"Deliver Us from Eva\" are modern stabs at what Shakespeare comedy that isn't actually about tiny insectivorous mammals?"
+        }
+      ]
+    },
+    {
+      "id": 5251,
+      "category": "Entertainment",
+      "answer": "Psycho",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Groupie! Cocaine! Crazy!\" Are the second, third, and fourth words in what 2001 System of a Down song?"
+        },
+        {
+          "points": 2,
+          "question": "In a 2018 single, Post Malone rhymes \"Michael\" with the title of what song that shares its name with a 1960 horror film?"
+        },
+        {
+          "points": 1,
+          "question": "The Bates Motel at Universal Studios Hollywood served as a backdrop in the video for what 2007 Puddle of Mudd song?"
+        }
+      ]
+    },
+    {
+      "id": 5255,
+      "category": "Science & Nature",
+      "answer": "Gallium",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Even though it can melt in the palm of your hand, many semiconductors today are built using a compound of Arsenic and what metal that's 31 on the periodic table?"
+        },
+        {
+          "points": 2,
+          "question": "Before it was officially discovered, Mendeleev used the placeholder \"eka-aluminum\" for what silvery element?"
+        },
+        {
+          "points": 1,
+          "question": "The two chemical elements named after France are Francium, duh, and what soft metal NOT named after Gaul?"
+        }
+      ]
+    },
+    {
+      "id": 5258,
+      "category": "Social Sciences",
+      "answer": "Jill Biden",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Inspired by her granddaughter Natalie, \"Don't Forget, God Bless Our Troops\" is a young reader by what Delaware Boots on the Ground volunteer?"
+        },
+        {
+          "points": 2,
+          "question": "\"Willow the White House Cat\" is another book for younguns by what former first lady?"
+        },
+        {
+          "points": 1,
+          "question": "Beau's death and Hunter's addiction are covered in \"View from the East Wing: A Memoir\" by what former first lady?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1204,
+    "dailyId": "1247",
+    "retrievedAt": "2026-10-15T15:21:25.319645+00:00"
+  }
+}
