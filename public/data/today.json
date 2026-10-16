@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5252,
-      "category": "Consumer Stuff",
-      "answer": "Chainsaw",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "In 1927, Dolmar founder Emil Lerp invented the first gas-powered version of what tool?"
-        },
-        {
-          "points": 2,
-          "question": "Thanks to the MS 261 C-M and MSA 300, Stihl is the world's leading seller of what cutting tool?"
-        },
-        {
-          "points": 1,
-          "question": "In the original 1974 film, Leatherface uses a Poulan 245A version of what very loud tool?"
-        }
-      ]
-    },
-    {
-      "id": 5259,
+      "id": 5254,
       "category": "Arts & Culture",
-      "answer": "The Taming of the Shrew",
+      "answer": "Oh, the Places You'll Go!",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "John Kendrick Bangs's 1888 operetta \"Katherine: A Travesty\" adapted what Italian-set Shakespeare comedy?"
+          "question": "What was the last book by Dr. Seuss to be published during his lifetime?"
         },
         {
           "points": 2,
-          "question": "Cole Porter's \"Kiss Me, Kate\" gave the Broadway treatment to what Shakespeare love story?"
+          "question": "A popular gift for graduates, what book about leaving your hometown sees a massive sales spike every April-June?"
         },
         {
           "points": 1,
-          "question": "\"10 Things I Hate About You\" and \"Deliver Us from Eva\" are modern stabs at what Shakespeare comedy that isn't actually about tiny insectivorous mammals?"
+          "question": "An area \"where the streets are not marked\" is one of the potential destinations spelled out in the 1990 book with what rhyming title?"
         }
       ]
     },
     {
-      "id": 5251,
+      "id": 5256,
       "category": "Entertainment",
-      "answer": "Psycho",
+      "answer": "The Munsters",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "\"Groupie! Cocaine! Crazy!\" Are the second, third, and fourth words in what 2001 System of a Down song?"
+          "question": "1313 Mockingbird Lane was the address of the titular family on what '60s sitcom?"
         },
         {
           "points": 2,
-          "question": "In a 2018 single, Post Malone rhymes \"Michael\" with the title of what song that shares its name with a 1960 horror film?"
+          "question": "Shot on the Universal lot, what spooky sitcom based its characters' appearances on that company's classic movie monsters?"
         },
         {
           "points": 1,
-          "question": "The Bates Motel at Universal Studios Hollywood served as a backdrop in the video for what 2007 Puddle of Mudd song?"
+          "question": "\"We sort of stole the idea from Charles Addams,\" said co-creator Allan Burns about what show that was an obvious \"Addams Family\" rip-off?"
         }
       ]
     },
     {
-      "id": 5255,
+      "id": 5260,
       "category": "Science & Nature",
-      "answer": "Gallium",
+      "answer": "Mole",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Even though it can melt in the palm of your hand, many semiconductors today are built using a compound of Arsenic and what metal that's 31 on the periodic table?"
+          "question": "What SI unit measuring the amount of a substance shares its name with a big-ass architectural structure separating bodies of water?"
         },
         {
           "points": 2,
-          "question": "Before it was officially discovered, Mendeleev used the placeholder \"eka-aluminum\" for what silvery element?"
+          "question": "\"Relation to the Avogadro constant\" is a heading on the Wikipedia page for which SI unit of measurement with the same spelling as a rich Mexican sauce?"
         },
         {
           "points": 1,
-          "question": "The two chemical elements named after France are Francium, duh, and what soft metal NOT named after Gaul?"
+          "question": "Equal to 6.02214076×10^23 of something, what SI unit shares its name with a mammal that loves digging?"
         }
       ]
     },
     {
-      "id": 5258,
-      "category": "Social Sciences",
-      "answer": "Jill Biden",
+      "id": 5257,
+      "category": "Consumer Stuff",
+      "answer": "Bowler / Derby",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Inspired by her granddaughter Natalie, \"Don't Forget, God Bless Our Troops\" is a young reader by what Delaware Boots on the Ground volunteer?"
+          "question": "Originally designed by hatmakers Thomas and William SOMETHING, what headwear was designed for gamekeepers whose top hats got snagged on trees?"
         },
         {
           "points": 2,
-          "question": "\"Willow the White House Cat\" is another book for younguns by what former first lady?"
+          "question": "\"The hat that won the West\" was a plaudit for what round, non-cowboy hat favored by Butch Cassidy?"
         },
         {
           "points": 1,
-          "question": "Beau's death and Hunter's addiction are covered in \"View from the East Wing: A Memoir\" by what former first lady?"
+          "question": "Charlie Chaplin and René Magritte were big fans of what type of hat that didn't make a single appearance in \"The Big Lebowski\"?"
+        }
+      ]
+    },
+    {
+      "id": 5253,
+      "category": "Social Sciences",
+      "answer": "Ireland",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Built as a memorial to a conflict that raged from the '60s to the '90s, the Cupar Way Peace Wall is on what island?"
+        },
+        {
+          "points": 2,
+          "question": "1972's Bloody Sunday was a turning point in a long period of struggle on what island?"
+        },
+        {
+          "points": 1,
+          "question": "Lough Foyle and Carlingford Lough are the inlets at either of the border between the UK and a certain other country, on what island?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1204,
-    "dailyId": "1247",
-    "retrievedAt": "2026-10-15T15:21:25.319645+00:00"
+    "quizNumber": 1205,
+    "dailyId": "1248",
+    "retrievedAt": "2026-10-16T15:02:05.170239+00:00"
   }
 }
