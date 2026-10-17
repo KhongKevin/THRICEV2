@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5254,
-      "category": "Arts & Culture",
-      "answer": "Oh, the Places You'll Go!",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "What was the last book by Dr. Seuss to be published during his lifetime?"
-        },
-        {
-          "points": 2,
-          "question": "A popular gift for graduates, what book about leaving your hometown sees a massive sales spike every April-June?"
-        },
-        {
-          "points": 1,
-          "question": "An area \"where the streets are not marked\" is one of the potential destinations spelled out in the 1990 book with what rhyming title?"
-        }
-      ]
-    },
-    {
-      "id": 5256,
-      "category": "Entertainment",
-      "answer": "The Munsters",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "1313 Mockingbird Lane was the address of the titular family on what '60s sitcom?"
-        },
-        {
-          "points": 2,
-          "question": "Shot on the Universal lot, what spooky sitcom based its characters' appearances on that company's classic movie monsters?"
-        },
-        {
-          "points": 1,
-          "question": "\"We sort of stole the idea from Charles Addams,\" said co-creator Allan Burns about what show that was an obvious \"Addams Family\" rip-off?"
-        }
-      ]
-    },
-    {
-      "id": 5260,
-      "category": "Science & Nature",
-      "answer": "Mole",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "What SI unit measuring the amount of a substance shares its name with a big-ass architectural structure separating bodies of water?"
-        },
-        {
-          "points": 2,
-          "question": "\"Relation to the Avogadro constant\" is a heading on the Wikipedia page for which SI unit of measurement with the same spelling as a rich Mexican sauce?"
-        },
-        {
-          "points": 1,
-          "question": "Equal to 6.02214076×10^23 of something, what SI unit shares its name with a mammal that loves digging?"
-        }
-      ]
-    },
-    {
-      "id": 5257,
-      "category": "Consumer Stuff",
-      "answer": "Bowler / Derby",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Originally designed by hatmakers Thomas and William SOMETHING, what headwear was designed for gamekeepers whose top hats got snagged on trees?"
-        },
-        {
-          "points": 2,
-          "question": "\"The hat that won the West\" was a plaudit for what round, non-cowboy hat favored by Butch Cassidy?"
-        },
-        {
-          "points": 1,
-          "question": "Charlie Chaplin and René Magritte were big fans of what type of hat that didn't make a single appearance in \"The Big Lebowski\"?"
-        }
-      ]
-    },
-    {
-      "id": 5253,
+      "id": 5262,
       "category": "Social Sciences",
-      "answer": "Ireland",
+      "answer": "William Howard Taft",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Built as a memorial to a conflict that raged from the '60s to the '90s, the Cupar Way Peace Wall is on what island?"
+          "question": "In office when the 16th Amendment was ratified, what Yale grad was the Governor-General of the Philippines prior to becoming our 27th president?"
         },
         {
           "points": 2,
-          "question": "1972's Bloody Sunday was a turning point in a long period of struggle on what island?"
+          "question": "Tying up loose ends from the Teapot Dome Scandal, McGrain v. Daugherty was a case tried by what Chief Justice of the Supreme Court?"
         },
         {
           "points": 1,
-          "question": "Lough Foyle and Carlingford Lough are the inlets at either of the border between the UK and a certain other country, on what island?"
+          "question": "Usher Ike Hoover perpetuated the myth that what roly-poly POTUS once got stuck in a White House bathtub?"
+        }
+      ]
+    },
+    {
+      "id": 5263,
+      "category": "Consumer Stuff",
+      "answer": "Nordstrom",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Once a mere shoe shop in Seattle, what department store chain now celebrates its origins with a massive anniversary sale each July?"
+        },
+        {
+          "points": 2,
+          "question": "Named for Swedish immigrant John W. Something, what fashion retailer trades under the symbol \"JWN\"?"
+        },
+        {
+          "points": 1,
+          "question": "What chain's \"Rack\" sister store is a good place to hunt for off-price offerings?"
+        }
+      ]
+    },
+    {
+      "id": 5261,
+      "category": "Entertainment",
+      "answer": "Modern Family",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "For playing Sal, Tad, and Pepper Saltzman, respectively, Elizabeth Banks, Greg Kinnear, and Nathan Lane all received Emmy nominations for what 11-season show?"
+        },
+        {
+          "points": 2,
+          "question": "Phil Dunphy swears he'll \"fix that step\" every time he trips on the stairs, in a running gag from what ABC sitcom?"
+        },
+        {
+          "points": 1,
+          "question": "With their daughter Lily acting as flower girl, Mitchell and Cameron tied the knot in a historic gay wedding featured on what show about them and their relatives?"
+        }
+      ]
+    },
+    {
+      "id": 5265,
+      "category": "Arts & Culture",
+      "answer": "The Garden of Earthly Delights",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A giant with its egg-like body impaled on a tree is thought to be a secret self-portrait in what work that's on display in the Prado?"
+        },
+        {
+          "points": 2,
+          "question": "Finished sometime between 1490 and 1510, the right side of what 13-foot-wide triptych depicts people being tortured by demons with musical instruments?"
+        },
+        {
+          "points": 1,
+          "question": "Eden is depicted on the left side of what bonkers Hieronymous Bosch work that's named after the greenscape at its center?"
+        }
+      ]
+    },
+    {
+      "id": 5264,
+      "category": "Science & Nature",
+      "answer": "Pluto",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Charon is the largest natural satellite of what space rock?"
+        },
+        {
+          "points": 2,
+          "question": "Custom-building a bunch of telescopes got Clyde Tombaugh a job at the Lowell Observatory, where he made what major discovery in 1930?"
+        },
+        {
+          "points": 1,
+          "question": "We all had to learn what a dwarf planet was, when what largest trans-Neptunian object by volume got demoted to that status in 2006?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1205,
-    "dailyId": "1248",
-    "retrievedAt": "2026-10-16T15:02:05.170239+00:00"
+    "quizNumber": 1206,
+    "dailyId": "1249",
+    "retrievedAt": "2026-10-17T13:58:58.587009+00:00"
   }
 }
