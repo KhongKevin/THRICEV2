@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-18",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5268,
+      "category": "Science & Nature",
+      "answer": "Weasel",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Known for its fluorescent winter coat, the \"least\" species of what animal is the smallest carnivorous mammal in the world?"
+        },
+        {
+          "points": 2,
+          "question": "Known for their distinctive scent glands, another name for stoats/ermines is \"short-tailed WHATS\"?"
+        },
+        {
+          "points": 1,
+          "question": "In honor of a certain slippery ferret cousin, a speech that tries to sound specific but is actually vague and irrelevant is said to be full of \"WHAT words\"?"
+        }
+      ]
+    },
+    {
+      "id": 5266,
+      "category": "Entertainment",
+      "answer": "Adam Sandler",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Known for the songs \"Lunchlady Land\" and \"Farley,\" what part-time musician co-wrote the song \"Grow Old with You\"?"
+        },
+        {
+          "points": 2,
+          "question": "Opera Man and the Herlihy Boy were original SNL characters played by what star of the \"Grown Ups\" franchise?"
+        },
+        {
+          "points": 1,
+          "question": "\"Billy Madison,\" \"Happy Gilmore,\" and \"Mr. Deeds\" were all title roles for what funny man and writer of the \"Chanukah Song\"?"
+        }
+      ]
+    },
+    {
+      "id": 5270,
+      "category": "Social Sciences",
+      "answer": "Syria",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Lasting from 1958-1971, the United Arab Republic was a joint country merging Egypt with what non-neighbor?"
+        },
+        {
+          "points": 2,
+          "question": "Ending when Bashar al-Assad fled in 2024, what country's civil war included the four-year-long Battle of Aleppo?"
+        },
+        {
+          "points": 1,
+          "question": "Damascus is the capital of what Middle Eastern nation squeezed between Turkey and the Mediterranean?"
+        }
+      ]
+    },
+    {
+      "id": 5269,
+      "category": "Arts & Culture",
+      "answer": "Richard Wagner",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "For taking part in the 1849 May Uprising in Dresden, what composer was exiled just after completing the opera \"Lohengrin\"?"
+        },
+        {
+          "points": 2,
+          "question": "Brunhilde sets Valhalla on fire and Siegfried slays the dragon Fafner, in the famously-bombastic works of what German?"
+        },
+        {
+          "points": 1,
+          "question": "Franz Liszt composed \"R.W. - Venezia\" to memorialize what contemporary who wrote the \"Ride of the Valkyries\"?"
+        }
+      ]
+    },
+    {
+      "id": 5267,
+      "category": "Consumer Stuff",
+      "answer": "I Can't Believe It's Not Butter",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Appearing in their commercials dressed as Tarzan, Fabio has been the spokesman for what spreadable brand since 1994?"
+        },
+        {
+          "points": 2,
+          "question": "What Flora Food Group product got its name from a quote by a flabbergasted taste-tester?"
+        },
+        {
+          "points": 1,
+          "question": "Technically vegetable oil, not margarine, what six-word Flora Foods brand comes in little yellow tubs?+"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1207,
+    "dailyId": "1250",
+    "retrievedAt": "2026-10-18T14:11:13.859258+00:00"
+  }
+}
