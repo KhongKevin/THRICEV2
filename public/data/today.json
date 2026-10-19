@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5268,
-      "category": "Science & Nature",
-      "answer": "Weasel",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Known for its fluorescent winter coat, the \"least\" species of what animal is the smallest carnivorous mammal in the world?"
-        },
-        {
-          "points": 2,
-          "question": "Known for their distinctive scent glands, another name for stoats/ermines is \"short-tailed WHATS\"?"
-        },
-        {
-          "points": 1,
-          "question": "In honor of a certain slippery ferret cousin, a speech that tries to sound specific but is actually vague and irrelevant is said to be full of \"WHAT words\"?"
-        }
-      ]
-    },
-    {
-      "id": 5266,
+      "id": 5271,
       "category": "Entertainment",
-      "answer": "Adam Sandler",
+      "answer": "Candy Land",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Known for the songs \"Lunchlady Land\" and \"Farley,\" what part-time musician co-wrote the song \"Grow Old with You\"?"
+          "question": "Eleanor Abbott was recovering from polio when she invented what game that uses a deck of colorful cards to move pieces around the board?"
         },
         {
           "points": 2,
-          "question": "Opera Man and the Herlihy Boy were original SNL characters played by what star of the \"Grown Ups\" franchise?"
+          "question": "The characters Queen Frostine, Gramma Nutt, and Gloppy have appeared in various iterations of what Milton Bradley property?"
         },
         {
           "points": 1,
-          "question": "\"Billy Madison,\" \"Happy Gilmore,\" and \"Mr. Deeds\" were all title roles for what funny man and writer of the \"Chanukah Song\"?"
+          "question": "Sweetness! The Lollipop Woods and the Molasses Swamp are both locations in what board game land?"
         }
       ]
     },
     {
-      "id": 5270,
-      "category": "Social Sciences",
-      "answer": "Syria",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Lasting from 1958-1971, the United Arab Republic was a joint country merging Egypt with what non-neighbor?"
-        },
-        {
-          "points": 2,
-          "question": "Ending when Bashar al-Assad fled in 2024, what country's civil war included the four-year-long Battle of Aleppo?"
-        },
-        {
-          "points": 1,
-          "question": "Damascus is the capital of what Middle Eastern nation squeezed between Turkey and the Mediterranean?"
-        }
-      ]
-    },
-    {
-      "id": 5269,
+      "id": 5275,
       "category": "Arts & Culture",
-      "answer": "Richard Wagner",
+      "answer": "Babar the Elephant",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "For taking part in the 1849 May Uprising in Dresden, what composer was exiled just after completing the opera \"Lohengrin\"?"
+          "question": "Taught manners by \"Old Lady,\" what children's book character married Celeste and fends off an invasion from Lord Rataxes?"
         },
         {
           "points": 2,
-          "question": "Brunhilde sets Valhalla on fire and Siegfried slays the dragon Fafner, in the famously-bombastic works of what German?"
+          "question": "Jean and Laurent de Brunhoff wrote stories about what animal king who exercises everyday before his morning croissant?"
         },
         {
           "points": 1,
-          "question": "Franz Liszt composed \"R.W. - Venezia\" to memorialize what contemporary who wrote the \"Ride of the Valkyries\"?"
+          "question": "What bedtime story pachyderm typically dresses in a smart green suit, red bowtie, and a yellow crown or bowler hat?"
         }
       ]
     },
     {
-      "id": 5267,
+      "id": 5273,
       "category": "Consumer Stuff",
-      "answer": "I Can't Believe It's Not Butter",
+      "answer": "Pomegranate",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Appearing in their commercials dressed as Tarzan, Fabio has been the spokesman for what spreadable brand since 1994?"
+          "question": "The Mexican dish chiles en nogada is traditionally topped with the red seeds of what sweet fruit?"
         },
         {
           "points": 2,
-          "question": "What Flora Food Group product got its name from a quote by a flabbergasted taste-tester?"
+          "question": "The word \"grenade\" comes from the French name for what fruit?"
         },
         {
           "points": 1,
-          "question": "Technically vegetable oil, not margarine, what six-word Flora Foods brand comes in little yellow tubs?+"
+          "question": "Hence the name of that juice, the \"Wonderful\" is the most widely grown variety of what seedy, seedy fruit?"
+        }
+      ]
+    },
+    {
+      "id": 5272,
+      "category": "Social Sciences",
+      "answer": "Theseus",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Wrestling the demi-god bandit Periphetes was one of the Six Labors of what mythical Greek hero who's definitely not Herakles?"
+        },
+        {
+          "points": 2,
+          "question": "If you keep replacing a boat's parts with new ones, at what point is it not the same boat? That's a famous philosophical problem called the Ship of WHO?"
+        },
+        {
+          "points": 1,
+          "question": "Not to be confused with Perseus or Odysseus, what other \"eus\" is best known for slaying the minotaur?"
+        }
+      ]
+    },
+    {
+      "id": 5274,
+      "category": "Science & Nature",
+      "answer": "David Attenborough",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The rarest of the four species of echidna is named after what British naturalist?"
+        },
+        {
+          "points": 2,
+          "question": "Considered the first nature documentary series, \"Zoo Quest\" was hosted by what broadcaster who turned 100 in May?"
+        },
+        {
+          "points": 1,
+          "question": "Brother of that \"Jurassic Park\" actor, \"Planet Earth\" and the \"Life\" series were both narrated by Sir David WHO?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1207,
-    "dailyId": "1250",
-    "retrievedAt": "2026-10-18T14:11:13.859258+00:00"
+    "quizNumber": 1208,
+    "dailyId": "1251",
+    "retrievedAt": "2026-10-19T17:13:17.543783+00:00"
   }
 }
