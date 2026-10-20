@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5271,
-      "category": "Entertainment",
-      "answer": "Candy Land",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Eleanor Abbott was recovering from polio when she invented what game that uses a deck of colorful cards to move pieces around the board?"
-        },
-        {
-          "points": 2,
-          "question": "The characters Queen Frostine, Gramma Nutt, and Gloppy have appeared in various iterations of what Milton Bradley property?"
-        },
-        {
-          "points": 1,
-          "question": "Sweetness! The Lollipop Woods and the Molasses Swamp are both locations in what board game land?"
-        }
-      ]
-    },
-    {
-      "id": 5275,
-      "category": "Arts & Culture",
-      "answer": "Babar the Elephant",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Taught manners by \"Old Lady,\" what children's book character married Celeste and fends off an invasion from Lord Rataxes?"
-        },
-        {
-          "points": 2,
-          "question": "Jean and Laurent de Brunhoff wrote stories about what animal king who exercises everyday before his morning croissant?"
-        },
-        {
-          "points": 1,
-          "question": "What bedtime story pachyderm typically dresses in a smart green suit, red bowtie, and a yellow crown or bowler hat?"
-        }
-      ]
-    },
-    {
-      "id": 5273,
+      "id": 5279,
       "category": "Consumer Stuff",
-      "answer": "Pomegranate",
+      "answer": "Straws",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The Mexican dish chiles en nogada is traditionally topped with the red seeds of what sweet fruit?"
+          "question": "Dissatisfied with using rye grass, in 1888 Marvin Stone patented the first modern paper example of what implement?"
         },
         {
           "points": 2,
-          "question": "The word \"grenade\" comes from the French name for what fruit?"
+          "question": "Due largely to disability advocates, California's 2019 \"ban\" on what plastic items stipulates that restaurants have them available on request?"
         },
         {
           "points": 1,
-          "question": "Hence the name of that juice, the \"Wonderful\" is the most widely grown variety of what seedy, seedy fruit?"
+          "question": "However you pop your juice box, keep in mind \"articulated\" is the official industry term for \"bendy WHATS\"?"
         }
       ]
     },
     {
-      "id": 5272,
-      "category": "Social Sciences",
-      "answer": "Theseus",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Wrestling the demi-god bandit Periphetes was one of the Six Labors of what mythical Greek hero who's definitely not Herakles?"
-        },
-        {
-          "points": 2,
-          "question": "If you keep replacing a boat's parts with new ones, at what point is it not the same boat? That's a famous philosophical problem called the Ship of WHO?"
-        },
-        {
-          "points": 1,
-          "question": "Not to be confused with Perseus or Odysseus, what other \"eus\" is best known for slaying the minotaur?"
-        }
-      ]
-    },
-    {
-      "id": 5274,
+      "id": 5280,
       "category": "Science & Nature",
-      "answer": "David Attenborough",
+      "answer": "Barracuda",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The rarest of the four species of echidna is named after what British naturalist?"
+          "question": "A vicious technique called \"ram-biting\" is used by the six-foot-long \"great\" species of what fish from the genus sphyraena?"
         },
         {
           "points": 2,
-          "question": "Considered the first nature documentary series, \"Zoo Quest\" was hosted by what broadcaster who turned 100 in May?"
+          "question": "Snorkelers in the Caribbean are advised not to wear jewelry, as shiny objects are often mistaken for prey by what pelagic fish?"
         },
         {
           "points": 1,
-          "question": "Brother of that \"Jurassic Park\" actor, \"Planet Earth\" and the \"Life\" series were both narrated by Sir David WHO?"
+          "question": "What long, sinewy fish with several backwards teeth was used as a metaphor by the band Heart in a 1977 hit?"
+        }
+      ]
+    },
+    {
+      "id": 5281,
+      "category": "Arts & Culture",
+      "answer": "Babel",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Jorge Luis Borges described a universe consisting of every possible 410-page book, in his short story \"The Library of WHAT\"?"
+        },
+        {
+          "points": 2,
+          "question": "In \"The Hitchhiker's Guide to the Galaxy,\" our heroes are able to understand any language after placing a WHAT Fish inside their ears?"
+        },
+        {
+          "points": 1,
+          "question": "A German app that teaches you all the world's tongues is named for the mythical Tower of WHAT?"
+        }
+      ]
+    },
+    {
+      "id": 5277,
+      "category": "Social Sciences",
+      "answer": "Iwo Jima",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "What volcanic isle in the Bonin Archipelago has a name that means \"Sulfur Island\" in Japanese?"
+        },
+        {
+          "points": 2,
+          "question": "In 1945, Joe Rosenthal won a Pulitzer for his photo of six marines atop what island's Mount Suribachi?"
+        },
+        {
+          "points": 1,
+          "question": "Inspired by said photo, the book \"Flags of Our Fathers,\" documents the bloody WWII battle fought on what island?"
+        }
+      ]
+    },
+    {
+      "id": 5278,
+      "category": "Entertainment",
+      "answer": "Revelation",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Zack Snyder's \"Dawn of the Dead\" trots out Johnny Cash reading a doom-laden line from which Bible book?"
+        },
+        {
+          "points": 2,
+          "question": "The movie \"Tombstone\" quotes that same \"behold a pale horse\" bit from what final New Testament book?"
+        },
+        {
+          "points": 1,
+          "question": "\"The Omen\" closes its first chapter of antichristery with a \"number of the beast\" quote from what Bible book about the end of the world?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1208,
-    "dailyId": "1251",
-    "retrievedAt": "2026-10-19T17:13:17.543783+00:00"
+    "quizNumber": 1209,
+    "dailyId": "1252",
+    "retrievedAt": "2026-10-20T15:24:43.194954+00:00"
   }
 }
