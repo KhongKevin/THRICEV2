@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-21",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5288,
+      "category": "Social Sciences",
+      "answer": "Fidel Castro",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Packing a conch with explosives was one over 600 confirmed plans by the CIA to assassinate what world leader?"
+        },
+        {
+          "points": 2,
+          "question": "JFK was assassinated almost at exactly the same time as a CIA agent passed a poisoned pen to what world leader?"
+        },
+        {
+          "points": 1,
+          "question": "\"If surviving assassination attempts were an Olympic event, I would win the gold medal.\" So said what former Cuban leader who died of natural causes?"
+        }
+      ]
+    },
+    {
+      "id": 5287,
+      "category": "Science & Nature",
+      "answer": "Two",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "What digit comes after the first \"9\" in pi?"
+        },
+        {
+          "points": 2,
+          "question": "Named after sons of Ares, how many moons does Mars have?"
+        },
+        {
+          "points": 1,
+          "question": "Yeah, that makes sense: How many astronauts flew on each of the crewed Gemini missions?"
+        }
+      ]
+    },
+    {
+      "id": 5282,
+      "category": "Entertainment",
+      "answer": "Carpenter",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The lead vocalist on 1970's \"We've Only Just Begun\" and 1973's \"Top of the World\" has what last name?"
+        },
+        {
+          "points": 2,
+          "question": "The filmmaker who got a credit for his own score on \"Escape from New York\" and \"Christine\" has what last name?"
+        },
+        {
+          "points": 1,
+          "question": "The Disney star with the number one hits \"Espresso\" and \"Please Please Please\" has what surname?"
+        }
+      ]
+    },
+    {
+      "id": 5286,
+      "category": "Arts & Culture",
+      "answer": "Opera",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Real Teatro di San Carlo in Napoli is the world's oldest continually operating venue for what art form?"
+        },
+        {
+          "points": 2,
+          "question": "The name of that New York institution known as \"The Met\" is short for a building whose full name contains what type of music?"
+        },
+        {
+          "points": 1,
+          "question": "What type of music is found in the name of that sailboat-looking venue in Sydney?"
+        }
+      ]
+    },
+    {
+      "id": 5284,
+      "category": "Consumer Stuff",
+      "answer": "Fuji",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Team Japan's bikes for the '68, '72, and '76 Olympics were designed by Dr Shoichiro Sugihara, chief engineer for what company?"
+        },
+        {
+          "points": 2,
+          "question": "What Japanese camera company creates the alliterative FinePix camera models?"
+        },
+        {
+          "points": 1,
+          "question": "When a Red Delicious and a Ralls Janet apple love each other very much, you get what apple variety named for Japan's tallest mountain?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1210,
+    "dailyId": "1253",
+    "retrievedAt": "2026-10-21T15:40:28.622767+00:00"
+  }
+}
