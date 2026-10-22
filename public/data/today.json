@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5288,
+      "id": 5289,
       "category": "Social Sciences",
-      "answer": "Fidel Castro",
+      "answer": "Loch Ness",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Packing a conch with explosives was one over 600 confirmed plans by the CIA to assassinate what world leader?"
+          "question": "Destroyed in 1692 so it wouldn't fall into Jacobite hands, the ruins of Urquhart Castle are on the shores of what tea-colored lake?"
         },
         {
           "points": 2,
-          "question": "JFK was assassinated almost at exactly the same time as a CIA agent passed a poisoned pen to what world leader?"
+          "question": "Both the \"Surgeon's Photograph\" and the \"Dinsdale Film\" depict what freshwater lake found near the Highland town of Drumnadrochit?"
         },
         {
           "points": 1,
-          "question": "\"If surviving assassination attempts were an Olympic event, I would win the gold medal.\" So said what former Cuban leader who died of natural causes?"
+          "question": "By volume, the largest body of water in the UK is what Scottish lake that purportedly has some sort of sea monster swimming around in it?"
         }
       ]
     },
     {
-      "id": 5287,
+      "id": 5290,
       "category": "Science & Nature",
-      "answer": "Two",
+      "answer": "Toads",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "What digit comes after the first \"9\" in pi?"
+          "question": "The fun-to-say \"Bufo\" was historically the catch-all genus for what type of amphibian?"
         },
         {
           "points": 2,
-          "question": "Named after sons of Ares, how many moons does Mars have?"
+          "question": "Don't lick it! The psychedelic compound \"5-MeO-DMT\" is excreted by glands behind the eyes of the \"Colorado River WHAT\"?"
         },
         {
           "points": 1,
-          "question": "Yeah, that makes sense: How many astronauts flew on each of the crewed Gemini missions?"
+          "question": "Depending on who you ask, bumpy skin, eye size, leg size, or preferred biome are what separates frogs from what similar amphibians?"
         }
       ]
     },
     {
-      "id": 5282,
+      "id": 5276,
       "category": "Entertainment",
-      "answer": "Carpenter",
+      "answer": "Lara Croft",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The lead vocalist on 1970's \"We've Only Just Begun\" and 1973's \"Top of the World\" has what last name?"
+          "question": "A famous glitch on the PS1 allowed players to trap the butler inside the refrigerator of what female character's family mansion?"
         },
         {
           "points": 2,
-          "question": "The filmmaker who got a credit for his own score on \"Escape from New York\" and \"Christine\" has what last name?"
+          "question": "In an upcoming Prime series, Sophie Turner will portray what video game archaeologist who's been previously played on the big screen by Alicia Vikander and Angelina Jolie?"
         },
         {
           "points": 1,
-          "question": "The Disney star with the number one hits \"Espresso\" and \"Please Please Please\" has what surname?"
+          "question": "Before game designers decided to make her British, \"Laura Cruz\" was the name of what heroine from the \"Tomb Raider\" franchise?"
         }
       ]
     },
     {
-      "id": 5286,
-      "category": "Arts & Culture",
-      "answer": "Opera",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The Real Teatro di San Carlo in Napoli is the world's oldest continually operating venue for what art form?"
-        },
-        {
-          "points": 2,
-          "question": "The name of that New York institution known as \"The Met\" is short for a building whose full name contains what type of music?"
-        },
-        {
-          "points": 1,
-          "question": "What type of music is found in the name of that sailboat-looking venue in Sydney?"
-        }
-      ]
-    },
-    {
-      "id": 5284,
+      "id": 5283,
       "category": "Consumer Stuff",
-      "answer": "Fuji",
+      "answer": "Boa",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Team Japan's bikes for the '68, '72, and '76 Olympics were designed by Dr Shoichiro Sugihara, chief engineer for what company?"
+          "question": "Flats from a turkey are used in the less-girthy chandelle variety of what clothing accessory?"
         },
         {
           "points": 2,
-          "question": "What Japanese camera company creates the alliterative FinePix camera models?"
+          "question": "Yarn can be used in lieu of feathers when making what three-letter accessory favored by Isadora Duncan, Jesse Ventura, and Elton John?"
         },
         {
           "points": 1,
-          "question": "When a Red Delicious and a Ralls Janet apple love each other very much, you get what apple variety named for Japan's tallest mountain?"
+          "question": "Ostrich feathers are preferred for the fuller, multi-ply Vegas showgirl variety of what accessory that wraps around your neck, like a snake?"
+        }
+      ]
+    },
+    {
+      "id": 5285,
+      "category": "Arts & Culture",
+      "answer": "Merriam-Webster",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "New England lexicographer Noah SOMETHING is one of the namesakes of what reference book company?"
+        },
+        {
+          "points": 2,
+          "question": "Massachusetts publishers George and Charles SOMETHING are the other namesakes of what reference book maker that anagrams?"
+        },
+        {
+          "points": 1,
+          "question": "What hyphenated dictionary maker anagrams to RIM WEB STREAMER?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1210,
-    "dailyId": "1253",
-    "retrievedAt": "2026-10-21T15:40:28.622767+00:00"
+    "quizNumber": 1211,
+    "dailyId": "1254",
+    "retrievedAt": "2026-10-22T15:42:04.120157+00:00"
   }
 }
