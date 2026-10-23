@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5289,
-      "category": "Social Sciences",
-      "answer": "Loch Ness",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Destroyed in 1692 so it wouldn't fall into Jacobite hands, the ruins of Urquhart Castle are on the shores of what tea-colored lake?"
-        },
-        {
-          "points": 2,
-          "question": "Both the \"Surgeon's Photograph\" and the \"Dinsdale Film\" depict what freshwater lake found near the Highland town of Drumnadrochit?"
-        },
-        {
-          "points": 1,
-          "question": "By volume, the largest body of water in the UK is what Scottish lake that purportedly has some sort of sea monster swimming around in it?"
-        }
-      ]
-    },
-    {
-      "id": 5290,
+      "id": 5293,
       "category": "Science & Nature",
-      "answer": "Toads",
+      "answer": "Autumn",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The fun-to-say \"Bufo\" was historically the catch-all genus for what type of amphibian?"
+          "question": "Producing extra bright full moons, in the Northern hemisphere the angle of the Moon’s orbit relative to the horizon is at its minimum at the start of what season?"
         },
         {
           "points": 2,
-          "question": "Don't lick it! The psychedelic compound \"5-MeO-DMT\" is excreted by glands behind the eyes of the \"Colorado River WHAT\"?"
+          "question": "If it's the vernal equinox in Sydney, Australia, what season is starting in Philadelphia, Pennsylvania?"
         },
         {
           "points": 1,
-          "question": "Depending on who you ask, bumpy skin, eye size, leg size, or preferred biome are what separates frogs from what similar amphibians?"
+          "question": "A decrease in daylight causes many trees to produce less chlorophyll, making their leaves not as green during what time of year?"
         }
       ]
     },
     {
-      "id": 5276,
+      "id": 5292,
       "category": "Entertainment",
-      "answer": "Lara Croft",
+      "answer": "Casper",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "A famous glitch on the PS1 allowed players to trap the butler inside the refrigerator of what female character's family mansion?"
+          "question": "Dan Aykroyd makes an uncredited cameo as Ray Stantz in what '90s film based on a Harvey Comics series?"
         },
         {
           "points": 2,
-          "question": "In an upcoming Prime series, Sophie Turner will portray what video game archaeologist who's been previously played on the big screen by Alicia Vikander and Angelina Jolie?"
+          "question": "Stretch, Fatso, and Stinkie are the unctuous uncles of what very early CGI character who shares a name with a town in Wyoming?"
         },
         {
           "points": 1,
-          "question": "Before game designers decided to make her British, \"Laura Cruz\" was the name of what heroine from the \"Tomb Raider\" franchise?"
+          "question": "An early role for Christina Ricci was playing Kat, a girl who befriends what sweetheart undead character?"
         }
       ]
     },
     {
-      "id": 5283,
-      "category": "Consumer Stuff",
-      "answer": "Boa",
+      "id": 5301,
+      "category": "Social Sciences",
+      "answer": "Peru",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Flats from a turkey are used in the less-girthy chandelle variety of what clothing accessory?"
+          "question": "Abutting the Andean volcano of Misti, Arequipa is the second-most-populous city in what country?"
         },
         {
           "points": 2,
-          "question": "Yarn can be used in lieu of feathers when making what three-letter accessory favored by Isadora Duncan, Jesse Ventura, and Elton John?"
+          "question": "Boasting an awesome pride-colored city flag and access to Machu Picchu, Cusco is the eighth-most-populous city of what country?"
         },
         {
           "points": 1,
-          "question": "Ostrich feathers are preferred for the fuller, multi-ply Vegas showgirl variety of what accessory that wraps around your neck, like a snake?"
+          "question": "São Paulo is the only city in South America with a larger population than Lima, the capital of what country?"
         }
       ]
     },
     {
-      "id": 5285,
+      "id": 5291,
       "category": "Arts & Culture",
-      "answer": "Merriam-Webster",
+      "answer": "Raymond Chandler",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "New England lexicographer Noah SOMETHING is one of the namesakes of what reference book company?"
+          "question": "1950's \"The Simple Art of Murder\" collects essays and stories by what detective fiction master?"
         },
         {
           "points": 2,
-          "question": "Massachusetts publishers George and Charles SOMETHING are the other namesakes of what reference book maker that anagrams?"
+          "question": "Could I BE more hard-boiled? \"The Lady in the Lake\" and \"The Long Goodbye\" are classics by what author?"
         },
         {
           "points": 1,
-          "question": "What hyphenated dictionary maker anagrams to RIM WEB STREAMER?"
+          "question": "\"The One with a Lot of Dead Bodies\" was never considered as a title for \"The Big Sleep,\" by what Philip Marlowe creator?"
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "category": "Consumer Stuff",
+      "answer": "The North Face",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Yosemite's Half Dome inspired the curvy logo of what recreational clothing company?"
+        },
+        {
+          "points": 2,
+          "question": "The coldest side of a mountain inspired the name of what company known for its winter streetwear?"
+        },
+        {
+          "points": 1,
+          "question": "Sued out of existence, The South Butt was a parody of what clothing company that can't take a damn joke?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1211,
-    "dailyId": "1254",
-    "retrievedAt": "2026-10-22T15:42:04.120157+00:00"
+    "quizNumber": 1212,
+    "dailyId": "1255",
+    "retrievedAt": "2026-10-23T15:30:14.215783+00:00"
   }
 }

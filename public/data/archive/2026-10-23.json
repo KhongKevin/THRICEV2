@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-23",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5293,
+      "category": "Science & Nature",
+      "answer": "Autumn",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Producing extra bright full moons, in the Northern hemisphere the angle of the Moon’s orbit relative to the horizon is at its minimum at the start of what season?"
+        },
+        {
+          "points": 2,
+          "question": "If it's the vernal equinox in Sydney, Australia, what season is starting in Philadelphia, Pennsylvania?"
+        },
+        {
+          "points": 1,
+          "question": "A decrease in daylight causes many trees to produce less chlorophyll, making their leaves not as green during what time of year?"
+        }
+      ]
+    },
+    {
+      "id": 5292,
+      "category": "Entertainment",
+      "answer": "Casper",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Dan Aykroyd makes an uncredited cameo as Ray Stantz in what '90s film based on a Harvey Comics series?"
+        },
+        {
+          "points": 2,
+          "question": "Stretch, Fatso, and Stinkie are the unctuous uncles of what very early CGI character who shares a name with a town in Wyoming?"
+        },
+        {
+          "points": 1,
+          "question": "An early role for Christina Ricci was playing Kat, a girl who befriends what sweetheart undead character?"
+        }
+      ]
+    },
+    {
+      "id": 5301,
+      "category": "Social Sciences",
+      "answer": "Peru",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Abutting the Andean volcano of Misti, Arequipa is the second-most-populous city in what country?"
+        },
+        {
+          "points": 2,
+          "question": "Boasting an awesome pride-colored city flag and access to Machu Picchu, Cusco is the eighth-most-populous city of what country?"
+        },
+        {
+          "points": 1,
+          "question": "São Paulo is the only city in South America with a larger population than Lima, the capital of what country?"
+        }
+      ]
+    },
+    {
+      "id": 5291,
+      "category": "Arts & Culture",
+      "answer": "Raymond Chandler",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "1950's \"The Simple Art of Murder\" collects essays and stories by what detective fiction master?"
+        },
+        {
+          "points": 2,
+          "question": "Could I BE more hard-boiled? \"The Lady in the Lake\" and \"The Long Goodbye\" are classics by what author?"
+        },
+        {
+          "points": 1,
+          "question": "\"The One with a Lot of Dead Bodies\" was never considered as a title for \"The Big Sleep,\" by what Philip Marlowe creator?"
+        }
+      ]
+    },
+    {
+      "id": 5300,
+      "category": "Consumer Stuff",
+      "answer": "The North Face",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Yosemite's Half Dome inspired the curvy logo of what recreational clothing company?"
+        },
+        {
+          "points": 2,
+          "question": "The coldest side of a mountain inspired the name of what company known for its winter streetwear?"
+        },
+        {
+          "points": 1,
+          "question": "Sued out of existence, The South Butt was a parody of what clothing company that can't take a damn joke?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1212,
+    "dailyId": "1255",
+    "retrievedAt": "2026-10-23T15:30:14.215783+00:00"
+  }
+}
