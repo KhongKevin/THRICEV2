@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5293,
+      "id": 5296,
       "category": "Science & Nature",
-      "answer": "Autumn",
+      "answer": "Elf/ELF",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Producing extra bright full moons, in the Northern hemisphere the angle of the Moon’s orbit relative to the horizon is at its minimum at the start of what season?"
+          "question": "Radio waves with frequencies from a measly 3 to 30 hertz are designated with what initialism that has nothing to do with the D&D species?"
         },
         {
           "points": 2,
-          "question": "If it's the vernal equinox in Sydney, Australia, what season is starting in Philadelphia, Pennsylvania?"
+          "question": "An almost hairless breed of Sphynx cat with ears that curl backward is known by what word that also describes Galadriel and Legolas?"
         },
         {
           "points": 1,
-          "question": "A decrease in daylight causes many trees to produce less chlorophyll, making their leaves not as green during what time of year?"
+          "question": "Son of a nutcracker! The smallest owl species shares what name with a 2003 Will Ferrell movie?"
         }
       ]
     },
     {
-      "id": 5292,
+      "id": 5298,
       "category": "Entertainment",
-      "answer": "Casper",
+      "answer": "U2",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Dan Aykroyd makes an uncredited cameo as Ray Stantz in what '90s film based on a Harvey Comics series?"
+          "question": "\"Carneval de Luz\" is the upcoming 16th album by what band?"
         },
         {
           "points": 2,
-          "question": "Stretch, Fatso, and Stinkie are the unctuous uncles of what very early CGI character who shares a name with a town in Wyoming?"
+          "question": "1980's \"Boy\" was the first album by what band with an even shorter name than the album title?"
         },
         {
           "points": 1,
-          "question": "An early role for Christina Ricci was playing Kat, a girl who befriends what sweetheart undead character?"
+          "question": "\"Uno, dos, tres, catorce!\" That was the intolerable opening to \"Vertigo,\" by what Irish rockers with a number as half their name?"
         }
       ]
     },
     {
-      "id": 5301,
-      "category": "Social Sciences",
-      "answer": "Peru",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Abutting the Andean volcano of Misti, Arequipa is the second-most-populous city in what country?"
-        },
-        {
-          "points": 2,
-          "question": "Boasting an awesome pride-colored city flag and access to Machu Picchu, Cusco is the eighth-most-populous city of what country?"
-        },
-        {
-          "points": 1,
-          "question": "São Paulo is the only city in South America with a larger population than Lima, the capital of what country?"
-        }
-      ]
-    },
-    {
-      "id": 5291,
+      "id": 5302,
       "category": "Arts & Culture",
-      "answer": "Raymond Chandler",
+      "answer": "Photography",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "1950's \"The Simple Art of Murder\" collects essays and stories by what detective fiction master?"
+          "question": "Carrie Mae Weems created her Kitchen Table Series using what art medium?"
         },
         {
           "points": 2,
-          "question": "Could I BE more hard-boiled? \"The Lady in the Lake\" and \"The Long Goodbye\" are classics by what author?"
+          "question": "Cindy Sherman's Untitled Film Stills series is in what art form?"
         },
         {
           "points": 1,
-          "question": "\"The One with a Lot of Dead Bodies\" was never considered as a title for \"The Big Sleep,\" by what Philip Marlowe creator?"
+          "question": "Right before his death, John Lennon and Yoko Ono were captured by Annie Leibovitz for a Rolling Stone cover, using what art method?"
         }
       ]
     },
     {
-      "id": 5300,
-      "category": "Consumer Stuff",
-      "answer": "The North Face",
+      "id": 5294,
+      "category": "Social Sciences",
+      "answer": "Winchester Mystery House",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Yosemite's Half Dome inspired the curvy logo of what recreational clothing company?"
+          "question": "Still in the midst of its 38-year construction, what Gothic Victorian mansion went from seven stories to just four after the 1906 San Francisco earthquake?"
         },
         {
           "points": 2,
-          "question": "The coldest side of a mountain inspired the name of what company known for its winter streetwear?"
+          "question": "There are 13 bathrooms, 13 pane windows, and multiple 13-step staircases throughout what San Jose tourist attraction?"
         },
         {
           "points": 1,
-          "question": "Sued out of existence, The South Butt was a parody of what clothing company that can't take a damn joke?"
+          "question": "Filled with hidden passages, purportedly to confuse ghosts, what home was built by the widow of a wealthy gun magnate and NOT the brothers from \"Supernatural\"?"
+        }
+      ]
+    },
+    {
+      "id": 5295,
+      "category": "Consumer Stuff",
+      "answer": "Jolly Rancher",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Wanting to evoke some wild west charm, in 1949 Bill Harmsen picked what name for his ice cream-turned-hard candy company?"
+        },
+        {
+          "points": 2,
+          "question": "Bought up by Hershey, what candy brand's most popular flavor is watermelon and somehow not blue raspberry?"
+        },
+        {
+          "points": 1,
+          "question": "Also sold as gummies and beans, what \"happy\" candy is typically sold in colorful rectangular prisms?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1212,
-    "dailyId": "1255",
-    "retrievedAt": "2026-10-23T15:30:14.215783+00:00"
+    "quizNumber": 1213,
+    "dailyId": "1256",
+    "retrievedAt": "2026-10-24T14:08:54.124571+00:00"
   }
 }
