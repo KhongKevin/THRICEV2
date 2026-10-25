@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5296,
-      "category": "Science & Nature",
-      "answer": "Elf/ELF",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Radio waves with frequencies from a measly 3 to 30 hertz are designated with what initialism that has nothing to do with the D&D species?"
-        },
-        {
-          "points": 2,
-          "question": "An almost hairless breed of Sphynx cat with ears that curl backward is known by what word that also describes Galadriel and Legolas?"
-        },
-        {
-          "points": 1,
-          "question": "Son of a nutcracker! The smallest owl species shares what name with a 2003 Will Ferrell movie?"
-        }
-      ]
-    },
-    {
-      "id": 5298,
-      "category": "Entertainment",
-      "answer": "U2",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "\"Carneval de Luz\" is the upcoming 16th album by what band?"
-        },
-        {
-          "points": 2,
-          "question": "1980's \"Boy\" was the first album by what band with an even shorter name than the album title?"
-        },
-        {
-          "points": 1,
-          "question": "\"Uno, dos, tres, catorce!\" That was the intolerable opening to \"Vertigo,\" by what Irish rockers with a number as half their name?"
-        }
-      ]
-    },
-    {
-      "id": 5302,
-      "category": "Arts & Culture",
-      "answer": "Photography",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Carrie Mae Weems created her Kitchen Table Series using what art medium?"
-        },
-        {
-          "points": 2,
-          "question": "Cindy Sherman's Untitled Film Stills series is in what art form?"
-        },
-        {
-          "points": 1,
-          "question": "Right before his death, John Lennon and Yoko Ono were captured by Annie Leibovitz for a Rolling Stone cover, using what art method?"
-        }
-      ]
-    },
-    {
-      "id": 5294,
-      "category": "Social Sciences",
-      "answer": "Winchester Mystery House",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Still in the midst of its 38-year construction, what Gothic Victorian mansion went from seven stories to just four after the 1906 San Francisco earthquake?"
-        },
-        {
-          "points": 2,
-          "question": "There are 13 bathrooms, 13 pane windows, and multiple 13-step staircases throughout what San Jose tourist attraction?"
-        },
-        {
-          "points": 1,
-          "question": "Filled with hidden passages, purportedly to confuse ghosts, what home was built by the widow of a wealthy gun magnate and NOT the brothers from \"Supernatural\"?"
-        }
-      ]
-    },
-    {
-      "id": 5295,
+      "id": 5297,
       "category": "Consumer Stuff",
-      "answer": "Jolly Rancher",
+      "answer": "Grapefruit juice",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Wanting to evoke some wild west charm, in 1949 Bill Harmsen picked what name for his ice cream-turned-hard candy company?"
+          "question": "A Brown Derby cocktail partners bourbon and honey syrup with what fruit juice?"
         },
         {
           "points": 2,
-          "question": "Bought up by Hershey, what candy brand's most popular flavor is watermelon and somehow not blue raspberry?"
+          "question": "The even simpler greyhound gets its kick from vodka and its tart pucker from what fruit juice?"
         },
         {
           "points": 1,
-          "question": "Also sold as gummies and beans, what \"happy\" candy is typically sold in colorful rectangular prisms?"
+          "question": "Most statins warn you not to take them with what high-acidity fruit juice that also stings like a mother if it gets in your eye."
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "category": "Entertainment",
+      "answer": "Carrie",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Summer H. Howell plays the titular unpopular teen in Mike Flanagan's recent Amazon Prime series adaptation of what 1974 book?"
+        },
+        {
+          "points": 2,
+          "question": "Chloë Grace Moretz's character had her menstrual-shaming YouTubed in a 2013 screen remake of what horror novel?"
+        },
+        {
+          "points": 1,
+          "question": "Sandler yoinked his \"They're all gonna laugh at you bit\" from what Sissy Spacek movie based on a Stephen King novel about a telekinetic, bullied teen?"
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "category": "Science & Nature",
+      "answer": "UFOs",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Hynek and Vallée systems are used to classify what phenomena that supposedly appeared above Nuremberg in 1561?"
+        },
+        {
+          "points": 2,
+          "question": "Weather balloons and birth trauma have been offered as explanations for what objects that the Heaven's Gate Cult claimed were behind the Comet Hale-Bopp?"
+        },
+        {
+          "points": 1,
+          "question": "Area 51 and Roswell, New Mexico are purportedly crash sites of what vehicles that have been famously compared to kitchenware?"
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "category": "Arts & Culture",
+      "answer": "Sweeney Todd",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The penny dreadful \"The String of Pearls\" is the basis for what 1979 musical featuring the young lovers Anthony Hope and Johanna?"
+        },
+        {
+          "points": 2,
+          "question": "The title character sings \"Pretty Women\" with Judge Turpin and duets \"A Little Priest\" with Mrs. Lovett, in what London-set Sondheim musical?"
+        },
+        {
+          "points": 1,
+          "question": "Adapted to film by Tim Burton, what grim dark musical is about a Fleet Street barber who disposes of his victims by baking them into pies?"
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "category": "Social Sciences",
+      "answer": "Pirates",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A thorn in the side of the Hanseactic League, the Victual Brothers were a loose guild in what line of work?"
+        },
+        {
+          "points": 2,
+          "question": "Thomas Jefferson and James Madison fought a pair of wars against a group of marauders known as the Barbary WHATS?"
+        },
+        {
+          "points": 1,
+          "question": "Port Royal and Tortuga were historically hot spots for what type of criminals such as Anne Bonny, Calico Jack, and Blackbeard?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1213,
-    "dailyId": "1256",
-    "retrievedAt": "2026-10-24T14:08:54.124571+00:00"
+    "quizNumber": 1214,
+    "dailyId": "1257",
+    "retrievedAt": "2026-10-25T14:36:06.685167+00:00"
   }
 }

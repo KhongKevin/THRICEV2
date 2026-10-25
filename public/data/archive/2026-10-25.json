@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-25",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5297,
+      "category": "Consumer Stuff",
+      "answer": "Grapefruit juice",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A Brown Derby cocktail partners bourbon and honey syrup with what fruit juice?"
+        },
+        {
+          "points": 2,
+          "question": "The even simpler greyhound gets its kick from vodka and its tart pucker from what fruit juice?"
+        },
+        {
+          "points": 1,
+          "question": "Most statins warn you not to take them with what high-acidity fruit juice that also stings like a mother if it gets in your eye."
+        }
+      ]
+    },
+    {
+      "id": 5309,
+      "category": "Entertainment",
+      "answer": "Carrie",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Summer H. Howell plays the titular unpopular teen in Mike Flanagan's recent Amazon Prime series adaptation of what 1974 book?"
+        },
+        {
+          "points": 2,
+          "question": "Chloë Grace Moretz's character had her menstrual-shaming YouTubed in a 2013 screen remake of what horror novel?"
+        },
+        {
+          "points": 1,
+          "question": "Sandler yoinked his \"They're all gonna laugh at you bit\" from what Sissy Spacek movie based on a Stephen King novel about a telekinetic, bullied teen?"
+        }
+      ]
+    },
+    {
+      "id": 5305,
+      "category": "Science & Nature",
+      "answer": "UFOs",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Hynek and Vallée systems are used to classify what phenomena that supposedly appeared above Nuremberg in 1561?"
+        },
+        {
+          "points": 2,
+          "question": "Weather balloons and birth trauma have been offered as explanations for what objects that the Heaven's Gate Cult claimed were behind the Comet Hale-Bopp?"
+        },
+        {
+          "points": 1,
+          "question": "Area 51 and Roswell, New Mexico are purportedly crash sites of what vehicles that have been famously compared to kitchenware?"
+        }
+      ]
+    },
+    {
+      "id": 5306,
+      "category": "Arts & Culture",
+      "answer": "Sweeney Todd",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The penny dreadful \"The String of Pearls\" is the basis for what 1979 musical featuring the young lovers Anthony Hope and Johanna?"
+        },
+        {
+          "points": 2,
+          "question": "The title character sings \"Pretty Women\" with Judge Turpin and duets \"A Little Priest\" with Mrs. Lovett, in what London-set Sondheim musical?"
+        },
+        {
+          "points": 1,
+          "question": "Adapted to film by Tim Burton, what grim dark musical is about a Fleet Street barber who disposes of his victims by baking them into pies?"
+        }
+      ]
+    },
+    {
+      "id": 5312,
+      "category": "Social Sciences",
+      "answer": "Pirates",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A thorn in the side of the Hanseactic League, the Victual Brothers were a loose guild in what line of work?"
+        },
+        {
+          "points": 2,
+          "question": "Thomas Jefferson and James Madison fought a pair of wars against a group of marauders known as the Barbary WHATS?"
+        },
+        {
+          "points": 1,
+          "question": "Port Royal and Tortuga were historically hot spots for what type of criminals such as Anne Bonny, Calico Jack, and Blackbeard?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1214,
+    "dailyId": "1257",
+    "retrievedAt": "2026-10-25T14:36:06.685167+00:00"
+  }
+}
