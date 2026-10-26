@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5297,
-      "category": "Consumer Stuff",
-      "answer": "Grapefruit juice",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "A Brown Derby cocktail partners bourbon and honey syrup with what fruit juice?"
-        },
-        {
-          "points": 2,
-          "question": "The even simpler greyhound gets its kick from vodka and its tart pucker from what fruit juice?"
-        },
-        {
-          "points": 1,
-          "question": "Most statins warn you not to take them with what high-acidity fruit juice that also stings like a mother if it gets in your eye."
-        }
-      ]
-    },
-    {
-      "id": 5309,
+      "id": 5299,
       "category": "Entertainment",
-      "answer": "Carrie",
+      "answer": "X",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Summer H. Howell plays the titular unpopular teen in Mike Flanagan's recent Amazon Prime series adaptation of what 1974 book?"
+          "question": "John Doe and Exene Cervenka front what almost-50-year-old LA punk band?"
         },
         {
           "points": 2,
-          "question": "Chloë Grace Moretz's character had her menstrual-shaming YouTubed in a 2013 screen remake of what horror novel?"
+          "question": "\"Pearl\" and \"MaXXXine\" closed out a horror trilogy that started with what R-rated 2022 film?"
         },
         {
           "points": 1,
-          "question": "Sandler yoinked his \"They're all gonna laugh at you bit\" from what Sissy Spacek movie based on a Stephen King novel about a telekinetic, bullied teen?"
+          "question": "\"'Twitter' redirects here\" is the first thing you'll see on the Wikipedia page for what social network?"
         }
       ]
     },
     {
-      "id": 5305,
+      "id": 5304,
       "category": "Science & Nature",
-      "answer": "UFOs",
+      "answer": "Snakes",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The Hynek and Vallée systems are used to classify what phenomena that supposedly appeared above Nuremberg in 1561?"
+          "question": "Accounting for most of their skeletons, what animals typically have 100 to 400 pairs of ribs?"
         },
         {
           "points": 2,
-          "question": "Weather balloons and birth trauma have been offered as explanations for what objects that the Heaven's Gate Cult claimed were behind the Comet Hale-Bopp?"
+          "question": "Scouting America specifically says not to cut away skin, apply an ice pack or use suction of any kind, when treating bites from what animals?"
         },
         {
           "points": 1,
-          "question": "Area 51 and Roswell, New Mexico are purportedly crash sites of what vehicles that have been famously compared to kitchenware?"
+          "question": "Don't tell Indiana Jones! The titanoboa is the largest species to have ever existed of what slippery reptiles?"
         }
       ]
     },
     {
-      "id": 5306,
-      "category": "Arts & Culture",
-      "answer": "Sweeney Todd",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The penny dreadful \"The String of Pearls\" is the basis for what 1979 musical featuring the young lovers Anthony Hope and Johanna?"
-        },
-        {
-          "points": 2,
-          "question": "The title character sings \"Pretty Women\" with Judge Turpin and duets \"A Little Priest\" with Mrs. Lovett, in what London-set Sondheim musical?"
-        },
-        {
-          "points": 1,
-          "question": "Adapted to film by Tim Burton, what grim dark musical is about a Fleet Street barber who disposes of his victims by baking them into pies?"
-        }
-      ]
-    },
-    {
-      "id": 5312,
+      "id": 5303,
       "category": "Social Sciences",
-      "answer": "Pirates",
+      "answer": "Buddhism",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "A thorn in the side of the Hanseactic League, the Victual Brothers were a loose guild in what line of work?"
+          "question": "Literally \"Three Baskets,\" the Tripitaka is a major text in what religion practiced by about 70% of Sri Lankans?"
         },
         {
           "points": 2,
-          "question": "Thomas Jefferson and James Madison fought a pair of wars against a group of marauders known as the Barbary WHATS?"
+          "question": "Though it was originally a Hindu temple, Angkor Wat was eventually converted for the use of what state religion of Cambodia?"
         },
         {
           "points": 1,
-          "question": "Port Royal and Tortuga were historically hot spots for what type of criminals such as Anne Bonny, Calico Jack, and Blackbeard?"
+          "question": "In Bhutan, the Je Khenpo heads what state religion that starts with the same letter as Bhutan?"
+        }
+      ]
+    },
+    {
+      "id": 5314,
+      "category": "Arts & Culture",
+      "answer": "Cthulhu",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In \"Tentacular Thinking,\" feminist Donna Haraway says we live in an epoch named for what monster from a 1928 short story?"
+        },
+        {
+          "points": 2,
+          "question": "Per said story, what Great Old One lies dreaming in the sunken city of R’lyeh while his cult waits for him to awaken and destroy the world?"
+        },
+        {
+          "points": 1,
+          "question": "The namesake of a whole mythos, H.P. Lovecraft's most celebrated creation is what big green monster whose \"call\" drives people mad?"
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "category": "Consumer Stuff",
+      "answer": "Pumpkin Spice",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "On September 23, 2019, Hormel released a limited edition run of \"WHAT WHAT Spam\" that sold out in just seven hours?"
+        },
+        {
+          "points": 2,
+          "question": "Typical pie ingredients like cinnamon, ginger, nutmeg, allspice, and cloves are blended together in what seasonal mix?"
+        },
+        {
+          "points": 1,
+          "question": "It wasn't until 2015 Starbucks started including a puree of the actual orange vegetable in its popular \"WHAT WHAT Latte\"?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1214,
-    "dailyId": "1257",
-    "retrievedAt": "2026-10-25T14:36:06.685167+00:00"
+    "quizNumber": 1215,
+    "dailyId": "1258",
+    "retrievedAt": "2026-10-26T17:02:11.970121+00:00"
   }
 }

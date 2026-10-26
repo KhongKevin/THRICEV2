@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-26",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5299,
+      "category": "Entertainment",
+      "answer": "X",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "John Doe and Exene Cervenka front what almost-50-year-old LA punk band?"
+        },
+        {
+          "points": 2,
+          "question": "\"Pearl\" and \"MaXXXine\" closed out a horror trilogy that started with what R-rated 2022 film?"
+        },
+        {
+          "points": 1,
+          "question": "\"'Twitter' redirects here\" is the first thing you'll see on the Wikipedia page for what social network?"
+        }
+      ]
+    },
+    {
+      "id": 5304,
+      "category": "Science & Nature",
+      "answer": "Snakes",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Accounting for most of their skeletons, what animals typically have 100 to 400 pairs of ribs?"
+        },
+        {
+          "points": 2,
+          "question": "Scouting America specifically says not to cut away skin, apply an ice pack or use suction of any kind, when treating bites from what animals?"
+        },
+        {
+          "points": 1,
+          "question": "Don't tell Indiana Jones! The titanoboa is the largest species to have ever existed of what slippery reptiles?"
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "category": "Social Sciences",
+      "answer": "Buddhism",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Literally \"Three Baskets,\" the Tripitaka is a major text in what religion practiced by about 70% of Sri Lankans?"
+        },
+        {
+          "points": 2,
+          "question": "Though it was originally a Hindu temple, Angkor Wat was eventually converted for the use of what state religion of Cambodia?"
+        },
+        {
+          "points": 1,
+          "question": "In Bhutan, the Je Khenpo heads what state religion that starts with the same letter as Bhutan?"
+        }
+      ]
+    },
+    {
+      "id": 5314,
+      "category": "Arts & Culture",
+      "answer": "Cthulhu",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In \"Tentacular Thinking,\" feminist Donna Haraway says we live in an epoch named for what monster from a 1928 short story?"
+        },
+        {
+          "points": 2,
+          "question": "Per said story, what Great Old One lies dreaming in the sunken city of R’lyeh while his cult waits for him to awaken and destroy the world?"
+        },
+        {
+          "points": 1,
+          "question": "The namesake of a whole mythos, H.P. Lovecraft's most celebrated creation is what big green monster whose \"call\" drives people mad?"
+        }
+      ]
+    },
+    {
+      "id": 5313,
+      "category": "Consumer Stuff",
+      "answer": "Pumpkin Spice",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "On September 23, 2019, Hormel released a limited edition run of \"WHAT WHAT Spam\" that sold out in just seven hours?"
+        },
+        {
+          "points": 2,
+          "question": "Typical pie ingredients like cinnamon, ginger, nutmeg, allspice, and cloves are blended together in what seasonal mix?"
+        },
+        {
+          "points": 1,
+          "question": "It wasn't until 2015 Starbucks started including a puree of the actual orange vegetable in its popular \"WHAT WHAT Latte\"?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1215,
+    "dailyId": "1258",
+    "retrievedAt": "2026-10-26T17:02:11.970121+00:00"
+  }
+}
