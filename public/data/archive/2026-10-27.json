@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-27",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5332,
+      "category": "Consumer Stuff",
+      "answer": "Kit Kat",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Less jazzy than the one in the musical \"Carbaret,\" what candy bar gets its name from a literary club that used to meet in London?"
+        },
+        {
+          "points": 2,
+          "question": "Made jointly by Hershey and Nestle, what chocolate brand was synonymous with tea breaks even before it started being advertised for its four \"fingers\"?"
+        },
+        {
+          "points": 1,
+          "question": "Break me off a piece of that! The inescapable 80s jingle \"Gimme a Break\" was used to sell what alliterative candy bar?"
+        }
+      ]
+    },
+    {
+      "id": 5325,
+      "category": "Science & Nature",
+      "answer": "Full Moon",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "It's called a \"Wolf\" in January, \"Strawberry\" in June, and \"Sturgeon\" in August. I'm talking about what thing that occurs every 29.5 days?"
+        },
+        {
+          "points": 2,
+          "question": "Characterized by its rarity, what phenomenon is called \"Blue\" if it happens twice in one calendar month?"
+        },
+        {
+          "points": 1,
+          "question": "What werewolf-approved phase of the lunar cycle comes after \"waxing gibbous\"?"
+        }
+      ]
+    },
+    {
+      "id": 5327,
+      "category": "Entertainment",
+      "answer": "Thriller",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Doing the spoken word outro, Vincent Price was peeved he didn't get more of the profits from what 1983 music video?"
+        },
+        {
+          "points": 2,
+          "question": "Pop hits like \"Beat it\" and the Paul McCartney duet \"The Girl is Mine\" both appear on what best selling album of all time?"
+        },
+        {
+          "points": 1,
+          "question": "According to the Library of Congress, the most famous music video ever features a bunch of zombies dancing to what spooky 1983 song?"
+        }
+      ]
+    },
+    {
+      "id": 5310,
+      "category": "Arts & Culture",
+      "answer": "Danse Macabre",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Based on a Henri Cazalis poem, what 1872 piece begins with a harp strumming \"D\" twelve times, followed by a purposefully out of tune violin?"
+        },
+        {
+          "points": 2,
+          "question": "Camille Saint-Saëns uses xylophones to evoke the rattling of bones, in what Halloween-set work inspired by a morbid Medieval art motif?"
+        },
+        {
+          "points": 1,
+          "question": "Per the lyrics, Death himself plays the fiddle that summons the dead to perform what waltz that's French for \"Dance of Death\"?"
+        }
+      ]
+    },
+    {
+      "id": 5318,
+      "category": "Social Sciences",
+      "answer": "Mummies",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Thomas Pettigrew was known for his Victorian-era parties where he unwrapped what objects that were used to make a special brown paint?"
+        },
+        {
+          "points": 2,
+          "question": "Canopic jars store the byproducts of creating what relics of the ancient world?"
+        },
+        {
+          "points": 1,
+          "question": "With several buried in the Valley of the Kings, Ancient Egyptian embalmers took 70 days to prepare what papyrus-wrapped bodies?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1216,
+    "dailyId": "1259",
+    "retrievedAt": "2026-10-27T16:04:04.695242+00:00"
+  }
+}
