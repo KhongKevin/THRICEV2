@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5332,
+      "id": 5333,
       "category": "Consumer Stuff",
-      "answer": "Kit Kat",
+      "answer": "Smarties",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Less jazzy than the one in the musical \"Carbaret,\" what candy bar gets its name from a literary club that used to meet in London?"
+          "question": "Due to a trademark by a chocolate bean brand, what six-flavor sweet is sold under the name \"Rockets\" in Canada?"
         },
         {
           "points": 2,
-          "question": "Made jointly by Hershey and Nestle, what chocolate brand was synonymous with tea breaks even before it started being advertised for its four \"fingers\"?"
+          "question": "Vegan and gluten-free, what compressed wafer candy is just 25 calories per roll?"
         },
         {
           "points": 1,
-          "question": "Break me off a piece of that! The inescapable 80s jingle \"Gimme a Break\" was used to sell what alliterative candy bar?"
+          "question": "Because he wanted people who ate it to be more intelligent, Edward Dee picked what name for his chalky tablet candy?"
         }
       ]
     },
     {
-      "id": 5325,
-      "category": "Science & Nature",
-      "answer": "Full Moon",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "It's called a \"Wolf\" in January, \"Strawberry\" in June, and \"Sturgeon\" in August. I'm talking about what thing that occurs every 29.5 days?"
-        },
-        {
-          "points": 2,
-          "question": "Characterized by its rarity, what phenomenon is called \"Blue\" if it happens twice in one calendar month?"
-        },
-        {
-          "points": 1,
-          "question": "What werewolf-approved phase of the lunar cycle comes after \"waxing gibbous\"?"
-        }
-      ]
-    },
-    {
-      "id": 5327,
+      "id": 5328,
       "category": "Entertainment",
-      "answer": "Thriller",
+      "answer": "The Twilight Zone",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Doing the spoken word outro, Vincent Price was peeved he didn't get more of the profits from what 1983 music video?"
+          "question": "Turning a man into a jack-in-the-box, the omnipotent six-year-old Anthony terrorizes the town of Peaksville, OH in season 3 of what sci-fi series?"
         },
         {
           "points": 2,
-          "question": "Pop hits like \"Beat it\" and the Paul McCartney duet \"The Girl is Mine\" both appear on what best selling album of all time?"
+          "question": "Bookworm Henry Bemis survives a nuclear apocalypse only to break his glasses in the \"Time Enough at Last\" episode of what Rod Serling show?"
         },
         {
           "points": 1,
-          "question": "According to the Library of Congress, the most famous music video ever features a bunch of zombies dancing to what spooky 1983 song?"
+          "question": "\"Nightmare at 20,000 Feet\" is a classic episode of what old anthology series taking place in a \"fifth dimension, beyond that which is known to man\"?"
         }
       ]
     },
     {
-      "id": 5310,
-      "category": "Arts & Culture",
-      "answer": "Danse Macabre",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Based on a Henri Cazalis poem, what 1872 piece begins with a harp strumming \"D\" twelve times, followed by a purposefully out of tune violin?"
-        },
-        {
-          "points": 2,
-          "question": "Camille Saint-Saëns uses xylophones to evoke the rattling of bones, in what Halloween-set work inspired by a morbid Medieval art motif?"
-        },
-        {
-          "points": 1,
-          "question": "Per the lyrics, Death himself plays the fiddle that summons the dead to perform what waltz that's French for \"Dance of Death\"?"
-        }
-      ]
-    },
-    {
-      "id": 5318,
+      "id": 5320,
       "category": "Social Sciences",
-      "answer": "Mummies",
+      "answer": "The Tower of London",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Thomas Pettigrew was known for his Victorian-era parties where he unwrapped what objects that were used to make a special brown paint?"
+          "question": "The Kray Twins were arrested after assaulting an officer at what historic castle constructed in by William the Conqueror in 1078?"
         },
         {
           "points": 2,
-          "question": "Canopic jars store the byproducts of creating what relics of the ancient world?"
+          "question": "The ghosts of Sir Walter Raleigh, Anne Boleyn, and the young sons of Edward IV all purportedly haunt what former prison on the River Thames?"
         },
         {
           "points": 1,
-          "question": "With several buried in the Valley of the Kings, Ancient Egyptian embalmers took 70 days to prepare what papyrus-wrapped bodies?"
+          "question": "Surrounded by beefeaters and several well-fed ravens, the English Crown Jewels are kept in what pointy fortress in the UK's capital city?"
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "category": "Arts & Culture",
+      "answer": "Baba Yaga",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Representing the Day, Sun, and Night, colorful horsemen guard what figure's forest home in the tale of \"Vasilisa the Beautiful\"?"
+        },
+        {
+          "points": 2,
+          "question": "Sometimes depicted as three sisters with the same name, what feared character from Slavic folklore travels using a flying mortar and pestle?"
+        },
+        {
+          "points": 1,
+          "question": "For some reason, John Wick's code name references what Russian witch that lives in a hut that walks on chicken legs?"
+        }
+      ]
+    },
+    {
+      "id": 5321,
+      "category": "Science & Nature",
+      "answer": "Bigfoot",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Alleged to be a descendant of the Gigantopithecus, what creature was first spotted in the 1920s, in Mount St. Helen's Ape Canyon?"
+        },
+        {
+          "points": 2,
+          "question": "The Patterson-Gimlin film supposedly depicts what cryptid that was similarly documented in the '80s by the Henderson family?"
+        },
+        {
+          "points": 1,
+          "question": "Much like the Florida Skunk Ape, cryptozoologists are still trying to track down what hairy forest dweller that's known for its large footprints?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1216,
-    "dailyId": "1259",
-    "retrievedAt": "2026-10-27T16:04:04.695242+00:00"
+    "quizNumber": 1217,
+    "dailyId": "1260",
+    "retrievedAt": "2026-10-28T16:51:24.396528+00:00"
   }
 }

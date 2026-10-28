@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-28",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5333,
+      "category": "Consumer Stuff",
+      "answer": "Smarties",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Due to a trademark by a chocolate bean brand, what six-flavor sweet is sold under the name \"Rockets\" in Canada?"
+        },
+        {
+          "points": 2,
+          "question": "Vegan and gluten-free, what compressed wafer candy is just 25 calories per roll?"
+        },
+        {
+          "points": 1,
+          "question": "Because he wanted people who ate it to be more intelligent, Edward Dee picked what name for his chalky tablet candy?"
+        }
+      ]
+    },
+    {
+      "id": 5328,
+      "category": "Entertainment",
+      "answer": "The Twilight Zone",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Turning a man into a jack-in-the-box, the omnipotent six-year-old Anthony terrorizes the town of Peaksville, OH in season 3 of what sci-fi series?"
+        },
+        {
+          "points": 2,
+          "question": "Bookworm Henry Bemis survives a nuclear apocalypse only to break his glasses in the \"Time Enough at Last\" episode of what Rod Serling show?"
+        },
+        {
+          "points": 1,
+          "question": "\"Nightmare at 20,000 Feet\" is a classic episode of what old anthology series taking place in a \"fifth dimension, beyond that which is known to man\"?"
+        }
+      ]
+    },
+    {
+      "id": 5320,
+      "category": "Social Sciences",
+      "answer": "The Tower of London",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Kray Twins were arrested after assaulting an officer at what historic castle constructed in by William the Conqueror in 1078?"
+        },
+        {
+          "points": 2,
+          "question": "The ghosts of Sir Walter Raleigh, Anne Boleyn, and the young sons of Edward IV all purportedly haunt what former prison on the River Thames?"
+        },
+        {
+          "points": 1,
+          "question": "Surrounded by beefeaters and several well-fed ravens, the English Crown Jewels are kept in what pointy fortress in the UK's capital city?"
+        }
+      ]
+    },
+    {
+      "id": 5308,
+      "category": "Arts & Culture",
+      "answer": "Baba Yaga",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Representing the Day, Sun, and Night, colorful horsemen guard what figure's forest home in the tale of \"Vasilisa the Beautiful\"?"
+        },
+        {
+          "points": 2,
+          "question": "Sometimes depicted as three sisters with the same name, what feared character from Slavic folklore travels using a flying mortar and pestle?"
+        },
+        {
+          "points": 1,
+          "question": "For some reason, John Wick's code name references what Russian witch that lives in a hut that walks on chicken legs?"
+        }
+      ]
+    },
+    {
+      "id": 5321,
+      "category": "Science & Nature",
+      "answer": "Bigfoot",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Alleged to be a descendant of the Gigantopithecus, what creature was first spotted in the 1920s, in Mount St. Helen's Ape Canyon?"
+        },
+        {
+          "points": 2,
+          "question": "The Patterson-Gimlin film supposedly depicts what cryptid that was similarly documented in the '80s by the Henderson family?"
+        },
+        {
+          "points": 1,
+          "question": "Much like the Florida Skunk Ape, cryptozoologists are still trying to track down what hairy forest dweller that's known for its large footprints?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1217,
+    "dailyId": "1260",
+    "retrievedAt": "2026-10-28T16:51:24.396528+00:00"
+  }
+}
