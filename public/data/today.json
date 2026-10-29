@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5333,
-      "category": "Consumer Stuff",
-      "answer": "Smarties",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Due to a trademark by a chocolate bean brand, what six-flavor sweet is sold under the name \"Rockets\" in Canada?"
-        },
-        {
-          "points": 2,
-          "question": "Vegan and gluten-free, what compressed wafer candy is just 25 calories per roll?"
-        },
-        {
-          "points": 1,
-          "question": "Because he wanted people who ate it to be more intelligent, Edward Dee picked what name for his chalky tablet candy?"
-        }
-      ]
-    },
-    {
-      "id": 5328,
-      "category": "Entertainment",
-      "answer": "The Twilight Zone",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Turning a man into a jack-in-the-box, the omnipotent six-year-old Anthony terrorizes the town of Peaksville, OH in season 3 of what sci-fi series?"
-        },
-        {
-          "points": 2,
-          "question": "Bookworm Henry Bemis survives a nuclear apocalypse only to break his glasses in the \"Time Enough at Last\" episode of what Rod Serling show?"
-        },
-        {
-          "points": 1,
-          "question": "\"Nightmare at 20,000 Feet\" is a classic episode of what old anthology series taking place in a \"fifth dimension, beyond that which is known to man\"?"
-        }
-      ]
-    },
-    {
-      "id": 5320,
+      "id": 5316,
       "category": "Social Sciences",
-      "answer": "The Tower of London",
+      "answer": "Harry Houdini",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The Kray Twins were arrested after assaulting an officer at what historic castle constructed in by William the Conqueror in 1078?"
+          "question": "Better known for debunking seances and psychics, what Hungarian-American was one of the first people to fly a plane over Australia?"
         },
         {
           "points": 2,
-          "question": "The ghosts of Sir Walter Raleigh, Anne Boleyn, and the young sons of Edward IV all purportedly haunt what former prison on the River Thames?"
+          "question": "Inventor of the Chinese Water Torture Cell, what 1920s celebrity died on Halloween after an ill-timed punch to the stomach?"
         },
         {
           "points": 1,
-          "question": "Surrounded by beefeaters and several well-fed ravens, the English Crown Jewels are kept in what pointy fortress in the UK's capital city?"
+          "question": "Renowned for his ability to escape straitjackets, milk cans, and handcuffs, what illusionist is likely the most famous magician to have ever lived?"
         }
       ]
     },
     {
-      "id": 5308,
+      "id": 5311,
       "category": "Arts & Culture",
-      "answer": "Baba Yaga",
+      "answer": "Skeleton",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Representing the Day, Sun, and Night, colorful horsemen guard what figure's forest home in the tale of \"Vasilisa the Beautiful\"?"
+          "question": "Depicting a giant undead monster, the Honolulu Museum of Art boasts the famous Japanese triptych, \"Takiyasha the Witch and the WHAT Spectre\"?"
         },
         {
           "points": 2,
-          "question": "Sometimes depicted as three sisters with the same name, what feared character from Slavic folklore travels using a flying mortar and pestle?"
+          "question": "To jab at the arts academy in Antwerp, a disgruntled Van Gogh painted what \"Head of a WHAT with a Burning Cigarette\" sometime around 1886?"
         },
         {
           "points": 1,
-          "question": "For some reason, John Wick's code name references what Russian witch that lives in a hut that walks on chicken legs?"
+          "question": "In his \"Self-Portrait with Death Playing the Fiddle,\" Arnold Böcklin stands in front of a spooky scary WHAT?"
         }
       ]
     },
     {
-      "id": 5321,
-      "category": "Science & Nature",
-      "answer": "Bigfoot",
+      "id": 5331,
+      "category": "Consumer Stuff",
+      "answer": "Spirit Halloween",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Alleged to be a descendant of the Gigantopithecus, what creature was first spotted in the 1920s, in Mount St. Helen's Ape Canyon?"
+          "question": "Originally a discount women's clothing store, in 2024 what Spencer's Gifts-owned retailer announced a push to start selling Christmas decor?"
         },
         {
           "points": 2,
-          "question": "The Patterson-Gimlin film supposedly depicts what cryptid that was similarly documented in the '80s by the Henderson family?"
+          "question": "Known for taking over former Toy's R Us and JC Penney's stores, what niche supplier is only open about 8-10 weeks each autumn?"
         },
         {
           "points": 1,
-          "question": "Much like the Florida Skunk Ape, cryptozoologists are still trying to track down what hairy forest dweller that's known for its large footprints?"
+          "question": "Fright Zone and Madison Scare Park are themes used by for what seasonal costume seller with a bright orange logo?"
+        }
+      ]
+    },
+    {
+      "id": 5324,
+      "category": "Science & Nature",
+      "answer": "Maggots",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 2003, the FDA approved a gross-but-effective treatment of using live animals to clean wounds, known as WHAT debridement therapy?"
+        },
+        {
+          "points": 2,
+          "question": "Black soldier flies lose their mouths when they reach maturity, only eating during what legless part of their life cycle?"
+        },
+        {
+          "points": 1,
+          "question": "Typically hatching in rotting meat, manure, or garbage, what wriggly, yellow decomposers were frequent guests on \"Fear Factor\"?"
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "category": "Entertainment",
+      "answer": "Monster Mash",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Initially banned by the BBC for being too morbid, what song from October 1962 is a loose parody of the \"Mashed Potato\"?"
+        },
+        {
+          "points": 2,
+          "question": "Boris Pickett does a Boris Karloff impression through most of the verses of what novelty song?"
+        },
+        {
+          "points": 1,
+          "question": "Per the lyrics, what Halloween dance \"caught on in a flash\" and was supposedly \"a graveyard smash\" when it debuted?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1217,
-    "dailyId": "1260",
-    "retrievedAt": "2026-10-28T16:51:24.396528+00:00"
+    "quizNumber": 1218,
+    "dailyId": "1261",
+    "retrievedAt": "2026-10-29T17:07:13.464021+00:00"
   }
 }

@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-29",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5316,
+      "category": "Social Sciences",
+      "answer": "Harry Houdini",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Better known for debunking seances and psychics, what Hungarian-American was one of the first people to fly a plane over Australia?"
+        },
+        {
+          "points": 2,
+          "question": "Inventor of the Chinese Water Torture Cell, what 1920s celebrity died on Halloween after an ill-timed punch to the stomach?"
+        },
+        {
+          "points": 1,
+          "question": "Renowned for his ability to escape straitjackets, milk cans, and handcuffs, what illusionist is likely the most famous magician to have ever lived?"
+        }
+      ]
+    },
+    {
+      "id": 5311,
+      "category": "Arts & Culture",
+      "answer": "Skeleton",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Depicting a giant undead monster, the Honolulu Museum of Art boasts the famous Japanese triptych, \"Takiyasha the Witch and the WHAT Spectre\"?"
+        },
+        {
+          "points": 2,
+          "question": "To jab at the arts academy in Antwerp, a disgruntled Van Gogh painted what \"Head of a WHAT with a Burning Cigarette\" sometime around 1886?"
+        },
+        {
+          "points": 1,
+          "question": "In his \"Self-Portrait with Death Playing the Fiddle,\" Arnold Böcklin stands in front of a spooky scary WHAT?"
+        }
+      ]
+    },
+    {
+      "id": 5331,
+      "category": "Consumer Stuff",
+      "answer": "Spirit Halloween",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Originally a discount women's clothing store, in 2024 what Spencer's Gifts-owned retailer announced a push to start selling Christmas decor?"
+        },
+        {
+          "points": 2,
+          "question": "Known for taking over former Toy's R Us and JC Penney's stores, what niche supplier is only open about 8-10 weeks each autumn?"
+        },
+        {
+          "points": 1,
+          "question": "Fright Zone and Madison Scare Park are themes used by for what seasonal costume seller with a bright orange logo?"
+        }
+      ]
+    },
+    {
+      "id": 5324,
+      "category": "Science & Nature",
+      "answer": "Maggots",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 2003, the FDA approved a gross-but-effective treatment of using live animals to clean wounds, known as WHAT debridement therapy?"
+        },
+        {
+          "points": 2,
+          "question": "Black soldier flies lose their mouths when they reach maturity, only eating during what legless part of their life cycle?"
+        },
+        {
+          "points": 1,
+          "question": "Typically hatching in rotting meat, manure, or garbage, what wriggly, yellow decomposers were frequent guests on \"Fear Factor\"?"
+        }
+      ]
+    },
+    {
+      "id": 5326,
+      "category": "Entertainment",
+      "answer": "Monster Mash",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Initially banned by the BBC for being too morbid, what song from October 1962 is a loose parody of the \"Mashed Potato\"?"
+        },
+        {
+          "points": 2,
+          "question": "Boris Pickett does a Boris Karloff impression through most of the verses of what novelty song?"
+        },
+        {
+          "points": 1,
+          "question": "Per the lyrics, what Halloween dance \"caught on in a flash\" and was supposedly \"a graveyard smash\" when it debuted?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1218,
+    "dailyId": "1261",
+    "retrievedAt": "2026-10-29T17:07:13.464021+00:00"
+  }
+}
