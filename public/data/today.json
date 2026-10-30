@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5316,
-      "category": "Social Sciences",
-      "answer": "Harry Houdini",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Better known for debunking seances and psychics, what Hungarian-American was one of the first people to fly a plane over Australia?"
-        },
-        {
-          "points": 2,
-          "question": "Inventor of the Chinese Water Torture Cell, what 1920s celebrity died on Halloween after an ill-timed punch to the stomach?"
-        },
-        {
-          "points": 1,
-          "question": "Renowned for his ability to escape straitjackets, milk cans, and handcuffs, what illusionist is likely the most famous magician to have ever lived?"
-        }
-      ]
-    },
-    {
-      "id": 5311,
-      "category": "Arts & Culture",
-      "answer": "Skeleton",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Depicting a giant undead monster, the Honolulu Museum of Art boasts the famous Japanese triptych, \"Takiyasha the Witch and the WHAT Spectre\"?"
-        },
-        {
-          "points": 2,
-          "question": "To jab at the arts academy in Antwerp, a disgruntled Van Gogh painted what \"Head of a WHAT with a Burning Cigarette\" sometime around 1886?"
-        },
-        {
-          "points": 1,
-          "question": "In his \"Self-Portrait with Death Playing the Fiddle,\" Arnold Böcklin stands in front of a spooky scary WHAT?"
-        }
-      ]
-    },
-    {
-      "id": 5331,
+      "id": 5334,
       "category": "Consumer Stuff",
-      "answer": "Spirit Halloween",
+      "answer": "Reese's",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Originally a discount women's clothing store, in 2024 what Spencer's Gifts-owned retailer announced a push to start selling Christmas decor?"
+          "question": "Bizarrely, former FCC chair Ajit Pai frequently drank from an oversized mug featuring the logo of what Hershey-owned candy brand?"
         },
         {
           "points": 2,
-          "question": "Known for taking over former Toy's R Us and JC Penney's stores, what niche supplier is only open about 8-10 weeks each autumn?"
+          "question": "After M&M's said no, Spielberg did some serious product placement for what brand by making them E.T.'s favorite candy?"
         },
         {
           "points": 1,
-          "question": "Fright Zone and Madison Scare Park are themes used by for what seasonal costume seller with a bright orange logo?"
+          "question": "Initially selling them as \"penny cups,\" H.B. SOMETHING created the circular peanut butter and chocolate recipe used by what brand?"
         }
       ]
     },
     {
-      "id": 5324,
+      "id": 5317,
+      "category": "Social Sciences",
+      "answer": "Witch Trials",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 1590 King James VI of Scotland presided over what events in North Berwick, 35 years before an even deadlier set in Würzburg?"
+        },
+        {
+          "points": 2,
+          "question": "Including a test to see if someone can float in water, Heinrich Kramer's \"Malleus Maleficarum\" endorses and describes how to run what sort of tribunal?"
+        },
+        {
+          "points": 1,
+          "question": "Often targeting women and accusing them of devil worship, what dubious legal proceedings famously occurred in Salem, MA in 1692?"
+        }
+      ]
+    },
+    {
+      "id": 5322,
       "category": "Science & Nature",
-      "answer": "Maggots",
+      "answer": "Anxiety",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "In 2003, the FDA approved a gross-but-effective treatment of using live animals to clean wounds, known as WHAT debridement therapy?"
+          "question": "Existential psychologist Rollo May contrasts the \"normal\" and \"neurotic\" in his book about \"The Meaning of\" what emotional state?"
         },
         {
           "points": 2,
-          "question": "Black soldier flies lose their mouths when they reach maturity, only eating during what legless part of their life cycle?"
+          "question": "Using fMRIs, James Coan showed that holding hands with one's spouse reduces what feeling that can be \"social\" or \"generalized\"?"
         },
         {
           "points": 1,
-          "question": "Typically hatching in rotting meat, manure, or garbage, what wriggly, yellow decomposers were frequent guests on \"Fear Factor\"?"
+          "question": "Claustrophobia and PTSD are both categorized as what type of A-disorder that's characterized by feelings of tension without any immediate danger?"
         }
       ]
     },
     {
-      "id": 5326,
-      "category": "Entertainment",
-      "answer": "Monster Mash",
+      "id": 5315,
+      "category": "Arts & Culture",
+      "answer": "The Nightmare",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Initially banned by the BBC for being too morbid, what song from October 1962 is a loose parody of the \"Mashed Potato\"?"
+          "question": "A golden incubus crouches atop a woman's chest in what 1790 oil painting on display in the Detroit Institute of Arts?"
         },
         {
           "points": 2,
-          "question": "Boris Pickett does a Boris Karloff impression through most of the verses of what novelty song?"
+          "question": "Essentially a visual pun, a glowing-eyed horse emerges from behind red curtains in the background of what Henry Fuseli painting?"
         },
         {
           "points": 1,
-          "question": "Per the lyrics, what Halloween dance \"caught on in a flash\" and was supposedly \"a graveyard smash\" when it debuted?"
+          "question": "Tossing and turning, a woman in white is clearly having some bad dreams in the Gothic painting named for what phenomenon?"
+        }
+      ]
+    },
+    {
+      "id": 5329,
+      "category": "Entertainment",
+      "answer": "The Addams Family",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Cameoing as a man inside a model train, Barry Sonnenfeld's directorial debut was what 1991 comedy?"
+        },
+        {
+          "points": 2,
+          "question": "The New Yorker cartoons of Charles SOMETHING inspired what 60s TV series about the residents of a Gothic mansion at 0001 Cemetery Lane?"
+        },
+        {
+          "points": 1,
+          "question": "Snap snap! Gomez, Morticia, Uncle Fester, Pugsley, Lurch, and Wednesday are the principle members of what \"all together ooky\" group?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1218,
-    "dailyId": "1261",
-    "retrievedAt": "2026-10-29T17:07:13.464021+00:00"
+    "quizNumber": 1219,
+    "dailyId": "1262",
+    "retrievedAt": "2026-10-30T16:50:46.341320+00:00"
   }
 }

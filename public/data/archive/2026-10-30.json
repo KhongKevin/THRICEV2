@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-30",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5334,
+      "category": "Consumer Stuff",
+      "answer": "Reese's",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Bizarrely, former FCC chair Ajit Pai frequently drank from an oversized mug featuring the logo of what Hershey-owned candy brand?"
+        },
+        {
+          "points": 2,
+          "question": "After M&M's said no, Spielberg did some serious product placement for what brand by making them E.T.'s favorite candy?"
+        },
+        {
+          "points": 1,
+          "question": "Initially selling them as \"penny cups,\" H.B. SOMETHING created the circular peanut butter and chocolate recipe used by what brand?"
+        }
+      ]
+    },
+    {
+      "id": 5317,
+      "category": "Social Sciences",
+      "answer": "Witch Trials",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 1590 King James VI of Scotland presided over what events in North Berwick, 35 years before an even deadlier set in Würzburg?"
+        },
+        {
+          "points": 2,
+          "question": "Including a test to see if someone can float in water, Heinrich Kramer's \"Malleus Maleficarum\" endorses and describes how to run what sort of tribunal?"
+        },
+        {
+          "points": 1,
+          "question": "Often targeting women and accusing them of devil worship, what dubious legal proceedings famously occurred in Salem, MA in 1692?"
+        }
+      ]
+    },
+    {
+      "id": 5322,
+      "category": "Science & Nature",
+      "answer": "Anxiety",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Existential psychologist Rollo May contrasts the \"normal\" and \"neurotic\" in his book about \"The Meaning of\" what emotional state?"
+        },
+        {
+          "points": 2,
+          "question": "Using fMRIs, James Coan showed that holding hands with one's spouse reduces what feeling that can be \"social\" or \"generalized\"?"
+        },
+        {
+          "points": 1,
+          "question": "Claustrophobia and PTSD are both categorized as what type of A-disorder that's characterized by feelings of tension without any immediate danger?"
+        }
+      ]
+    },
+    {
+      "id": 5315,
+      "category": "Arts & Culture",
+      "answer": "The Nightmare",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A golden incubus crouches atop a woman's chest in what 1790 oil painting on display in the Detroit Institute of Arts?"
+        },
+        {
+          "points": 2,
+          "question": "Essentially a visual pun, a glowing-eyed horse emerges from behind red curtains in the background of what Henry Fuseli painting?"
+        },
+        {
+          "points": 1,
+          "question": "Tossing and turning, a woman in white is clearly having some bad dreams in the Gothic painting named for what phenomenon?"
+        }
+      ]
+    },
+    {
+      "id": 5329,
+      "category": "Entertainment",
+      "answer": "The Addams Family",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Cameoing as a man inside a model train, Barry Sonnenfeld's directorial debut was what 1991 comedy?"
+        },
+        {
+          "points": 2,
+          "question": "The New Yorker cartoons of Charles SOMETHING inspired what 60s TV series about the residents of a Gothic mansion at 0001 Cemetery Lane?"
+        },
+        {
+          "points": 1,
+          "question": "Snap snap! Gomez, Morticia, Uncle Fester, Pugsley, Lurch, and Wednesday are the principle members of what \"all together ooky\" group?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1219,
+    "dailyId": "1262",
+    "retrievedAt": "2026-10-30T16:50:46.341320+00:00"
+  }
+}
