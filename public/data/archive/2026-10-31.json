@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-31",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5330,
+      "category": "Entertainment",
+      "answer": "Hocus Pocus",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Halloween House\" was the working title for what 1993 film that features a performance of Screamin' Jay Hawkins' \"I Put a Spell on You\"?"
+        },
+        {
+          "points": 2,
+          "question": "Mary Sanderson flies by balancing on a pair of Roombas, in the 2022 sequel to what Salem-set Disney film?"
+        },
+        {
+          "points": 1,
+          "question": "Bette Midler and Sarah Jessica Parker both play witches in what Halloween comedy named after a rhyming incantation?"
+        }
+      ]
+    },
+    {
+      "id": 5336,
+      "category": "Consumer Stuff",
+      "answer": "Gummy Bears",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Bouncing here and there and everywhere!\" Disney's first major animated series was inspired by what generic candy?"
+        },
+        {
+          "points": 2,
+          "question": "Hans Riegel of Bonn invented what bestial candy whose white versions are supposed to be pineapple-flavored?"
+        },
+        {
+          "points": 1,
+          "question": "Haribo was the first to sell what gelatinous animals that weirdly are much smaller than the \"worms\" that Haribo also sells?"
+        }
+      ]
+    },
+    {
+      "id": 5307,
+      "category": "Arts & Culture",
+      "answer": "Elvis Presley",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The titular foursome of the jukebox musical \"The Million Dollar Quartet\" are Carl Perkins, Jerry Lee Lewis, Johnny Cash, and what other Sun Studios fella?"
+        },
+        {
+          "points": 2,
+          "question": "\"Twelth Night\" and a bunch of other Shakespeare inspirations got thrown into the 2004 musical \"All Shook Up,\" featuring the songs of what rocker?"
+        },
+        {
+          "points": 1,
+          "question": "Featuring \"Are You Lonesome Tonight,\" \"Hound Dog,\" and Tracey Ullman as the Dance Captain, there was a '70s West End musical named for what rock and roll man?"
+        }
+      ]
+    },
+    {
+      "id": 5323,
+      "category": "Science & Nature",
+      "answer": "Bubonic Plague",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The bacterium Yersinia pestis causes what disease that can also be septicemic or pneumonic?"
+        },
+        {
+          "points": 2,
+          "question": "Swollen lymph nodes in the neck, armpits, and groin are the namesake of what disease carried by fleas?"
+        },
+        {
+          "points": 1,
+          "question": "Legend says that the nursery rhyme \"Ring Around the Rosie\" was inspired by what pandemic that wiped out a third of Medieval Europe?"
+        }
+      ]
+    },
+    {
+      "id": 5319,
+      "category": "Social Sciences",
+      "answer": "Halloween",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Some places in the American Midwest and New England celebrate Beggar's Night, as a less rambunctious substitute for what holiday?"
+        },
+        {
+          "points": 2,
+          "question": "Traditions like bobbing for apples may have emerged from the Celtic festival of Samhain, which heavily influenced the American conception of what celebration?"
+        },
+        {
+          "points": 1,
+          "question": "Dressing up in costumes and trick-or-treating for candy are modern hallmarks of what spooky end-of-October festival that, I mean, come on, you knew was going to be an answer today?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1220,
+    "dailyId": "1263",
+    "retrievedAt": "2026-10-31T15:54:35.733619+00:00"
+  }
+}
