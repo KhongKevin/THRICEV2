@@ -1,104 +1,104 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5330,
-      "category": "Entertainment",
-      "answer": "Hocus Pocus",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "\"Halloween House\" was the working title for what 1993 film that features a performance of Screamin' Jay Hawkins' \"I Put a Spell on You\"?"
-        },
-        {
-          "points": 2,
-          "question": "Mary Sanderson flies by balancing on a pair of Roombas, in the 2022 sequel to what Salem-set Disney film?"
-        },
-        {
-          "points": 1,
-          "question": "Bette Midler and Sarah Jessica Parker both play witches in what Halloween comedy named after a rhyming incantation?"
-        }
-      ]
-    },
-    {
-      "id": 5336,
-      "category": "Consumer Stuff",
-      "answer": "Gummy Bears",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "\"Bouncing here and there and everywhere!\" Disney's first major animated series was inspired by what generic candy?"
-        },
-        {
-          "points": 2,
-          "question": "Hans Riegel of Bonn invented what bestial candy whose white versions are supposed to be pineapple-flavored?"
-        },
-        {
-          "points": 1,
-          "question": "Haribo was the first to sell what gelatinous animals that weirdly are much smaller than the \"worms\" that Haribo also sells?"
-        }
-      ]
-    },
-    {
-      "id": 5307,
-      "category": "Arts & Culture",
-      "answer": "Elvis Presley",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The titular foursome of the jukebox musical \"The Million Dollar Quartet\" are Carl Perkins, Jerry Lee Lewis, Johnny Cash, and what other Sun Studios fella?"
-        },
-        {
-          "points": 2,
-          "question": "\"Twelth Night\" and a bunch of other Shakespeare inspirations got thrown into the 2004 musical \"All Shook Up,\" featuring the songs of what rocker?"
-        },
-        {
-          "points": 1,
-          "question": "Featuring \"Are You Lonesome Tonight,\" \"Hound Dog,\" and Tracey Ullman as the Dance Captain, there was a '70s West End musical named for what rock and roll man?"
-        }
-      ]
-    },
-    {
-      "id": 5323,
+      "id": 5337,
       "category": "Science & Nature",
-      "answer": "Bubonic Plague",
+      "answer": "Chupacabra",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The bacterium Yersinia pestis causes what disease that can also be septicemic or pneumonic?"
+          "question": "Puerto Rican comedian Silverio Pérez takes credit for inventing the name of what mythical beast that's been seen in towns from Chile to Maine?"
         },
         {
           "points": 2,
-          "question": "Swollen lymph nodes in the neck, armpits, and groin are the namesake of what disease carried by fleas?"
+          "question": "1995's \"Species\" has been cited as a possible origin for what reptilian, kangaroo-like blood-drinker?"
         },
         {
           "points": 1,
-          "question": "Legend says that the nursery rhyme \"Ring Around the Rosie\" was inspired by what pandemic that wiped out a third of Medieval Europe?"
+          "question": "\"C\" is for \"cryptozoology,\" and fir what Latin American urban legend whose name comes from the Spanish for \"goat sucker\"?"
         }
       ]
     },
     {
-      "id": 5319,
-      "category": "Social Sciences",
-      "answer": "Halloween",
+      "id": 5338,
+      "category": "Consumer Stuff",
+      "answer": "Party City",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Some places in the American Midwest and New England celebrate Beggar's Night, as a less rambunctious substitute for what holiday?"
+          "question": "Owners of the Chia Pet, Ad Populum owns what once-mighty chain that now has some mini-stores inside select Staples locations?"
         },
         {
           "points": 2,
-          "question": "Traditions like bobbing for apples may have emerged from the Celtic festival of Samhain, which heavily influenced the American conception of what celebration?"
+          "question": "Founder Steve Mandell started maintaining a year-round Halloween Costume Warehouse at locations for what Spirit competitor?"
         },
         {
           "points": 1,
-          "question": "Dressing up in costumes and trick-or-treating for candy are modern hallmarks of what spooky end-of-October festival that, I mean, come on, you knew was going to be an answer today?"
+          "question": "Toy City and Halloween City were spin-offs of what other \"City\" that sells holiday decorations and balloons under its multicolored logo?"
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "category": "Arts & Culture",
+      "answer": "Interview with the Vampire",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Coven leader Armand is implied to have orchestrated the death of Claudia, in what 1976 novel?"
+        },
+        {
+          "points": 2,
+          "question": "\"Prince Lestat\" and \"Queen of the Damned\" are sequels to what gothic book that splits its action between Paris and New Orleans?"
+        },
+        {
+          "points": 1,
+          "question": "The immortal Louis de Pointe du Lac recounts his life to a reporter in what Anne Rice book that got adapted into a decent Tom Cruise movie?"
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "category": "Social Sciences",
+      "answer": "Día de los Muertos",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Rituals used to honor the Aztec goddess Mictecacihuatl were incorporated into what modern holiday that's being celebrated in the opening scene of \"Spectre\"?"
+        },
+        {
+          "points": 2,
+          "question": "Altars called ofrendas are prepared with marigolds and photographs, for what two-day long celebration known for its sweet bread?"
+        },
+        {
+          "points": 1,
+          "question": "Calaveras or sugar skulls are common fixtures of what Mexican holiday that's a major plot point in the movie \"Coco\"?"
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "category": "Entertainment",
+      "answer": "KPop Demon Hunters",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Many Halloween tutorials last year focused on making the purple braid worn by Rumi, one of the main characters in what film?"
+        },
+        {
+          "points": 2,
+          "question": "With their fiendishly catchy song \"Soda Pop,\" the Saja Boys appear in what Netflix film that also gave us the certified bop \"Golden\"?"
+        },
+        {
+          "points": 1,
+          "question": "The band Huntrix uses their music to stop supernatural creatures from stealing human souls, in what animated film set in Seoul?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1220,
-    "dailyId": "1263",
-    "retrievedAt": "2026-10-31T15:54:35.733619+00:00"
+    "quizNumber": 1221,
+    "dailyId": "1264",
+    "retrievedAt": "2026-11-01T17:14:09.251170+00:00"
   }
 }

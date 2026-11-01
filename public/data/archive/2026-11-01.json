@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-01",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5337,
+      "category": "Science & Nature",
+      "answer": "Chupacabra",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Puerto Rican comedian Silverio Pérez takes credit for inventing the name of what mythical beast that's been seen in towns from Chile to Maine?"
+        },
+        {
+          "points": 2,
+          "question": "1995's \"Species\" has been cited as a possible origin for what reptilian, kangaroo-like blood-drinker?"
+        },
+        {
+          "points": 1,
+          "question": "\"C\" is for \"cryptozoology,\" and fir what Latin American urban legend whose name comes from the Spanish for \"goat sucker\"?"
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "category": "Consumer Stuff",
+      "answer": "Party City",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Owners of the Chia Pet, Ad Populum owns what once-mighty chain that now has some mini-stores inside select Staples locations?"
+        },
+        {
+          "points": 2,
+          "question": "Founder Steve Mandell started maintaining a year-round Halloween Costume Warehouse at locations for what Spirit competitor?"
+        },
+        {
+          "points": 1,
+          "question": "Toy City and Halloween City were spin-offs of what other \"City\" that sells holiday decorations and balloons under its multicolored logo?"
+        }
+      ]
+    },
+    {
+      "id": 5341,
+      "category": "Arts & Culture",
+      "answer": "Interview with the Vampire",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Coven leader Armand is implied to have orchestrated the death of Claudia, in what 1976 novel?"
+        },
+        {
+          "points": 2,
+          "question": "\"Prince Lestat\" and \"Queen of the Damned\" are sequels to what gothic book that splits its action between Paris and New Orleans?"
+        },
+        {
+          "points": 1,
+          "question": "The immortal Louis de Pointe du Lac recounts his life to a reporter in what Anne Rice book that got adapted into a decent Tom Cruise movie?"
+        }
+      ]
+    },
+    {
+      "id": 5339,
+      "category": "Social Sciences",
+      "answer": "Día de los Muertos",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Rituals used to honor the Aztec goddess Mictecacihuatl were incorporated into what modern holiday that's being celebrated in the opening scene of \"Spectre\"?"
+        },
+        {
+          "points": 2,
+          "question": "Altars called ofrendas are prepared with marigolds and photographs, for what two-day long celebration known for its sweet bread?"
+        },
+        {
+          "points": 1,
+          "question": "Calaveras or sugar skulls are common fixtures of what Mexican holiday that's a major plot point in the movie \"Coco\"?"
+        }
+      ]
+    },
+    {
+      "id": 5340,
+      "category": "Entertainment",
+      "answer": "KPop Demon Hunters",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Many Halloween tutorials last year focused on making the purple braid worn by Rumi, one of the main characters in what film?"
+        },
+        {
+          "points": 2,
+          "question": "With their fiendishly catchy song \"Soda Pop,\" the Saja Boys appear in what Netflix film that also gave us the certified bop \"Golden\"?"
+        },
+        {
+          "points": 1,
+          "question": "The band Huntrix uses their music to stop supernatural creatures from stealing human souls, in what animated film set in Seoul?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1221,
+    "dailyId": "1264",
+    "retrievedAt": "2026-11-01T17:14:09.251170+00:00"
+  }
+}
