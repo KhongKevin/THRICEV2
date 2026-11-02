@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5337,
-      "category": "Science & Nature",
-      "answer": "Chupacabra",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Puerto Rican comedian Silverio Pérez takes credit for inventing the name of what mythical beast that's been seen in towns from Chile to Maine?"
-        },
-        {
-          "points": 2,
-          "question": "1995's \"Species\" has been cited as a possible origin for what reptilian, kangaroo-like blood-drinker?"
-        },
-        {
-          "points": 1,
-          "question": "\"C\" is for \"cryptozoology,\" and fir what Latin American urban legend whose name comes from the Spanish for \"goat sucker\"?"
-        }
-      ]
-    },
-    {
-      "id": 5338,
-      "category": "Consumer Stuff",
-      "answer": "Party City",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Owners of the Chia Pet, Ad Populum owns what once-mighty chain that now has some mini-stores inside select Staples locations?"
-        },
-        {
-          "points": 2,
-          "question": "Founder Steve Mandell started maintaining a year-round Halloween Costume Warehouse at locations for what Spirit competitor?"
-        },
-        {
-          "points": 1,
-          "question": "Toy City and Halloween City were spin-offs of what other \"City\" that sells holiday decorations and balloons under its multicolored logo?"
-        }
-      ]
-    },
-    {
-      "id": 5341,
-      "category": "Arts & Culture",
-      "answer": "Interview with the Vampire",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Coven leader Armand is implied to have orchestrated the death of Claudia, in what 1976 novel?"
-        },
-        {
-          "points": 2,
-          "question": "\"Prince Lestat\" and \"Queen of the Damned\" are sequels to what gothic book that splits its action between Paris and New Orleans?"
-        },
-        {
-          "points": 1,
-          "question": "The immortal Louis de Pointe du Lac recounts his life to a reporter in what Anne Rice book that got adapted into a decent Tom Cruise movie?"
-        }
-      ]
-    },
-    {
-      "id": 5339,
-      "category": "Social Sciences",
-      "answer": "Día de los Muertos",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Rituals used to honor the Aztec goddess Mictecacihuatl were incorporated into what modern holiday that's being celebrated in the opening scene of \"Spectre\"?"
-        },
-        {
-          "points": 2,
-          "question": "Altars called ofrendas are prepared with marigolds and photographs, for what two-day long celebration known for its sweet bread?"
-        },
-        {
-          "points": 1,
-          "question": "Calaveras or sugar skulls are common fixtures of what Mexican holiday that's a major plot point in the movie \"Coco\"?"
-        }
-      ]
-    },
-    {
-      "id": 5340,
+      "id": 5350,
       "category": "Entertainment",
-      "answer": "KPop Demon Hunters",
+      "answer": "Tim Burton",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Many Halloween tutorials last year focused on making the purple braid worn by Rumi, one of the main characters in what film?"
+          "question": "The taxidermied Heraldo, the skeletal Scraps, and the ghost Zero have all appeared in movies produced by what filmmaker with a thing for dead dogs?"
         },
         {
           "points": 2,
-          "question": "With their fiendishly catchy song \"Soda Pop,\" the Saja Boys appear in what Netflix film that also gave us the certified bop \"Golden\"?"
+          "question": "Including 2010's \"Alice in Wonderland,\" Helena Bonham Carter has appeared in seven films directed by what former Disney animator?"
         },
         {
           "points": 1,
-          "question": "The band Huntrix uses their music to stop supernatural creatures from stealing human souls, in what animated film set in Seoul?"
+          "question": "Creating the characters Edward Scissorhands and Beetlejuice helped get what director associated with a weirdo-Gothic vibe?"
+        }
+      ]
+    },
+    {
+      "id": 5346,
+      "category": "Consumer Stuff",
+      "answer": "Glow sticks",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "American Cyanamid trademarked a chemical called \"Cyalume\" for use in what objects that were originally developed by the military to replace flares?"
+        },
+        {
+          "points": 2,
+          "question": "While heating them up makes the chemical reaction go quicker, placing what objects in the freezer does in fact make them last longer?"
+        },
+        {
+          "points": 1,
+          "question": "What waterproof, crack-able light sources are recommended in survivor kits but also often sold at concerts and raves?"
+        }
+      ]
+    },
+    {
+      "id": 5345,
+      "category": "Science & Nature",
+      "answer": "Howl",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Because they can make a certain noise at volumes as loud as 140 decibels, the primates in the genus Alouatta are known as WHATer monkeys?"
+        },
+        {
+          "points": 2,
+          "question": "Hounds like beagles and spitz-types like huskies statistically engage in what communication behavior more frequently than other breeds of dog?"
+        },
+        {
+          "points": 1,
+          "question": "Whether or not the moon is out, wolves signal to pack members and communicate boundaries by making what noise?"
+        }
+      ]
+    },
+    {
+      "id": 5342,
+      "category": "Arts & Culture",
+      "answer": "Goblin",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Come buy, come buy!\" Malicious creatures try and tempt Laura and Lizzie with fruit in the Christina Rossetti poem \"WHAT Market\"?"
+        },
+        {
+          "points": 2,
+          "question": "Curdie rescues Irene from some impish subterranean kidnappers with sensitive feet, in George Macdonald's \"The Princess and the WHAT\"?"
+        },
+        {
+          "points": 1,
+          "question": "In \"The Hobbit,\" Gandalf saves the group from some orc-like creatures beneath the Misty Mountains who are led by the \"Great WHAT\"?"
+        }
+      ]
+    },
+    {
+      "id": 5349,
+      "category": "Social Sciences",
+      "answer": "Satanism",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "With his daughter Zeena at one time acting as High Priestess, Anton LaVey wrote the bible for what countercultural religion?"
+        },
+        {
+          "points": 2,
+          "question": "The Sigil of Baphomet is a symbol of what movement that promotes \"vengeance instead of turning the other cheek\"?"
+        },
+        {
+          "points": 1,
+          "question": "Treating their horned namesake more as an allegorical figurehead, members of what faith insist they are not actually devil worshipers?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1221,
-    "dailyId": "1264",
-    "retrievedAt": "2026-11-01T17:14:09.251170+00:00"
+    "quizNumber": 1222,
+    "dailyId": "1265",
+    "retrievedAt": "2026-11-02T20:52:07.445749+00:00"
   }
 }
