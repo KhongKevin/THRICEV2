@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5350,
-      "category": "Entertainment",
-      "answer": "Tim Burton",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The taxidermied Heraldo, the skeletal Scraps, and the ghost Zero have all appeared in movies produced by what filmmaker with a thing for dead dogs?"
-        },
-        {
-          "points": 2,
-          "question": "Including 2010's \"Alice in Wonderland,\" Helena Bonham Carter has appeared in seven films directed by what former Disney animator?"
-        },
-        {
-          "points": 1,
-          "question": "Creating the characters Edward Scissorhands and Beetlejuice helped get what director associated with a weirdo-Gothic vibe?"
-        }
-      ]
-    },
-    {
-      "id": 5346,
+      "id": 5347,
       "category": "Consumer Stuff",
-      "answer": "Glow sticks",
+      "answer": "M&M's",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "American Cyanamid trademarked a chemical called \"Cyalume\" for use in what objects that were originally developed by the military to replace flares?"
+          "question": "Jon Lovitz and John Goodman were the original voices for what brand's most prominent mascots?"
         },
         {
           "points": 2,
-          "question": "While heating them up makes the chemical reaction go quicker, placing what objects in the freezer does in fact make them last longer?"
+          "question": "In 1995, Mars ran a color voting campaign that ultimately replaced tans with blues in packs of what popular candy?"
         },
         {
           "points": 1,
-          "question": "What waterproof, crack-able light sources are recommended in survivor kits but also often sold at concerts and raves?"
+          "question": "Along with Forest Mars, Bruce Murrie is credited with conceiving of what chocolate candy that \"melts in your mouth, not in your hand\"?"
         }
       ]
     },
     {
-      "id": 5345,
-      "category": "Science & Nature",
-      "answer": "Howl",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Because they can make a certain noise at volumes as loud as 140 decibels, the primates in the genus Alouatta are known as WHATer monkeys?"
-        },
-        {
-          "points": 2,
-          "question": "Hounds like beagles and spitz-types like huskies statistically engage in what communication behavior more frequently than other breeds of dog?"
-        },
-        {
-          "points": 1,
-          "question": "Whether or not the moon is out, wolves signal to pack members and communicate boundaries by making what noise?"
-        }
-      ]
-    },
-    {
-      "id": 5342,
-      "category": "Arts & Culture",
-      "answer": "Goblin",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "\"Come buy, come buy!\" Malicious creatures try and tempt Laura and Lizzie with fruit in the Christina Rossetti poem \"WHAT Market\"?"
-        },
-        {
-          "points": 2,
-          "question": "Curdie rescues Irene from some impish subterranean kidnappers with sensitive feet, in George Macdonald's \"The Princess and the WHAT\"?"
-        },
-        {
-          "points": 1,
-          "question": "In \"The Hobbit,\" Gandalf saves the group from some orc-like creatures beneath the Misty Mountains who are led by the \"Great WHAT\"?"
-        }
-      ]
-    },
-    {
-      "id": 5349,
+      "id": 5348,
       "category": "Social Sciences",
-      "answer": "Satanism",
+      "answer": "Bermuda Triangle",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "With his daughter Zeena at one time acting as High Priestess, Anton LaVey wrote the bible for what countercultural religion?"
+          "question": "Traditionally Miami, San Juan, and a certain British Overseas Territory form the vertices of what unofficial geographic region?"
         },
         {
           "points": 2,
-          "question": "The Sigil of Baphomet is a symbol of what movement that promotes \"vengeance instead of turning the other cheek\"?"
+          "question": "Citing stories like Flight 19, the Fate article \"Sea Mystery at Our Back Door\" is credited with popularizing what urban legend?"
         },
         {
           "points": 1,
-          "question": "Treating their horned namesake more as an allegorical figurehead, members of what faith insist they are not actually devil worshipers?"
+          "question": "The USS Cyclops and Donald Crowhurst's yacht are just a few of the ships that have gone missing in what purportedly supernatural part of the Atlantic?"
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "category": "Entertainment",
+      "answer": "Buffy the Vampire Slayer",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Kristy Swanson and Rutger Hauer square off in the movie that spawned what seven-season show?"
+        },
+        {
+          "points": 2,
+          "question": "The musical episode \"Once More, with Feeling\" and the silent episode \"Hush\" are standouts of what 1997 TV series featuring Willow and Xander"
+        },
+        {
+          "points": 1,
+          "question": "Fighting and loving memorable undead like Angel and Spike, Sarah Michelle Geller played the title heroine of what supernatural show?"
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "category": "Science & Nature",
+      "answer": "Raven",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Charles Dickens's pets included Grip, a member of what songbird species that's capable of some basic speech?"
+        },
+        {
+          "points": 2,
+          "question": "Renowned for their intelligence, what corvids have been found to use tools, make plans, and deliver messages in \"Game of Thrones\"?"
+        },
+        {
+          "points": 1,
+          "question": "Nevermore! What birds are extremely similar to crows, but are larger and capable of louder caws?"
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "category": "Arts & Culture",
+      "answer": "The Shining",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A former resident of Derry, Maine, Dick Hallorann mentors the young Danny and survives the end of what 1977 novel?"
+        },
+        {
+          "points": 2,
+          "question": "Stephen King was staying at Colorado's Stanley Hotel when he had a nightmare that inspired the Overlook Hotel from what book?"
+        },
+        {
+          "points": 1,
+          "question": "Stanley Kubrick added a blood elevator, to creepy little ghost girls, and the line \"Here's Johnny\" when he adapted what horror film?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1222,
-    "dailyId": "1265",
-    "retrievedAt": "2026-11-02T20:52:07.445749+00:00"
+    "quizNumber": 1223,
+    "dailyId": "1266",
+    "retrievedAt": "2026-11-03T18:38:18.544489+00:00"
   }
 }

@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-03",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5347,
+      "category": "Consumer Stuff",
+      "answer": "M&M's",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Jon Lovitz and John Goodman were the original voices for what brand's most prominent mascots?"
+        },
+        {
+          "points": 2,
+          "question": "In 1995, Mars ran a color voting campaign that ultimately replaced tans with blues in packs of what popular candy?"
+        },
+        {
+          "points": 1,
+          "question": "Along with Forest Mars, Bruce Murrie is credited with conceiving of what chocolate candy that \"melts in your mouth, not in your hand\"?"
+        }
+      ]
+    },
+    {
+      "id": 5348,
+      "category": "Social Sciences",
+      "answer": "Bermuda Triangle",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Traditionally Miami, San Juan, and a certain British Overseas Territory form the vertices of what unofficial geographic region?"
+        },
+        {
+          "points": 2,
+          "question": "Citing stories like Flight 19, the Fate article \"Sea Mystery at Our Back Door\" is credited with popularizing what urban legend?"
+        },
+        {
+          "points": 1,
+          "question": "The USS Cyclops and Donald Crowhurst's yacht are just a few of the ships that have gone missing in what purportedly supernatural part of the Atlantic?"
+        }
+      ]
+    },
+    {
+      "id": 5351,
+      "category": "Entertainment",
+      "answer": "Buffy the Vampire Slayer",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Kristy Swanson and Rutger Hauer square off in the movie that spawned what seven-season show?"
+        },
+        {
+          "points": 2,
+          "question": "The musical episode \"Once More, with Feeling\" and the silent episode \"Hush\" are standouts of what 1997 TV series featuring Willow and Xander"
+        },
+        {
+          "points": 1,
+          "question": "Fighting and loving memorable undead like Angel and Spike, Sarah Michelle Geller played the title heroine of what supernatural show?"
+        }
+      ]
+    },
+    {
+      "id": 5344,
+      "category": "Science & Nature",
+      "answer": "Raven",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Charles Dickens's pets included Grip, a member of what songbird species that's capable of some basic speech?"
+        },
+        {
+          "points": 2,
+          "question": "Renowned for their intelligence, what corvids have been found to use tools, make plans, and deliver messages in \"Game of Thrones\"?"
+        },
+        {
+          "points": 1,
+          "question": "Nevermore! What birds are extremely similar to crows, but are larger and capable of louder caws?"
+        }
+      ]
+    },
+    {
+      "id": 5343,
+      "category": "Arts & Culture",
+      "answer": "The Shining",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A former resident of Derry, Maine, Dick Hallorann mentors the young Danny and survives the end of what 1977 novel?"
+        },
+        {
+          "points": 2,
+          "question": "Stephen King was staying at Colorado's Stanley Hotel when he had a nightmare that inspired the Overlook Hotel from what book?"
+        },
+        {
+          "points": 1,
+          "question": "Stanley Kubrick added a blood elevator, to creepy little ghost girls, and the line \"Here's Johnny\" when he adapted what horror film?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1223,
+    "dailyId": "1266",
+    "retrievedAt": "2026-11-03T18:38:18.544489+00:00"
+  }
+}
