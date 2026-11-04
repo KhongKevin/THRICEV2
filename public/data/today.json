@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5347,
-      "category": "Consumer Stuff",
-      "answer": "M&M's",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Jon Lovitz and John Goodman were the original voices for what brand's most prominent mascots?"
-        },
-        {
-          "points": 2,
-          "question": "In 1995, Mars ran a color voting campaign that ultimately replaced tans with blues in packs of what popular candy?"
-        },
-        {
-          "points": 1,
-          "question": "Along with Forest Mars, Bruce Murrie is credited with conceiving of what chocolate candy that \"melts in your mouth, not in your hand\"?"
-        }
-      ]
-    },
-    {
-      "id": 5348,
+      "id": 5354,
       "category": "Social Sciences",
-      "answer": "Bermuda Triangle",
+      "answer": "The Alamo",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Traditionally Miami, San Juan, and a certain British Overseas Territory form the vertices of what unofficial geographic region?"
+          "question": "Col. William Travis supposedly drew a line in the sand dared volunteers to cross it and fight, while defending what US fort?"
         },
         {
           "points": 2,
-          "question": "Citing stories like Flight 19, the Fate article \"Sea Mystery at Our Back Door\" is credited with popularizing what urban legend?"
+          "question": "Three weeks before the Goliad Massacre, General Santa Anna's forces captured what former Catholic mission on March 6, 1836?"
         },
         {
           "points": 1,
-          "question": "The USS Cyclops and Donald Crowhurst's yacht are just a few of the ships that have gone missing in what purportedly supernatural part of the Atlantic?"
+          "question": "Davy Crockett and Jim Bowie died in what San Antonio building that Texans always want you to \"remember\"?"
         }
       ]
     },
     {
-      "id": 5351,
-      "category": "Entertainment",
-      "answer": "Buffy the Vampire Slayer",
+      "id": 5355,
+      "category": "Consumer Stuff",
+      "answer": "Slots",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Kristy Swanson and Rutger Hauer square off in the movie that spawned what seven-season show?"
+          "question": "A Reddit thread was almost completely baffled about how \"puggie\" came to be Scottish slang for what gaming device?"
         },
         {
           "points": 2,
-          "question": "The musical episode \"Once More, with Feeling\" and the silent episode \"Hush\" are standouts of what 1997 TV series featuring Willow and Xander"
+          "question": "It was hard to render fruit in 8-pixel monochrome, so Atari used cacti and cars in their 1979 version of what gambling apparatus?"
         },
         {
           "points": 1,
-          "question": "Fighting and loving memorable undead like Angel and Spike, Sarah Michelle Geller played the title heroine of what supernatural show?"
+          "question": "The very aboveboard folks at CasinoCenter.com rated Mohegan Sun as the best in Connecticut in their 2026 award for Loosest WHATS?"
         }
       ]
     },
     {
-      "id": 5344,
-      "category": "Science & Nature",
-      "answer": "Raven",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Charles Dickens's pets included Grip, a member of what songbird species that's capable of some basic speech?"
-        },
-        {
-          "points": 2,
-          "question": "Renowned for their intelligence, what corvids have been found to use tools, make plans, and deliver messages in \"Game of Thrones\"?"
-        },
-        {
-          "points": 1,
-          "question": "Nevermore! What birds are extremely similar to crows, but are larger and capable of louder caws?"
-        }
-      ]
-    },
-    {
-      "id": 5343,
+      "id": 5353,
       "category": "Arts & Culture",
-      "answer": "The Shining",
+      "answer": "Switzerland",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "A former resident of Derry, Maine, Dick Hallorann mentors the young Danny and survives the end of what 1977 novel?"
+          "question": "You can visit Rousseau's birthplace in what country that produced Nobel-winning poet Carl Spitteler?"
         },
         {
           "points": 2,
-          "question": "Stephen King was staying at Colorado's Stanley Hotel when he had a nightmare that inspired the Overlook Hotel from what book?"
+          "question": "Known as Guglielmo in Italian, Guglielm in Romansh, Guillaume in French, and Wilhelm in German, William Tell is an enduring folk hero of what country?"
         },
         {
           "points": 1,
-          "question": "Stanley Kubrick added a blood elevator, to creepy little ghost girls, and the line \"Here's Johnny\" when he adapted what horror film?"
+          "question": "The protagonist of Emma Cline's \"Switzy\" is traveling to what guessable European country?"
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "category": "Entertainment",
+      "answer": "Four",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "All looking pretty diva-tastic, how many people are on the cover of En Vogue's classic album \"Funky Divas\"?"
+        },
+        {
+          "points": 2,
+          "question": "All looking pretty regal, how many people are on the cover of Queen's 1974 album \"Queen II\"?"
+        },
+        {
+          "points": 1,
+          "question": "Blues Traveler, One Direction, and Foreigner used what number as the title of their fourth album?"
+        }
+      ]
+    },
+    {
+      "id": 5356,
+      "category": "Science & Nature",
+      "answer": "North",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The declination diagram on a topographical map defines the angular relationship between the true, grid, and magnetic of what N-thing?"
+        },
+        {
+          "points": 2,
+          "question": "Speaking of azimuth, astronomy always measures azimuth from what direction?"
+        },
+        {
+          "points": 1,
+          "question": "The upward-facing portion of a map is usually what Santa Claus-y direction?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1223,
-    "dailyId": "1266",
-    "retrievedAt": "2026-11-03T18:38:18.544489+00:00"
+    "quizNumber": 1224,
+    "dailyId": "1267",
+    "retrievedAt": "2026-11-04T18:48:08.193606+00:00"
   }
 }
