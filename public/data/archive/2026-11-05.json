@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-05",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5360,
+      "category": "Science & Nature",
+      "answer": "Flamingos",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "With species found in Chile and many African estuaries, what birds in the genus Phoenicopterus tilt their heads upside-down to feed?"
+        },
+        {
+          "points": 2,
+          "question": "Using their extra long backwards-bending ankles, what tropical birds can sleep for hours at a time with one leg tucked under their feathers?"
+        },
+        {
+          "points": 1,
+          "question": "Born grey and white, what leggy birds turn pink over time due to their diet of beta-carotene-rich foods like shrimp?"
+        }
+      ]
+    },
+    {
+      "id": 5335,
+      "category": "Arts & Culture",
+      "answer": "The Tell-Tale Heart",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "An old man is killed seemingly because he has a pale blue \"vulture-like\" eye, in what short story that was first published in 1843 in \"The Pioneer\"?"
+        },
+        {
+          "points": 2,
+          "question": "Edgar Allan Poe's unreliable narrator confesses to murder and demands the policemen tear up the floorboards, at the end of what seminal work?"
+        },
+        {
+          "points": 1,
+          "question": "Thump, thump! Thump, thump! Said narrator can't stop hearing what title object that is somehow still beating even after its owner is long dead?"
+        }
+      ]
+    },
+    {
+      "id": 5359,
+      "category": "Consumer Stuff",
+      "answer": "Horseradish",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Chrain is the Yiddish name for what spice and condiment that's often mixed with beetroot in Ashkenazi and Slavic cuisine?"
+        },
+        {
+          "points": 2,
+          "question": "Modern \"wasabi\" is often made with what grated white plant that's mixed with mayo or other salad dressings when served as a sauce in the US?"
+        },
+        {
+          "points": 1,
+          "question": "Though some think it got its name from the term \"mare radish,\" no equines are harmed in the making of what prime rib dip with a little zip?"
+        }
+      ]
+    },
+    {
+      "id": 5358,
+      "category": "Social Sciences",
+      "answer": "Libya",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The ancient Roman cities of Sabratha and Leptis Magna sit on the Mediterranean coast, in what modern-day OPEC nation?"
+        },
+        {
+          "points": 2,
+          "question": "A 2011 uprising in Benghazi led to a civil war in what North African country whose capital is mentioned in the U.S. Marine Corps Hymn?"
+        },
+        {
+          "points": 1,
+          "question": "The former home of ousted dictator Muammar Gadafi, Tripoli is the capital of what country between Egypt and Algeria?"
+        }
+      ]
+    },
+    {
+      "id": 5357,
+      "category": "Entertainment",
+      "answer": "Jamie Lee Curtis",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Though better known for film, what actress plays Carmy's mother on \"The Bear\" and is appearing in \"Newlyweds\" this fall?"
+        },
+        {
+          "points": 2,
+          "question": "What \"Freaky Friday\" actress got an Oscar for playing the IRS agent Deirdre in \"Everything Everywhere All at Once\"?"
+        },
+        {
+          "points": 1,
+          "question": "Hollywood royalty Janet Leigh and Tony Curtis are the parents of what acclaimed yogurt spokeswoman and star of the \"Halloween\" franchise?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1225,
+    "dailyId": "1268",
+    "retrievedAt": "2026-11-05T18:55:51.951802+00:00"
+  }
+}
