@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-06",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5361,
+      "category": "Consumer Stuff",
+      "answer": "Froot Loops",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "After a letter-shaped cereal called \"OK's\" failed to catch on, so Kellogg's used the machinery to make what replacement?"
+        },
+        {
+          "points": 2,
+          "question": "Telling kids to follow his nose, a tropical bird named Sam appears in commercials for what red-box cereal?"
+        },
+        {
+          "points": 1,
+          "question": "Colored like the rainbow but flavored like...nothing, what milk-dying cereal is spelled with two sets of double \"O's\"?"
+        }
+      ]
+    },
+    {
+      "id": 5364,
+      "category": "Entertainment",
+      "answer": "Tangled",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A weird cameo in \"Frozen\" shows characters from what earlier film about to attend Elsa's coronation?"
+        },
+        {
+          "points": 2,
+          "question": "\"Mother Knows Best\" is the villain song from what 2010 film that also gave us \"I See the Light\" and Pascal the chameleon?"
+        },
+        {
+          "points": 1,
+          "question": "Flynn Rider and all! Disney is currently in production on a live-action remake for what Rapunzel adaption?"
+        }
+      ]
+    },
+    {
+      "id": 5363,
+      "category": "Arts & Culture",
+      "answer": "Cubism",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Juan Gris pioneered the later \"Crystal\" style of what modernist art movement that is traditionally split into \"Synthetic\" and \"Analytic\" forms?"
+        },
+        {
+          "points": 2,
+          "question": "\"Guernica\" and Georges Braque's \"Houses at L’Estaque\" typify what art style known for its use of geometry and multiple perspectives?"
+        },
+        {
+          "points": 1,
+          "question": "Pablo Picasso is considered the co-founder what abstract art movement named for a three-dimensional shape?"
+        }
+      ]
+    },
+    {
+      "id": 5365,
+      "category": "Social Sciences",
+      "answer": "Calvin Coolidge",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Before becoming president, what governor of Massachusetts declared there was \"no right to strike against the public safety\" during the 1919 Boston Police Strike?"
+        },
+        {
+          "points": 2,
+          "question": "Dorothy Parker quipped \"How can they tell?\" upon hearing of the death of what 1920s POTUS known for his dour terseness"
+        },
+        {
+          "points": 1,
+          "question": "\"Silent Cal\" was the nickname for what famously tight-lipped president who succeeded Warren G. Harding?"
+        }
+      ]
+    },
+    {
+      "id": 5362,
+      "category": "Science & Nature",
+      "answer": "Sea Turtles",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The flatback and hawksbill are both species of what creatures that subsist largely on jellyfish and gelatinous plankton?"
+        },
+        {
+          "points": 2,
+          "question": "Groups like the Loggerhead Marinelife Center document beaches where what protected animals hatch and crawl to the ocean each year?"
+        },
+        {
+          "points": 1,
+          "question": "Unlike many of their land-based cousins, all seven species of what reptiles can't retract their heads inside their shells?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1226,
+    "dailyId": "1269",
+    "retrievedAt": "2026-11-06T18:19:50.207819+00:00"
+  }
+}
