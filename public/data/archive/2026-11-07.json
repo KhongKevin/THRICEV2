@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-07",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5370,
+      "category": "Arts & Culture",
+      "answer": "The Planets",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "For the \"Star Wars Imperial March,\" John Williams drew inspiration from \"The Bringer of War\" movement that opens what 1914 orchestral suite?"
+        },
+        {
+          "points": 2,
+          "question": "Complete with a wordless women's choir, \"Neptune, the Mystic\" was the original ending for what seven -part composition by Gustave Holst?"
+        },
+        {
+          "points": 1,
+          "question": "There are movements named for Jupiter and Mercury, but not Earth or Pluto, in what work named after a group of objects that orbit our Sun?"
+        }
+      ]
+    },
+    {
+      "id": 5369,
+      "category": "Entertainment",
+      "answer": "Seattle Mariners",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Navy blue and northwest green are two of the official colors of what Major League Baseball team?"
+        },
+        {
+          "points": 2,
+          "question": "The only MLB team with a compass rose in their logo is what crew with home games at T-Mobile Park?"
+        },
+        {
+          "points": 1,
+          "question": "The only MLB team that's never been to the World Series is what northernmost team that celebrates home runs with a 30-pound replica of Aquaman's trident?"
+        }
+      ]
+    },
+    {
+      "id": 5367,
+      "category": "Science & Nature",
+      "answer": "Cryo",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Between the Ediacaran and Tonian periods, our planet went through a chilly 85 million years known as the WHATgenian period?"
+        },
+        {
+          "points": 2,
+          "question": "According to the International Institute of Refrigeration, WHATgenics is the study, creation, and behavior of materials at temperatures below 120 °K?"
+        },
+        {
+          "points": 1,
+          "question": "Don't get all weepy on us: The parts of the Earth's surface where water is frozen is known as the WHATsphere?"
+        }
+      ]
+    },
+    {
+      "id": 5372,
+      "category": "Social Sciences",
+      "answer": "John Paul",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Capturing the Serapis while aboard the Bonhomme Richard, the \"Father of the American Navy\" is Revolutionary War hero WHO Jones?"
+        },
+        {
+          "points": 2,
+          "question": "Becoming the first non-Italian Pope in 455 years, in 1978 Poland's Karol Wojtyła took the papal name WHO II?"
+        },
+        {
+          "points": 1,
+          "question": "For no particular reason, the Beatles are typically listed by their first names in the rhythmically pleasing list \"WHO, WHO, George, and Ringo\"?"
+        }
+      ]
+    },
+    {
+      "id": 5366,
+      "category": "Consumer Stuff",
+      "answer": "Chuck E. Cheese",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Featuring Helen Henny on bass, Jasper T. Jowls on guitar, and Pasqually on the drums, Munch's Make Believe Band is led by what singer?"
+        },
+        {
+          "points": 2,
+          "question": "\"Entertainment\" is the seldom used middle name of what children's character acquired by Showbiz Pizza Time in the 80s?"
+        },
+        {
+          "points": 1,
+          "question": "\"Where a Kid Can Be a Kid\" is the longtime slogan of what arcade chain repped by an animatronic rodent?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1227,
+    "dailyId": "1270",
+    "retrievedAt": "2026-11-07T16:58:41.940102+00:00"
+  }
+}
