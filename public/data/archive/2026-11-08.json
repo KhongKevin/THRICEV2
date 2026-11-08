@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-08",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5375,
+      "category": "Consumer Stuff",
+      "answer": "Energizer",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Sitagin hemorrhoid cream, Alarm Soap, and Golden Grenades Cereal were fake products whose commercials would get interrupted to sell what electrical brand?"
+        },
+        {
+          "points": 2,
+          "question": "In 1980 the Eveready alkaline power cell took on what other \"E\" name?"
+        },
+        {
+          "points": 1,
+          "question": "What Duracell competitor advertises using a pink bunny mascot that runs around perpetually beating its toy drum?"
+        }
+      ]
+    },
+    {
+      "id": 5373,
+      "category": "Entertainment",
+      "answer": "Charli XCX",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A year after featuring on Icona Pop's hit \"I Love It,\" what pop star dropped her debut album \"True Romance\"?"
+        },
+        {
+          "points": 2,
+          "question": "What \"Boom Clap\" and \"Fancy\" singer uses her old MSN Messenger screen handle as her stage name?"
+        },
+        {
+          "points": 1,
+          "question": "\"Brat\" ruled summer 2024, courtesy of what artist born Charlotte Emma Aitchison?"
+        }
+      ]
+    },
+    {
+      "id": 5376,
+      "category": "Science & Nature",
+      "answer": "Scorpius",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Ptolemy and Butterfly clusters are located in what constellation that sits next to Sagittarius in the zodiac?"
+        },
+        {
+          "points": 2,
+          "question": "The red supergiant Antares is the brightest star in what constellation whose front \"claw\" the Romans remade into the constellation Libra?"
+        },
+        {
+          "points": 1,
+          "question": "Struggling to avoid its stinging tail, the hunter Orion is chased across the night sky by what arachnid constellation?"
+        }
+      ]
+    },
+    {
+      "id": 5374,
+      "category": "Arts & Culture",
+      "answer": "Fandango",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Procul Harum's \"Whiter Shade of Pale\" namedropped what Spanish dance with a bolero-esque metre?"
+        },
+        {
+          "points": 2,
+          "question": "A movie ticketing website and the WWE got into a legal battle over the name of what dance featured in the third act of Mozart's \"Marriage of Figaro\"?"
+        },
+        {
+          "points": 1,
+          "question": "Camille Saint-Saëns' \"Danse Macabre\" follows the rhythm of what dance style mentioned before Galileo in \"Bohemian Rhapsody\"?"
+        }
+      ]
+    },
+    {
+      "id": 5377,
+      "category": "Social Sciences",
+      "answer": "Waterloo",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The arrival of Prussian forces under Field Marshall von Blücher turned the tide in what 1815 battle named for a village in what's now Belgium?"
+        },
+        {
+          "points": 2,
+          "question": "Ending the so-called \"Hundred Days,\" a certain escapee from Elba was finally bested by the Duke of Wellington at what very muddy battle?"
+        },
+        {
+          "points": 1,
+          "question": "\"I feel like I win when I lose!\" ABBA won the 1974 Eurovision Song Contest with a ditty named for what final major battle of the Napoleonic Wars?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1228,
+    "dailyId": "1271",
+    "retrievedAt": "2026-11-08T17:13:35.602396+00:00"
+  }
+}
