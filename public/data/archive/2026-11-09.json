@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-09",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5380,
+      "category": "Social Sciences",
+      "answer": "Denver",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The turn of the century Carnation Gold Rush occurred in what U.S. state capital that's now home to The Red Rocks Amphitheatre?"
+        },
+        {
+          "points": 2,
+          "question": "The suburbs of Littleton and Aurora are next to what U.S. city whose Capitol building has a step that's located at exactly 5,280 ft above sea level?"
+        },
+        {
+          "points": 1,
+          "question": "A basin, an omelet, and a supposedly cursed international airport are all named after what capital of Colorado?"
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "category": "Consumer Stuff",
+      "answer": "AFLAC",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In a 2005 commercial, Melania Trump swapped bodies with the spokes-creature for what Columbus, Georgia company?"
+        },
+        {
+          "points": 2,
+          "question": "After the original was fired for insensitive tweets, Dan McKeague started voicing said spokesbird for what accident and disability insurance company?"
+        },
+        {
+          "points": 1,
+          "question": "Perpetually trying to quack out its five-letter acronym, the late Gilbert Gottfried was the longtime voice of what company's waterfowl mascot?"
+        }
+      ]
+    },
+    {
+      "id": 5379,
+      "category": "Arts & Culture",
+      "answer": "The Canterbury Tales",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Chanticleer the rooster and three rogues who find Death under an oak tree appear in what unfinished iambic pentameter poem?"
+        },
+        {
+          "points": 2,
+          "question": "After a plague, a Knight, a Miller, and the Wife of Bath are on their way to the shrine of Thomas Beckett in what Middle English work?"
+        },
+        {
+          "points": 1,
+          "question": "Geoffrey Chaucer wrote what short story collection about a group of pilgrims swapping stories while on their way to a certain English \"-bury\"?"
+        }
+      ]
+    },
+    {
+      "id": 5368,
+      "category": "Entertainment",
+      "answer": "A Tribe Called Quest",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Hanif Abdurraqib's 2019 book \"Go Ahead in the Rain\" was a \"love letter\" to what '90s Big Apple hip-hop quartet?"
+        },
+        {
+          "points": 2,
+          "question": "The Source gave its first five-mic award to what Q-Tip-led band, for the album \"People's Instinctive Travels and the Paths of Rhythm\"?"
+        },
+        {
+          "points": 1,
+          "question": "Crush Connection and Quest were early names for what group that featured one of those words in its their name?"
+        }
+      ]
+    },
+    {
+      "id": 5381,
+      "category": "Science & Nature",
+      "answer": "Fireflies",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Great Smoky Mountains National Park now requires entrants to participate in a lottery in order to catch the early summer displays of what insects?"
+        },
+        {
+          "points": 2,
+          "question": "Producing the chemical luciferin, what bugs in the Lampyridae family will kill you if you eat about 20?"
+        },
+        {
+          "points": 1,
+          "question": "Don't tell Nathan Fillion, but most of the Western U.S. species of what beetle do not glow in the dark?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1229,
+    "dailyId": "1272",
+    "retrievedAt": "2026-11-09T21:37:20.913839+00:00"
+  }
+}

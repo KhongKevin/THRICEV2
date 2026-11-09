@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5375,
-      "category": "Consumer Stuff",
-      "answer": "Energizer",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Sitagin hemorrhoid cream, Alarm Soap, and Golden Grenades Cereal were fake products whose commercials would get interrupted to sell what electrical brand?"
-        },
-        {
-          "points": 2,
-          "question": "In 1980 the Eveready alkaline power cell took on what other \"E\" name?"
-        },
-        {
-          "points": 1,
-          "question": "What Duracell competitor advertises using a pink bunny mascot that runs around perpetually beating its toy drum?"
-        }
-      ]
-    },
-    {
-      "id": 5373,
-      "category": "Entertainment",
-      "answer": "Charli XCX",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "A year after featuring on Icona Pop's hit \"I Love It,\" what pop star dropped her debut album \"True Romance\"?"
-        },
-        {
-          "points": 2,
-          "question": "What \"Boom Clap\" and \"Fancy\" singer uses her old MSN Messenger screen handle as her stage name?"
-        },
-        {
-          "points": 1,
-          "question": "\"Brat\" ruled summer 2024, courtesy of what artist born Charlotte Emma Aitchison?"
-        }
-      ]
-    },
-    {
-      "id": 5376,
-      "category": "Science & Nature",
-      "answer": "Scorpius",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The Ptolemy and Butterfly clusters are located in what constellation that sits next to Sagittarius in the zodiac?"
-        },
-        {
-          "points": 2,
-          "question": "The red supergiant Antares is the brightest star in what constellation whose front \"claw\" the Romans remade into the constellation Libra?"
-        },
-        {
-          "points": 1,
-          "question": "Struggling to avoid its stinging tail, the hunter Orion is chased across the night sky by what arachnid constellation?"
-        }
-      ]
-    },
-    {
-      "id": 5374,
-      "category": "Arts & Culture",
-      "answer": "Fandango",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Procul Harum's \"Whiter Shade of Pale\" namedropped what Spanish dance with a bolero-esque metre?"
-        },
-        {
-          "points": 2,
-          "question": "A movie ticketing website and the WWE got into a legal battle over the name of what dance featured in the third act of Mozart's \"Marriage of Figaro\"?"
-        },
-        {
-          "points": 1,
-          "question": "Camille Saint-Saëns' \"Danse Macabre\" follows the rhythm of what dance style mentioned before Galileo in \"Bohemian Rhapsody\"?"
-        }
-      ]
-    },
-    {
-      "id": 5377,
+      "id": 5380,
       "category": "Social Sciences",
-      "answer": "Waterloo",
+      "answer": "Denver",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The arrival of Prussian forces under Field Marshall von Blücher turned the tide in what 1815 battle named for a village in what's now Belgium?"
+          "question": "The turn of the century Carnation Gold Rush occurred in what U.S. state capital that's now home to The Red Rocks Amphitheatre?"
         },
         {
           "points": 2,
-          "question": "Ending the so-called \"Hundred Days,\" a certain escapee from Elba was finally bested by the Duke of Wellington at what very muddy battle?"
+          "question": "The suburbs of Littleton and Aurora are next to what U.S. city whose Capitol building has a step that's located at exactly 5,280 ft above sea level?"
         },
         {
           "points": 1,
-          "question": "\"I feel like I win when I lose!\" ABBA won the 1974 Eurovision Song Contest with a ditty named for what final major battle of the Napoleonic Wars?"
+          "question": "A basin, an omelet, and a supposedly cursed international airport are all named after what capital of Colorado?"
+        }
+      ]
+    },
+    {
+      "id": 5378,
+      "category": "Consumer Stuff",
+      "answer": "AFLAC",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In a 2005 commercial, Melania Trump swapped bodies with the spokes-creature for what Columbus, Georgia company?"
+        },
+        {
+          "points": 2,
+          "question": "After the original was fired for insensitive tweets, Dan McKeague started voicing said spokesbird for what accident and disability insurance company?"
+        },
+        {
+          "points": 1,
+          "question": "Perpetually trying to quack out its five-letter acronym, the late Gilbert Gottfried was the longtime voice of what company's waterfowl mascot?"
+        }
+      ]
+    },
+    {
+      "id": 5379,
+      "category": "Arts & Culture",
+      "answer": "The Canterbury Tales",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Chanticleer the rooster and three rogues who find Death under an oak tree appear in what unfinished iambic pentameter poem?"
+        },
+        {
+          "points": 2,
+          "question": "After a plague, a Knight, a Miller, and the Wife of Bath are on their way to the shrine of Thomas Beckett in what Middle English work?"
+        },
+        {
+          "points": 1,
+          "question": "Geoffrey Chaucer wrote what short story collection about a group of pilgrims swapping stories while on their way to a certain English \"-bury\"?"
+        }
+      ]
+    },
+    {
+      "id": 5368,
+      "category": "Entertainment",
+      "answer": "A Tribe Called Quest",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Hanif Abdurraqib's 2019 book \"Go Ahead in the Rain\" was a \"love letter\" to what '90s Big Apple hip-hop quartet?"
+        },
+        {
+          "points": 2,
+          "question": "The Source gave its first five-mic award to what Q-Tip-led band, for the album \"People's Instinctive Travels and the Paths of Rhythm\"?"
+        },
+        {
+          "points": 1,
+          "question": "Crush Connection and Quest were early names for what group that featured one of those words in its their name?"
+        }
+      ]
+    },
+    {
+      "id": 5381,
+      "category": "Science & Nature",
+      "answer": "Fireflies",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Great Smoky Mountains National Park now requires entrants to participate in a lottery in order to catch the early summer displays of what insects?"
+        },
+        {
+          "points": 2,
+          "question": "Producing the chemical luciferin, what bugs in the Lampyridae family will kill you if you eat about 20?"
+        },
+        {
+          "points": 1,
+          "question": "Don't tell Nathan Fillion, but most of the Western U.S. species of what beetle do not glow in the dark?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1228,
-    "dailyId": "1271",
-    "retrievedAt": "2026-11-08T17:13:35.602396+00:00"
+    "quizNumber": 1229,
+    "dailyId": "1272",
+    "retrievedAt": "2026-11-09T21:37:20.913839+00:00"
   }
 }
