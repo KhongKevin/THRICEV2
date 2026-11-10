@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-10",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5384,
+      "category": "Consumer Stuff",
+      "answer": "Campbell's",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Pepperidge Farm, Snyder's of Hanover, and V8 fall under the umbrella of what canned good company named for a New Jersey fruit merchant?"
+        },
+        {
+          "points": 2,
+          "question": "A bronze seal from the 1900 Paris Exhibition is the centerpiece of labels for what canned soup brand?"
+        },
+        {
+          "points": 1,
+          "question": "Chunky Maxx is a line of offerings from what soup brand that got more than 15 minutes out of Warhol's portraits of their cans?"
+        }
+      ]
+    },
+    {
+      "id": 5385,
+      "category": "Social Sciences",
+      "answer": "2002",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"My Big Fat Greek Wedding\" was a hit in what year that Greece switched from the drachma to the euro?"
+        },
+        {
+          "points": 2,
+          "question": "Norway swept the most gold medals at the Salt Lake Olympics, in what year that saw Queen Elizabeth II celebrate her Golden Jubilee?"
+        },
+        {
+          "points": 1,
+          "question": "\"The Lord of the Rings: The Two Towers\" was the highest-grossing film and the Tribute in Light was installed at New York's World Trade Center site, in what year?"
+        }
+      ]
+    },
+    {
+      "id": 5383,
+      "category": "Arts & Culture",
+      "answer": "Lederhosen",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The French term \"à la bavaroise,\" or \"in the Bavarian style,\" describes that drop-fronts on what traditional type of clothing?"
+        },
+        {
+          "points": 2,
+          "question": "Bundhosen is the name for the longer-legged version of what Alpine breeches?"
+        },
+        {
+          "points": 1,
+          "question": "The Tellernaht is the seam responsible for holding together what Teutonic togs with a name meaning \"leather pants\"?"
+        }
+      ]
+    },
+    {
+      "id": 5386,
+      "category": "Science & Nature",
+      "answer": "Rayon",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Scientist Hilaire de Chardonnet is the \"father\" of what semi-synthetic fiber that's also known as viscose?"
+        },
+        {
+          "points": 2,
+          "question": "The Lyocell process is a common method of producing what \"artificial silk\"?"
+        },
+        {
+          "points": 1,
+          "question": "Everybody loves what synthetic fiber that's named for its shiny surface?"
+        }
+      ]
+    },
+    {
+      "id": 5371,
+      "category": "Entertainment",
+      "answer": "Eddie Murphy",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Boogie in Your Butt\" was a 1982 song by what comedian who released an album called \"Comedian\" a year later?"
+        },
+        {
+          "points": 2,
+          "question": "What star of \"The Golden Child\" earned his only Oscar nod so far as James \"Thunder\" Early in \"Dreamgirls\"?"
+        },
+        {
+          "points": 1,
+          "question": "\"Party All the Time\" was a Hot 100 top ten hit for what guy who got to sing \"I'm a Believer\" as Donkey in \"Shrek\"?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1230,
+    "dailyId": "1273",
+    "retrievedAt": "2026-11-10T18:47:12.835563+00:00"
+  }
+}
