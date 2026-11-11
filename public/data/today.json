@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5384,
-      "category": "Consumer Stuff",
-      "answer": "Campbell's",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Pepperidge Farm, Snyder's of Hanover, and V8 fall under the umbrella of what canned good company named for a New Jersey fruit merchant?"
-        },
-        {
-          "points": 2,
-          "question": "A bronze seal from the 1900 Paris Exhibition is the centerpiece of labels for what canned soup brand?"
-        },
-        {
-          "points": 1,
-          "question": "Chunky Maxx is a line of offerings from what soup brand that got more than 15 minutes out of Warhol's portraits of their cans?"
-        }
-      ]
-    },
-    {
-      "id": 5385,
+      "id": 5388,
       "category": "Social Sciences",
-      "answer": "2002",
+      "answer": "Atlantic Ocean",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "\"My Big Fat Greek Wedding\" was a hit in what year that Greece switched from the drachma to the euro?"
+          "question": "Milwaukee Deep is the deepest part of which ocean?"
         },
         {
           "points": 2,
-          "question": "Norway swept the most gold medals at the Salt Lake Olympics, in what year that saw Queen Elizabeth II celebrate her Golden Jubilee?"
+          "question": "Absolutely nowhere near Canada, the Drake Passage connects the Pacific with which other ocean?"
         },
         {
           "points": 1,
-          "question": "\"The Lord of the Rings: The Two Towers\" was the highest-grossing film and the Tribute in Light was installed at New York's World Trade Center site, in what year?"
+          "question": "The Atlas Mountains separate the Sahara from the coastline of which ocean that was named for the Greek god Atlas?"
         }
       ]
     },
     {
-      "id": 5383,
+      "id": 5387,
       "category": "Arts & Culture",
-      "answer": "Lederhosen",
+      "answer": "Abraham Lincoln",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The French term \"à la bavaroise,\" or \"in the Bavarian style,\" describes that drop-fronts on what traditional type of clothing?"
+          "question": "In Clive Cussler's \"Sahara,\" unearthing the ironclad CSS Texas reveals the truth about the fate of which U.S. president?"
         },
         {
           "points": 2,
-          "question": "Bundhosen is the name for the longer-legged version of what Alpine breeches?"
+          "question": "Credited as \"Mary's Husband,\" Conrad Rickamora and Kumail Nanjiani have starred in Broadway's \"Oh, Mary!\" as what statesman?"
         },
         {
           "points": 1,
-          "question": "The Tellernaht is the seam responsible for holding together what Teutonic togs with a name meaning \"leather pants\"?"
+          "question": "Apparently a fan of vampire hunters in stovepipe hats, Captain Nemo has a portrait of what president adorning the Nautilus in \"20,000 Leagues Under the Sea\"?"
         }
       ]
     },
     {
-      "id": 5386,
-      "category": "Science & Nature",
-      "answer": "Rayon",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Scientist Hilaire de Chardonnet is the \"father\" of what semi-synthetic fiber that's also known as viscose?"
-        },
-        {
-          "points": 2,
-          "question": "The Lyocell process is a common method of producing what \"artificial silk\"?"
-        },
-        {
-          "points": 1,
-          "question": "Everybody loves what synthetic fiber that's named for its shiny surface?"
-        }
-      ]
-    },
-    {
-      "id": 5371,
+      "id": 5382,
       "category": "Entertainment",
-      "answer": "Eddie Murphy",
+      "answer": "AC/DC",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "\"Boogie in Your Butt\" was a 1982 song by what comedian who released an album called \"Comedian\" a year later?"
+          "question": "\"Flick of the Switch\" was the disappointing 9th studio album from what Aussie rockers?"
         },
         {
           "points": 2,
-          "question": "What star of \"The Golden Child\" earned his only Oscar nod so far as James \"Thunder\" Early in \"Dreamgirls\"?"
+          "question": "\"Live Wire\" is the most on-theme track on 1976's \"High Voltage,\" the first album from what plugged-in hard rock band?"
         },
         {
           "points": 1,
-          "question": "\"Party All the Time\" was a Hot 100 top ten hit for what guy who got to sing \"I'm a Believer\" as Donkey in \"Shrek\"?"
+          "question": "Streets in Melbourne and Spain have been renamed for what \"Highway to Hell\" rockers?"
+        }
+      ]
+    },
+    {
+      "id": 5390,
+      "category": "Science & Nature",
+      "answer": "Autotrophs",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Botanist Albert Frank coined what three-syllable word to describe organisms at the very bottom of a food web or food chain?"
+        },
+        {
+          "points": 2,
+          "question": "As opposed to heterotrophs, plants and algae fill what role in the ecosystem since they produce energy from non-living things?"
+        },
+        {
+          "points": 1,
+          "question": "Per the lyrics to the \"Big Theory Theory\" theme song: as \"The Earth began to cool, the WHATS began to drool\"?"
+        }
+      ]
+    },
+    {
+      "id": 5389,
+      "category": "Consumer Stuff",
+      "answer": "Swatch",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The \"Quartz Crisis\" spurred Ernst Thomke, Elmar Mock, and Jacques Müller to create what watch company in the early '80s?"
+        },
+        {
+          "points": 2,
+          "question": "Revolution 51 was the design goal of reducing watch parts from 91 to 51 for what low cost, colorful Swiss watches?"
+        },
+        {
+          "points": 1,
+          "question": "The \"S\" is short for \"second,\" not \"Swiss,\" in the portmanteau name of what watch brand?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1230,
-    "dailyId": "1273",
-    "retrievedAt": "2026-11-10T18:47:12.835563+00:00"
+    "quizNumber": 1231,
+    "dailyId": "1274",
+    "retrievedAt": "2026-11-11T18:51:16.937249+00:00"
   }
 }
