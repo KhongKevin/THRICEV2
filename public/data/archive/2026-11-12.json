@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-12",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5391,
+      "category": "Consumer Stuff",
+      "answer": "Applesauce",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "As the first American in space, John Glenn was given pureed beef and vegetables, sugar tablets, and a tube of what easy-to -digest stuff?"
+        },
+        {
+          "points": 2,
+          "question": "Mott's and Gerber both sell cups of what pureed snack that PETA recommends as an egg replacement in vegan recipes?"
+        },
+        {
+          "points": 1,
+          "question": "Whether its made with Golden Delicious or McIntosh, any kid can tell you that its time to sit down when the teacher says \"criss-cross, WHAT FOOD\"?"
+        }
+      ]
+    },
+    {
+      "id": 5395,
+      "category": "Entertainment",
+      "answer": "Rocky",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Peter Hinwood is best known for donning gold shorts in 1975 to play what mostly-silent film character?"
+        },
+        {
+          "points": 2,
+          "question": "Having previously played Al Pacino in \"The Offer,\" Anthony Ippolito is portraying another Italian-American actor in the new biopic \"I Play WHO\"?"
+        },
+        {
+          "points": 1,
+          "question": "Not to be confused with the boxer, that moose Bulwinkle is typically joined by a friendly flying squirrel named WHAT?"
+        }
+      ]
+    },
+    {
+      "id": 5393,
+      "category": "Arts & Culture",
+      "answer": "The Sound of Music",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Salzburg's Mirabell Gardens and Nonnberg Abbey both make prominent appearances in the movie adaptation of what musical?"
+        },
+        {
+          "points": 2,
+          "question": "Rogers and Hammerstein wrote \"So Long, Farewell\" and a song where kids learn solfège, for what show about Georg and Maria?"
+        },
+        {
+          "points": 1,
+          "question": "Per the opening number of a musical about the Von Trapp Family Singers, \"the hills are alive with the WHAT of WHAT\"?"
+        }
+      ]
+    },
+    {
+      "id": 5394,
+      "category": "Social Sciences",
+      "answer": "John Smith",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "What early American colonist and Turkish War veteran was forced to return to England in 1609 after sustaining injuries in a gunpowder explosion?"
+        },
+        {
+          "points": 2,
+          "question": "Briefly leading the Jamestown settlement during the \"Starving Times,\" what man instituted the policy \"he that will not work, shall not eat\"?"
+        },
+        {
+          "points": 1,
+          "question": "Disney took some liberties with the already fallacious story that a young Pocahontas saved what guy with a very boring name?"
+        }
+      ]
+    },
+    {
+      "id": 5392,
+      "category": "Science & Nature",
+      "answer": "Event Horizon",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "It's theorized that Hawking radiation is caused by the curvature of spacetime around what invisible barrier that's typically defined by the Schwarzchild radius?"
+        },
+        {
+          "points": 2,
+          "question": "Nothing can escape a black hole past what boundary that's basically the point where escape velocity equals the speed of light?"
+        },
+        {
+          "points": 1,
+          "question": "Going a bit mad while exploring a derelict ship, Laurence Fishburne and Sam Neill starred in the 1997 sci-fi horror movie \"WHAT Horizon\"?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1232,
+    "dailyId": "1275",
+    "retrievedAt": "2026-11-12T19:04:56.013055+00:00"
+  }
+}
