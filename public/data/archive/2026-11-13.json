@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-13",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5396,
+      "category": "Consumer Stuff",
+      "answer": "Kool-Aid Man",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Featured in an '80s Marvel comic and a tie-in Atari game, the Thirsties were the alien foes of what brand mascot?"
+        },
+        {
+          "points": 2,
+          "question": "He's just like us! \"Frankie\" is the seldom used first name of what big red star of the 2013 ad campaign \"Jug Life\"?"
+        },
+        {
+          "points": 1,
+          "question": "What radical spokes-pitcher has a penchant for breaking down walls and shouting the catchphrase \"Oh yeah!\"?"
+        }
+      ]
+    },
+    {
+      "id": 5399,
+      "category": "Social Sciences",
+      "answer": "Andorra",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Marca Hispanica established by Charlemagne has since evolved into what country that is notably NOT part of the Schengen region?"
+        },
+        {
+          "points": 2,
+          "question": "The Bishop of Urgell in Spain and the President of France are considered co-princes of what microstate, that's governed from \"la Vella\"?"
+        },
+        {
+          "points": 1,
+          "question": "I see your confusion. Pandora is the planet from \"Avatar,\" whereas what tiny principality it rhymes with is located in the Pyrenees Mountains?"
+        }
+      ]
+    },
+    {
+      "id": 5400,
+      "category": "Entertainment",
+      "answer": "Rachel McAdams",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "This year what star of \"The Vow\" played against type in the dark comedy thriller \"Send Help\"?"
+        },
+        {
+          "points": 2,
+          "question": "Between \"The Time Traveler's Wife,\" \"Midnight in Paris,\" and \"About Time,\" what Canadian actress seems to date a lot of time travelers?"
+        },
+        {
+          "points": 1,
+          "question": "What Rachel starred in \"The Notebook\" the same year she played Regina George in the original \"Mean Girls\"?"
+        }
+      ]
+    },
+    {
+      "id": 5398,
+      "category": "Arts & Culture",
+      "answer": "Magic Tree House",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Initially going on quests for Camelot's librarian Morgan Le Fay, what kid-lit series transitions to \"The Merlin Missions\" after book 28?"
+        },
+        {
+          "points": 2,
+          "question": "Jack and Annie meet \"Lions at Lunchtime,\" visit \"Pirates Past Noon,\" and spend \"Midnight on the Moon\" in what Mary Pope Osborne series?"
+        },
+        {
+          "points": 1,
+          "question": "The Smith siblings can travel through space and time thanks to what building that's built in the branches of an old oak in the woods of Pennsylvania?"
+        }
+      ]
+    },
+    {
+      "id": 5397,
+      "category": "Science & Nature",
+      "answer": "Foxes",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Found in the Sahara,the fennec is the smallest of the 12 species that are considered \"true WHATS\"?"
+        },
+        {
+          "points": 2,
+          "question": "There's an ongoing Russian experiment that is trying to domesticate what omnivores that are often depicted with nine tails in Asian folklore?"
+        },
+        {
+          "points": 1,
+          "question": "Females are called vixens and males are called tods, when referring to what bushy-tailed canines whose most common species has red fur?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1233,
+    "dailyId": "1276",
+    "retrievedAt": "2026-11-13T18:42:53.489282+00:00"
+  }
+}
