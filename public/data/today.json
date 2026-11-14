@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5396,
+      "id": 5403,
       "category": "Consumer Stuff",
-      "answer": "Kool-Aid Man",
+      "answer": "Keebler",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Featured in an '80s Marvel comic and a tie-in Atari game, the Thirsties were the alien foes of what brand mascot?"
+          "question": "The first commercial bakery to sell Girl Scout Cookies was the WHAT-Weyl Baking Company in Philly?"
         },
         {
           "points": 2,
-          "question": "He's just like us! \"Frankie\" is the seldom used first name of what big red star of the 2013 ad campaign \"Jug Life\"?"
+          "question": "Kellogg's kept the crackers but sold Sandie's Shortbread and E.L. Fudge Cookies to Ferrero, the current owners of what brand with a tree logo?"
         },
         {
           "points": 1,
-          "question": "What radical spokes-pitcher has a penchant for breaking down walls and shouting the catchphrase \"Oh yeah!\"?"
+          "question": "Uncommonly good! Ernest or Ernie or is the head elf who appears in commercials for what sugary company?"
         }
       ]
     },
     {
-      "id": 5399,
-      "category": "Social Sciences",
-      "answer": "Andorra",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The Marca Hispanica established by Charlemagne has since evolved into what country that is notably NOT part of the Schengen region?"
-        },
-        {
-          "points": 2,
-          "question": "The Bishop of Urgell in Spain and the President of France are considered co-princes of what microstate, that's governed from \"la Vella\"?"
-        },
-        {
-          "points": 1,
-          "question": "I see your confusion. Pandora is the planet from \"Avatar,\" whereas what tiny principality it rhymes with is located in the Pyrenees Mountains?"
-        }
-      ]
-    },
-    {
-      "id": 5400,
-      "category": "Entertainment",
-      "answer": "Rachel McAdams",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "This year what star of \"The Vow\" played against type in the dark comedy thriller \"Send Help\"?"
-        },
-        {
-          "points": 2,
-          "question": "Between \"The Time Traveler's Wife,\" \"Midnight in Paris,\" and \"About Time,\" what Canadian actress seems to date a lot of time travelers?"
-        },
-        {
-          "points": 1,
-          "question": "What Rachel starred in \"The Notebook\" the same year she played Regina George in the original \"Mean Girls\"?"
-        }
-      ]
-    },
-    {
-      "id": 5398,
+      "id": 5401,
       "category": "Arts & Culture",
-      "answer": "Magic Tree House",
+      "answer": "The Call of the Wild",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Initially going on quests for Camelot's librarian Morgan Le Fay, what kid-lit series transitions to \"The Merlin Missions\" after book 28?"
+          "question": "Our unlikely protagonist gets kidnapped from the home of Judge Miller and fights his rival Spitz to the death, in what 1903 classic?"
         },
         {
           "points": 2,
-          "question": "Jack and Annie meet \"Lions at Lunchtime,\" visit \"Pirates Past Noon,\" and spend \"Midnight on the Moon\" in what Mary Pope Osborne series?"
+          "question": "A spiritual prequel to \"White Fang,\" what novel was adapted to film in 2020 with Harrison Ford as the gold prospector Jack Thornton?"
         },
         {
           "points": 1,
-          "question": "The Smith siblings can travel through space and time thanks to what building that's built in the branches of an old oak in the woods of Pennsylvania?"
+          "question": "The St. Bernard Buck has answered the title summons and joined an Alaskan wolf pack, by the end of what Jack London novel?"
         }
       ]
     },
     {
-      "id": 5397,
-      "category": "Science & Nature",
-      "answer": "Foxes",
+      "id": 5404,
+      "category": "Social Sciences",
+      "answer": "The Battle of Hastings",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Found in the Sahara,the fennec is the smallest of the 12 species that are considered \"true WHATS\"?"
+          "question": "Built atop Senlac Hill, Battle Abbey in East Sussex was built to commemorate what fight immortalized in the Bayeux Tapestry?"
         },
         {
           "points": 2,
-          "question": "There's an ongoing Russian experiment that is trying to domesticate what omnivores that are often depicted with nine tails in Asian folklore?"
+          "question": "King Harold Godwinson bested Harald Hardrada at the Battle of Stamford Bridge, just a month before dying in what 1066 battle?"
         },
         {
           "points": 1,
-          "question": "Females are called vixens and males are called tods, when referring to what bushy-tailed canines whose most common species has red fur?"
+          "question": "We don't think it's hasty to say that William the Conqueror won the English crown by leading the Normans at what pivotal battle?"
+        }
+      ]
+    },
+    {
+      "id": 5402,
+      "category": "Science & Nature",
+      "answer": "Haboob",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Comparing Arizona to Sudan, Robert Ingram popularized an obscure meteorological term by publishing the 1972 article \"An American WHAT\"?"
+        },
+        {
+          "points": 2,
+          "question": "Starts with an \"H\": When a thunderstorm collapses in an arid region you can get what rolling walls of sand that have also been observed on Mars?"
+        },
+        {
+          "points": 1,
+          "question": "Maybe it needs a \"ha-bra\"? Look, we're not above giggling at the Arabic name for what fast-moving dust storms?"
+        }
+      ]
+    },
+    {
+      "id": 5405,
+      "category": "Entertainment",
+      "answer": "Supergirl",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Opposite Mia Farrow as Alura In-Ze and Faye Dunaway as the villainous Selena, Helen Slater played the title role in what 1984 flop?"
+        },
+        {
+          "points": 2,
+          "question": "The DC comic miniseries \"Woman of Tomorrow\" was used as inspiration for what Mily Alcock movie that came out in June?"
+        },
+        {
+          "points": 1,
+          "question": "Fighting crime, wearing capes, and occasional hanging with Lois Lane and some guy named Clark, Melissa Benoist played the title heroine on what CBS/CW show?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1233,
-    "dailyId": "1276",
-    "retrievedAt": "2026-11-13T18:42:53.489282+00:00"
+    "quizNumber": 1234,
+    "dailyId": "1277",
+    "retrievedAt": "2026-11-14T17:17:00.512384+00:00"
   }
 }
