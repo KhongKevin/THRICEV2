@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5403,
-      "category": "Consumer Stuff",
-      "answer": "Keebler",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "The first commercial bakery to sell Girl Scout Cookies was the WHAT-Weyl Baking Company in Philly?"
-        },
-        {
-          "points": 2,
-          "question": "Kellogg's kept the crackers but sold Sandie's Shortbread and E.L. Fudge Cookies to Ferrero, the current owners of what brand with a tree logo?"
-        },
-        {
-          "points": 1,
-          "question": "Uncommonly good! Ernest or Ernie or is the head elf who appears in commercials for what sugary company?"
-        }
-      ]
-    },
-    {
-      "id": 5401,
-      "category": "Arts & Culture",
-      "answer": "The Call of the Wild",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Our unlikely protagonist gets kidnapped from the home of Judge Miller and fights his rival Spitz to the death, in what 1903 classic?"
-        },
-        {
-          "points": 2,
-          "question": "A spiritual prequel to \"White Fang,\" what novel was adapted to film in 2020 with Harrison Ford as the gold prospector Jack Thornton?"
-        },
-        {
-          "points": 1,
-          "question": "The St. Bernard Buck has answered the title summons and joined an Alaskan wolf pack, by the end of what Jack London novel?"
-        }
-      ]
-    },
-    {
-      "id": 5404,
-      "category": "Social Sciences",
-      "answer": "The Battle of Hastings",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Built atop Senlac Hill, Battle Abbey in East Sussex was built to commemorate what fight immortalized in the Bayeux Tapestry?"
-        },
-        {
-          "points": 2,
-          "question": "King Harold Godwinson bested Harald Hardrada at the Battle of Stamford Bridge, just a month before dying in what 1066 battle?"
-        },
-        {
-          "points": 1,
-          "question": "We don't think it's hasty to say that William the Conqueror won the English crown by leading the Normans at what pivotal battle?"
-        }
-      ]
-    },
-    {
-      "id": 5402,
-      "category": "Science & Nature",
-      "answer": "Haboob",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Comparing Arizona to Sudan, Robert Ingram popularized an obscure meteorological term by publishing the 1972 article \"An American WHAT\"?"
-        },
-        {
-          "points": 2,
-          "question": "Starts with an \"H\": When a thunderstorm collapses in an arid region you can get what rolling walls of sand that have also been observed on Mars?"
-        },
-        {
-          "points": 1,
-          "question": "Maybe it needs a \"ha-bra\"? Look, we're not above giggling at the Arabic name for what fast-moving dust storms?"
-        }
-      ]
-    },
-    {
-      "id": 5405,
+      "id": 5412,
       "category": "Entertainment",
-      "answer": "Supergirl",
+      "answer": "Samuel L. Jackson",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Opposite Mia Farrow as Alura In-Ze and Faye Dunaway as the villainous Selena, Helen Slater played the title role in what 1984 flop?"
+          "question": "While a student at Morehouse College, what future star of \"Jurassic Park\" and \"Coming to America\" served as an usher at MLK's funeral?"
         },
         {
           "points": 2,
-          "question": "The DC comic miniseries \"Woman of Tomorrow\" was used as inspiration for what Mily Alcock movie that came out in June?"
+          "question": "Known for reciting Ezekiel 25:17, the hitman Jules Winfield was the first role what actor played in a Quentin Tarantino movie?"
         },
         {
           "points": 1,
-          "question": "Fighting crime, wearing capes, and occasional hanging with Lois Lane and some guy named Clark, Melissa Benoist played the title heroine on what CBS/CW show?"
+          "question": "What star of \"Snakes on a Plane\" convinced George Lucas to give him a purple lightsaber when he played Mace Windu?"
+        }
+      ]
+    },
+    {
+      "id": 5408,
+      "category": "Science & Nature",
+      "answer": "Acorn",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The anatomical term \"glans\" comes from the Latin word for what seeds whose Greek name also gave us the term \"balanitis\"?"
+        },
+        {
+          "points": 2,
+          "question": "The cupule is the hard outer shell around what nuts, that are produced by only certain members of the beech tree family?"
+        },
+        {
+          "points": 1,
+          "question": "A favorite food to hoard for many squirrels and chipmunks, what capped nuts do oak trees produce and grow from?"
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "category": "Arts & Culture",
+      "answer": "1001 Arabian Nights",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The slave girl Morgiana and the Chinese princess Badroulbadour are characters from what work that was translated into English by Sir Richard Burton?"
+        },
+        {
+          "points": 2,
+          "question": "To avoid execution, Scheherazade spins a series of tales that each end on a cliffhanger by dawn, in the frame story for what folk tale collection?"
+        },
+        {
+          "points": 1,
+          "question": "Sinbad, Ali Baba, and Aladdin feature in what Islamic Golden Age anthology that would probably take you more than few bedtimes to get through?"
+        }
+      ]
+    },
+    {
+      "id": 5411,
+      "category": "Social Sciences",
+      "answer": "Solipsism",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Maintaining that it required the use of \"private language,” Wittgenstein attacked what philosophical position with his beetle-in-a-box thought experiment?"
+        },
+        {
+          "points": 2,
+          "question": "Somehow there are roughly 1,200 members of the subreddit devoted to what philosophy whose name is Latin for \"alone self\"?"
+        },
+        {
+          "points": 1,
+          "question": "The belief that you alone exist and all other people and objects are just projections of your own mind is known as what \"-ism\" that starts with \"S\"?"
+        }
+      ]
+    },
+    {
+      "id": 5410,
+      "category": "Consumer Stuff",
+      "answer": "Fruit of the Loom",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Since being acquired in 2002 by Warren Buffet, what casual wear brand has acquired ownership of Spalding and Vanity Fair Lingerie?"
+        },
+        {
+          "points": 2,
+          "question": "Blame the Mandela Effect! Many people claim there used to be a cornucopia in the logo of what Kentucky-based company?"
+        },
+        {
+          "points": 1,
+          "question": "Actors dressed in bulky apple, grapes, and leaves costumes have appeared in ads for what creator of the Underoos?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1234,
-    "dailyId": "1277",
-    "retrievedAt": "2026-11-14T17:17:00.512384+00:00"
+    "quizNumber": 1235,
+    "dailyId": "1278",
+    "retrievedAt": "2026-11-15T17:56:59.277815+00:00"
   }
 }

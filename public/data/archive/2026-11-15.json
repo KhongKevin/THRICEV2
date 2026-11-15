@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-15",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5412,
+      "category": "Entertainment",
+      "answer": "Samuel L. Jackson",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "While a student at Morehouse College, what future star of \"Jurassic Park\" and \"Coming to America\" served as an usher at MLK's funeral?"
+        },
+        {
+          "points": 2,
+          "question": "Known for reciting Ezekiel 25:17, the hitman Jules Winfield was the first role what actor played in a Quentin Tarantino movie?"
+        },
+        {
+          "points": 1,
+          "question": "What star of \"Snakes on a Plane\" convinced George Lucas to give him a purple lightsaber when he played Mace Windu?"
+        }
+      ]
+    },
+    {
+      "id": 5408,
+      "category": "Science & Nature",
+      "answer": "Acorn",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The anatomical term \"glans\" comes from the Latin word for what seeds whose Greek name also gave us the term \"balanitis\"?"
+        },
+        {
+          "points": 2,
+          "question": "The cupule is the hard outer shell around what nuts, that are produced by only certain members of the beech tree family?"
+        },
+        {
+          "points": 1,
+          "question": "A favorite food to hoard for many squirrels and chipmunks, what capped nuts do oak trees produce and grow from?"
+        }
+      ]
+    },
+    {
+      "id": 5406,
+      "category": "Arts & Culture",
+      "answer": "1001 Arabian Nights",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The slave girl Morgiana and the Chinese princess Badroulbadour are characters from what work that was translated into English by Sir Richard Burton?"
+        },
+        {
+          "points": 2,
+          "question": "To avoid execution, Scheherazade spins a series of tales that each end on a cliffhanger by dawn, in the frame story for what folk tale collection?"
+        },
+        {
+          "points": 1,
+          "question": "Sinbad, Ali Baba, and Aladdin feature in what Islamic Golden Age anthology that would probably take you more than few bedtimes to get through?"
+        }
+      ]
+    },
+    {
+      "id": 5411,
+      "category": "Social Sciences",
+      "answer": "Solipsism",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Maintaining that it required the use of \"private language,” Wittgenstein attacked what philosophical position with his beetle-in-a-box thought experiment?"
+        },
+        {
+          "points": 2,
+          "question": "Somehow there are roughly 1,200 members of the subreddit devoted to what philosophy whose name is Latin for \"alone self\"?"
+        },
+        {
+          "points": 1,
+          "question": "The belief that you alone exist and all other people and objects are just projections of your own mind is known as what \"-ism\" that starts with \"S\"?"
+        }
+      ]
+    },
+    {
+      "id": 5410,
+      "category": "Consumer Stuff",
+      "answer": "Fruit of the Loom",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Since being acquired in 2002 by Warren Buffet, what casual wear brand has acquired ownership of Spalding and Vanity Fair Lingerie?"
+        },
+        {
+          "points": 2,
+          "question": "Blame the Mandela Effect! Many people claim there used to be a cornucopia in the logo of what Kentucky-based company?"
+        },
+        {
+          "points": 1,
+          "question": "Actors dressed in bulky apple, grapes, and leaves costumes have appeared in ads for what creator of the Underoos?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1235,
+    "dailyId": "1278",
+    "retrievedAt": "2026-11-15T17:56:59.277815+00:00"
+  }
+}
