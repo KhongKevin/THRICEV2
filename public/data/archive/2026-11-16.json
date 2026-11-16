@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-16",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5415,
+      "category": "Entertainment",
+      "answer": "Clue",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "For realism, we guess, the original 1949 edition of what now Hasbro board game came with one token that was made of actual lead?"
+        },
+        {
+          "points": 2,
+          "question": "The housekeeper Mrs. White got replaced by Dr. Orchid in the 2016 edition of what classic board game, the first game ever to have a tie-in movie?"
+        },
+        {
+          "points": 1,
+          "question": "Shouting the phrase \"Colonel Mustard in the library with the candlestick\" is one of the 324 ways you might win what mystery solving board game?"
+        }
+      ]
+    },
+    {
+      "id": 5413,
+      "category": "Consumer Stuff",
+      "answer": "Progressive",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Worried that consumers were getting them confused with a soup brand, what insurance company started marketing with Arnold Worldwide in 2007?"
+        },
+        {
+          "points": 2,
+          "question": "Dr. Rick treats young homeowners for \"parentomorphosis,\" in commercials for what corporation known for its Name Your Price Tool?"
+        },
+        {
+          "points": 1,
+          "question": "Jamie is the hapless sidekick of Flo, the spokeperson played by Stephanie Courtney in ads for what auto insurance?"
+        }
+      ]
+    },
+    {
+      "id": 5409,
+      "category": "Science & Nature",
+      "answer": "Lymph",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Frogs, turtles, and ostriches have extra pseudo-hearts for pumping around what clear liquid that's mostly made of plasma?"
+        },
+        {
+          "points": 2,
+          "question": "The namesake of a bodily system, what white-blood-cell-rich fluid gets filtered in \"nodes\" in your neck and armpits before returning to your bloodstream?"
+        },
+        {
+          "points": 1,
+          "question": "Poor drainage of a certain \"L\" liquid can result in chronic swelling in the legs known as \"WHAT-edema\"?"
+        }
+      ]
+    },
+    {
+      "id": 5414,
+      "category": "Social Sciences",
+      "answer": "Marsha P. Johnson",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "While with the Hot Peaches, what de facto \"Mayor of Christopher Street\" modeled for Andy Warhol's \"Ladies and Gentlemen\" portrait series?"
+        },
+        {
+          "points": 2,
+          "question": "Sylvia Rivera cofounded STAR with what activist and house mother who is often credited with throwing a brick at a certain 1969 uprising?"
+        },
+        {
+          "points": 1,
+          "question": "The \"P\" stands for \"pay it no mind\" in the middle name of what drag queen and face of the Stonewall Riots?"
+        }
+      ]
+    },
+    {
+      "id": 5407,
+      "category": "Arts & Culture",
+      "answer": "Oklahoma!",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The first actor in a wheelchair to win a Tony award, Ali Stroker played Ado Annie in what musical based on the play \"Green Grow the Lilacs\"?"
+        },
+        {
+          "points": 2,
+          "question": "Will sings the praises of \"Kansas City\" in what 1943 Rogers and Hammerstein musical named for a totally different place?"
+        },
+        {
+          "points": 1,
+          "question": "The song \"Oh, What a Beautiful Mornin'\" opens what show that takes place in a US territory just north of Texas?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1236,
+    "dailyId": "1279",
+    "retrievedAt": "2026-11-16T21:12:18.505228+00:00"
+  }
+}
