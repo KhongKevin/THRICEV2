@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-17",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5418,
+      "category": "Arts & Culture",
+      "answer": "Leaning Tower of Pisa",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Galileo tested the principles of free fall by dropping cannonballs of different weights off of what Tuscan campanile?"
+        },
+        {
+          "points": 2,
+          "question": "Giving the subsoil time to settle, battles with Genoa, Lucca, and Florence halted construction for a century on what central Italian tourist attraction?"
+        },
+        {
+          "points": 1,
+          "question": "In 2010, Guinness certified the UAE's Capital Gate as tiltier than what tower with a notorious four-degree slant?"
+        }
+      ]
+    },
+    {
+      "id": 5422,
+      "category": "Entertainment",
+      "answer": "Hamlet",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Steve Coogan portrays a frustrated drama teacher who writes a time-traveling sequel — in which he plays Jesus — in the bizarre 2008 comedy 'WHAT 2\"?"
+        },
+        {
+          "points": 2,
+          "question": "In the upcoming film \"Elsinore,\" Andrew Scott plays \"Chariots of Fire\" actor Ian Charleson as he takes on what dream theatrical role?"
+        },
+        {
+          "points": 1,
+          "question": "Outsmarting Nazis in occupied Poland, the acting troupe in 1942's \"To Be or Not to Be\" start out the film in a production of what Shakespeare tragedy?"
+        }
+      ]
+    },
+    {
+      "id": 5421,
+      "category": "Social Sciences",
+      "answer": "Baron",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In Haitian Vodou, the loa of the dead is a top hat-wearing gentleman known as WHO Samedi?"
+        },
+        {
+          "points": 2,
+          "question": "Not quite a viscount or earl, what's the fifth and lowest rank in the current British peerage system?"
+        },
+        {
+          "points": 1,
+          "question": "Snoopy is known for his occasional air battles with Manfred von Richthofen, better known as The Red WHO?"
+        }
+      ]
+    },
+    {
+      "id": 5417,
+      "category": "Consumer Stuff",
+      "answer": "Succotash",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A Narragansett word meaning \"boiled whole kernels of corn\" gave us the name of what veggie dish that was likely eaten at the first Thanksgiving?"
+        },
+        {
+          "points": 2,
+          "question": "Though potatoes, peppers, onions, or meat are often mixed in, sweet corn and lima beans are the backbone of what \"S\" food?"
+        },
+        {
+          "points": 1,
+          "question": "The cat Sylvester from Looney Tunes would often lisp his way through the catchphrase \"Sufferin' WHAT\"?"
+        }
+      ]
+    },
+    {
+      "id": 5419,
+      "category": "Science & Nature",
+      "answer": "Copenhagen",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Holmium is to Stockholm as Hafnium is to what northern European city where you'll find the Experimentarium?"
+        },
+        {
+          "points": 2,
+          "question": "Way back in the '90s, the Ørsted Laboratory merged with the Niels Bohr Institute in what Scandinavian capital?"
+        },
+        {
+          "points": 1,
+          "question": "Jens Olsen's World Clock confuses the heck out of visitors to the city hall of what Danish capital?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1237,
+    "dailyId": "1280",
+    "retrievedAt": "2026-11-17T19:59:26.359450+00:00"
+  }
+}
