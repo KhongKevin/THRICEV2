@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5418,
-      "category": "Arts & Culture",
-      "answer": "Leaning Tower of Pisa",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Galileo tested the principles of free fall by dropping cannonballs of different weights off of what Tuscan campanile?"
-        },
-        {
-          "points": 2,
-          "question": "Giving the subsoil time to settle, battles with Genoa, Lucca, and Florence halted construction for a century on what central Italian tourist attraction?"
-        },
-        {
-          "points": 1,
-          "question": "In 2010, Guinness certified the UAE's Capital Gate as tiltier than what tower with a notorious four-degree slant?"
-        }
-      ]
-    },
-    {
-      "id": 5422,
+      "id": 5416,
       "category": "Entertainment",
-      "answer": "Hamlet",
+      "answer": "James Bond",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Steve Coogan portrays a frustrated drama teacher who writes a time-traveling sequel — in which he plays Jesus — in the bizarre 2008 comedy 'WHAT 2\"?"
+          "question": "In 1954, the very American Barry Nelson became the first person to play what very British character on screen?"
         },
         {
           "points": 2,
-          "question": "In the upcoming film \"Elsinore,\" Andrew Scott plays \"Chariots of Fire\" actor Ian Charleson as he takes on what dream theatrical role?"
+          "question": "Jack Lowden and Jack O'Connell recently lost out on what man of action role to Robert Pattinson?"
         },
         {
           "points": 1,
-          "question": "Outsmarting Nazis in occupied Poland, the acting troupe in 1942's \"To Be or Not to Be\" start out the film in a production of what Shakespeare tragedy?"
+          "question": "In a 2015 interview, Daniel Craig said he'd \"rather slit his wrists than play\" what superspy again?"
         }
       ]
     },
     {
-      "id": 5421,
-      "category": "Social Sciences",
-      "answer": "Baron",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "In Haitian Vodou, the loa of the dead is a top hat-wearing gentleman known as WHO Samedi?"
-        },
-        {
-          "points": 2,
-          "question": "Not quite a viscount or earl, what's the fifth and lowest rank in the current British peerage system?"
-        },
-        {
-          "points": 1,
-          "question": "Snoopy is known for his occasional air battles with Manfred von Richthofen, better known as The Red WHO?"
-        }
-      ]
-    },
-    {
-      "id": 5417,
+      "id": 5424,
       "category": "Consumer Stuff",
-      "answer": "Succotash",
+      "answer": "Pecan",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "A Narragansett word meaning \"boiled whole kernels of corn\" gave us the name of what veggie dish that was likely eaten at the first Thanksgiving?"
+          "question": "Also used in the state dessert, Texas's official state tree is what drupe-bearing member of the hickory family?"
         },
         {
           "points": 2,
-          "question": "Though potatoes, peppers, onions, or meat are often mixed in, sweet corn and lima beans are the backbone of what \"S\" food?"
+          "question": "Though botanically a fruit, what pie ingredient is culinarily classified as a tree nut and often gets served candied or toasted atop salads?"
         },
         {
           "points": 1,
-          "question": "The cat Sylvester from Looney Tunes would often lisp his way through the catchphrase \"Sufferin' WHAT\"?"
+          "question": "Depending on where you are in the US, what sweet nut gets pronounced with a \"PEE\" sound or correctly with a hard \"puh\"?"
         }
       ]
     },
     {
-      "id": 5419,
-      "category": "Science & Nature",
-      "answer": "Copenhagen",
+      "id": 5425,
+      "category": "Arts & Culture",
+      "answer": "Scarecrow",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Holmium is to Stockholm as Hafnium is to what northern European city where you'll find the Experimentarium?"
+          "question": "In Diana Wynne Jones' \"Howl's Moving Castle,\" the Wizard Suliman is trying to put his body back together from inside what anthropomorphic object?"
         },
         {
           "points": 2,
-          "question": "Way back in the '90s, the Ørsted Laboratory merged with the Niels Bohr Institute in what Scandinavian capital?"
+          "question": "In the Uncle Remus stories, Br'er Rabbit tricks Br'er Bear into getting him out of a trap by claiming he's being paid a dollar minute to act as what thing in a garden?"
         },
         {
           "points": 1,
-          "question": "Jens Olsen's World Clock confuses the heck out of visitors to the city hall of what Danish capital?"
+          "question": "In \"The Wonderful Wizard of Oz,\" the Wizard appoints what once-brainless companion of Dorothy to rule in his stead?"
+        }
+      ]
+    },
+    {
+      "id": 5423,
+      "category": "Social Sciences",
+      "answer": "Cherokee",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A dog spilling cornmeal created the Milky Way, according to the stories of what nation whose syllabary was invented by Sequoyah?"
+        },
+        {
+          "points": 2,
+          "question": "The primary legal challenge to the Trail of Tears was made by what Georgia tribe that's now the largest in Oklahoma?"
+        },
+        {
+          "points": 1,
+          "question": "Like the Choctaw and Chickasaw, what other Native American tribe that starts with \"Ch\" has artifacts on display in the \"Five Civilized Tribes Museum\"?"
+        }
+      ]
+    },
+    {
+      "id": 5420,
+      "category": "Science & Nature",
+      "answer": "Moose",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Though probably not a creature you'd expect to see swimming, what 1,200 lb animals don't have front teeth so they can slurp up marine plants?"
+        },
+        {
+          "points": 2,
+          "question": "Contracted by eating the wrong snails, there's a parasitic brain worm that's been known to kill what largest member of the deer family?"
+        },
+        {
+          "points": 1,
+          "question": "Not just for fighting or stripping bark off trees, what North American megafauna's big old antlers also help them hear?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1237,
-    "dailyId": "1280",
-    "retrievedAt": "2026-11-17T19:59:26.359450+00:00"
+    "quizNumber": 1238,
+    "dailyId": "1281",
+    "retrievedAt": "2026-11-18T19:31:52.149152+00:00"
   }
 }
