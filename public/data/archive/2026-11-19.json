@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-19",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5433,
+      "category": "Consumer Stuff",
+      "answer": "Slinky",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Trying to create an anti-vibration mechanism for ships, marine engineer Richard James accidentally invented what enduring toy?"
+        },
+        {
+          "points": 2,
+          "question": "Because of the stretchy resonance of its coil, U.S. soldiers in Vietnam rigged what toy as a radio antenna?"
+        },
+        {
+          "points": 1,
+          "question": "Apparently needing three people to do it, Joe, Axel, and Christelle Luchsinger broke a world record by sending what toy down 53 stairs?"
+        }
+      ]
+    },
+    {
+      "id": 5431,
+      "category": "Science & Nature",
+      "answer": "Ebola",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Something called the \"Kikwit strain\" is used in Ervebo, the current vaccine for what feverish disease?"
+        },
+        {
+          "points": 2,
+          "question": "In Richard Preston's terrifying '90s bestseller \"The Hot Zone,\" a bunch of monkeys kick the bucket from what disease named for a Congolese river?"
+        },
+        {
+          "points": 1,
+          "question": "EVD and EHF are initialisms for what hemorrhagic fever?"
+        }
+      ]
+    },
+    {
+      "id": 5428,
+      "category": "Entertainment",
+      "answer": "Choosin' Texas",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Dethroning Mariah Carey, what country tune with a video shot at Fort Worth's Stagecoach Ballroom now holds the record for the longest-running number one Billboard single?"
+        },
+        {
+          "points": 2,
+          "question": "What recent hit single namedrops I-40, Abilene, and the song \"Amarillo by Morning\"?"
+        },
+        {
+          "points": 1,
+          "question": "Alabaman Ella Langley's only number one single so far is what absolute juggernaut that's full of Lone Star state references?"
+        }
+      ]
+    },
+    {
+      "id": 5427,
+      "category": "Arts & Culture",
+      "answer": "A Court of Thorns and Roses",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "\"Beauty and the Beast\" partly inspired what romantasy series whose \"Splintered Harmony\" sequel is currently topping the NY Times bestseller list?"
+        },
+        {
+          "points": 2,
+          "question": "Feyre Archeron kills a faerie wolf to set off what Sarah J. Maas romantasy series?"
+        },
+        {
+          "points": 1,
+          "question": "\"A Court of\" begins the title of every book in what pungent, thumb-pricking romantasy series?"
+        }
+      ]
+    },
+    {
+      "id": 5429,
+      "category": "Social Sciences",
+      "answer": "New Mexico",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In 2008, what U.S. state was the first to adopt a Navajo textbook for its public schools?"
+        },
+        {
+          "points": 2,
+          "question": "The bolo is the official tie of which Southwestern state?"
+        },
+        {
+          "points": 1,
+          "question": "\"Land of Enchantment\" is the nickname of what state with a Zuni sun symbol on its flag?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1239,
+    "dailyId": "1282",
+    "retrievedAt": "2026-11-19T19:36:13.808744+00:00"
+  }
+}
