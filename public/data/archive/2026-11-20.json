@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-20",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5430,
+      "category": "Entertainment",
+      "answer": "Aladdin",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A playable realm in \"Kingdom Hearts,\" Agrabah is the setting of what 1992 movie?"
+        },
+        {
+          "points": 2,
+          "question": "\"Friend Like Me\" lost the Best Original Song Oscar to \"A Whole New World\" in a cannibalizing awards moment for what Disney film?"
+        },
+        {
+          "points": 1,
+          "question": "\"I know genies don't have feet... but you left some big shoes to fill.\" Will Smith wrote that tribute to Robin Williams after taking over for him in what 2019 remake?"
+        }
+      ]
+    },
+    {
+      "id": 5435,
+      "category": "Science & Nature",
+      "answer": "Tornado",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Parts of Missouri, Illinois, and Indiana were devastated on March 18, 1925, by an event known as the Tri-State WHAT?"
+        },
+        {
+          "points": 2,
+          "question": "With over 300 individual touchdowns reported, the 2011 Super Outbreak was an especially nasty spate of what natural disasters?"
+        },
+        {
+          "points": 1,
+          "question": "Storm chase footage from 2018 proved that cows really can be picked up and whipped around by the strongest versions of what catastrophes?"
+        }
+      ]
+    },
+    {
+      "id": 5426,
+      "category": "Arts & Culture",
+      "answer": "Karaoke",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Daisuke Inoue of Japan and Roberto del Rosario of the Philippines both sometimes receive credit for making the first machines for what activity?"
+        },
+        {
+          "points": 2,
+          "question": "Shigeichi Negishi's coin-operated Sparko Box might also have been first machine for what activity that comes from Japanese words for \"empty\" and \"orchestra\"?"
+        },
+        {
+          "points": 1,
+          "question": "A 1985 \"Magnum P.I.\" episode that visits a bar called Sing Sing may be the first American pop cultural depiction of what amateur musical activity?"
+        }
+      ]
+    },
+    {
+      "id": 5434,
+      "category": "Social Sciences",
+      "answer": "Doctors Without Borders/Médecins Sans Frontières",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The 1999 Nobel Peace Prize went to what medical group that was founded in the aftermath of the Biafran famine?"
+        },
+        {
+          "points": 2,
+          "question": "Known as \"MSF,\" a shortening of its official French name, what organization provides urgent care in war-torn areas?"
+        },
+        {
+          "points": 1,
+          "question": "Payasos Sin Fronteras, AKA Clowns Without Borders, was very likely inspired by what charitable group with a very similar name?"
+        }
+      ]
+    },
+    {
+      "id": 5432,
+      "category": "Consumer Stuff",
+      "answer": "Toothpaste",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Egyptians of around 2000 BC used powdered pumice stone and vinegar to create what toiletry?"
+        },
+        {
+          "points": 2,
+          "question": "In the 1800s, British chemists added bicarbonate of soda and strontium to what hygiene product that got its first collapsible tube in 1892?"
+        },
+        {
+          "points": 1,
+          "question": "Proctor & Gamble gave the foil-hats more to worry about in 1956, when they added fluoride to what sanitary item?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1240,
+    "dailyId": "1283",
+    "retrievedAt": "2026-11-20T19:14:25.293831+00:00"
+  }
+}
