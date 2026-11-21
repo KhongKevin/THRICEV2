@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-21",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5443,
+      "category": "Consumer Stuff",
+      "answer": "Cranberry",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Contending their pink flowers resembled a certain long-necked bird, early American settlers came up with the name of what edible marshy plant?"
+        },
+        {
+          "points": 2,
+          "question": "The aptly named \"Ruby Slipper\" is a tractor-pulled device used to harvest what tart fruit and namesake of an Irish band?"
+        },
+        {
+          "points": 1,
+          "question": "Also selling the juice, Ocean Spray makes bank around Thanksgiving and Christmas selling \"sauce\" made from what red berry?"
+        }
+      ]
+    },
+    {
+      "id": 5445,
+      "category": "Arts & Culture",
+      "answer": "Louisa May Alcott",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Published in the collection \"Aunt Jo's Scrap-Bag,\" \"An Old Fashioned Thanksgiving\" is a short story by what American author?"
+        },
+        {
+          "points": 2,
+          "question": "Also basing \"Hospital Sketches\" on her time as a nurse for the Union Army, what writer from Concord, Mass used her own family as inspiration for the March sisters?"
+        },
+        {
+          "points": 1,
+          "question": "May is the middle name of what celebrated activist and author of both \"Little Women\" and \"Little Men\"?"
+        }
+      ]
+    },
+    {
+      "id": 5439,
+      "category": "Social Sciences",
+      "answer": "Devils Tower",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In Kiowa tradition, seven girls were being chased by bears when they were rescued by the creation of what lacolith near the Belle Fouche River?"
+        },
+        {
+          "points": 2,
+          "question": "It's not a park, but Teddy Roosevelt declared what imposing igneous butte in Wyoming to be the first U.S. National Monument?"
+        },
+        {
+          "points": 1,
+          "question": "Only adding to its demonic mystique, UFOs arrive at what satanically-named rock column in \"Close Encounters of the Third Kind\"?"
+        }
+      ]
+    },
+    {
+      "id": 5438,
+      "category": "Entertainment",
+      "answer": "Focker(s)",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Dustin Hoffman, Barbara Streisand, and Teri Polo have all played characters with what off-putting surname that Universal had to get cleared by the MPAA?"
+        },
+        {
+          "points": 2,
+          "question": "Henry is played by Skylar Gisondo and is dating Ariana Grande's Olivia in the upcoming Ben Stiller sequel \"WHO-in-Law\"?"
+        },
+        {
+          "points": 1,
+          "question": "Proving you can milk things even if they don't have nipples, Robert De Niro topped the 2004 box office with the sequel \"Meet the WHOs\"?"
+        }
+      ]
+    },
+    {
+      "id": 5447,
+      "category": "Science & Nature",
+      "answer": "Hibernation",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The common poorwill is the only bird that engages in what animal behavior that's often contrasted with estivation?"
+        },
+        {
+          "points": 2,
+          "question": "Though reptiles can undergo a sort of voluntary hypothermia, only warm-blooded critters can truly enter what seasonal state of reduced metabolic activity?"
+        },
+        {
+          "points": 1,
+          "question": "Bears are famous for overeating and then entering a deep sleep come winter, aka the cozy activity known as WHAT?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1241,
+    "dailyId": "1284",
+    "retrievedAt": "2026-11-21T18:10:00.141532+00:00"
+  }
+}
