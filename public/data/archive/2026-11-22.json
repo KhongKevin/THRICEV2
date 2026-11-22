@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-22",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5437,
+      "category": "Entertainment",
+      "answer": "Six",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Referring to their call sign, not the number of games, author Tom Clancy inspired the shooter series \"Rainbow WHAT\"?"
+        },
+        {
+          "points": 2,
+          "question": "Terra, Celes and others had to take down Kefka in the game released in Japan as \"Final Fantasy WHAT NUMBER\"?"
+        },
+        {
+          "points": 1,
+          "question": "Though technically it's the 16th game in the series, this week Rockstar released \"Grand Theft Auto WHAT ONE DIGIT NUMBER\"?"
+        }
+      ]
+    },
+    {
+      "id": 5440,
+      "category": "Social Sciences",
+      "answer": "Sioux",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The Grattan Massacre and Red Cloud's War were part of a series of 19th-century conflicts between the US and the Seven Council Fires, aka what people?"
+        },
+        {
+          "points": 2,
+          "question": "Occupied by protestors in 1973, the town of Wounded Knee is located in the multi-state spanning \"Great WHAT Reservation\"?"
+        },
+        {
+          "points": 1,
+          "question": "Like the \"Falls\" in South Dakota's most populous city, Gene Autry sang about swapping his horse and dog for \"WHO City Sue\"?"
+        }
+      ]
+    },
+    {
+      "id": 5452,
+      "category": "Arts & Culture",
+      "answer": "Norman Rockwell",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "While working for \"Look\" Magazine, what artist painted U.S. marshals escorting six-year-old Ruby Bridges to school in \"The Problem We All Live With\"?"
+        },
+        {
+          "points": 2,
+          "question": "In his \"Four Freedoms\" series, what illustrator depicted a family enjoying Thanksgiving dinner in the frequently copied \"Freedom from Want\"?"
+        },
+        {
+          "points": 1,
+          "question": "With the Saturday Evening Post, what fella named Norman made a \"Triple Self-Portrait,\" complete with three angles on his trademark pipe?"
+        }
+      ]
+    },
+    {
+      "id": 5450,
+      "category": "Consumer Stuff",
+      "answer": "Stouffer's",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The \"Supreme\" line are some rare non-frozen offerings from what Nestlé brand that started in Cleveland?"
+        },
+        {
+          "points": 2,
+          "question": "Living on Salisbury steak and pot roast, the Apollo astronauts spent quarantine eating meals from what company that also makes Lean Cuisine?"
+        },
+        {
+          "points": 1,
+          "question": "Though the internet differs and their name kind of sounds like it, what comfort food brand swears they never made a \"Stove Top Stuffing\"?"
+        }
+      ]
+    },
+    {
+      "id": 5448,
+      "category": "Science & Nature",
+      "answer": "Gizzard",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Earthworms grind up their food using what muscular digestive organ that's also found in mollusks?"
+        },
+        {
+          "points": 2,
+          "question": "A trait they shared with dinosaurs, birds will swallow small stones to aid in the function of what organ, located behind the crop?"
+        },
+        {
+          "points": 1,
+          "question": "Part of the giblets, what organ do turkeys have to make up for their lack of teeth? Hint: It rhymes with \"lizard.\""
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1242,
+    "dailyId": "1285",
+    "retrievedAt": "2026-11-22T18:38:05.914464+00:00"
+  }
+}

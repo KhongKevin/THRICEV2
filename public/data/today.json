@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5443,
-      "category": "Consumer Stuff",
-      "answer": "Cranberry",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Contending their pink flowers resembled a certain long-necked bird, early American settlers came up with the name of what edible marshy plant?"
-        },
-        {
-          "points": 2,
-          "question": "The aptly named \"Ruby Slipper\" is a tractor-pulled device used to harvest what tart fruit and namesake of an Irish band?"
-        },
-        {
-          "points": 1,
-          "question": "Also selling the juice, Ocean Spray makes bank around Thanksgiving and Christmas selling \"sauce\" made from what red berry?"
-        }
-      ]
-    },
-    {
-      "id": 5445,
-      "category": "Arts & Culture",
-      "answer": "Louisa May Alcott",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Published in the collection \"Aunt Jo's Scrap-Bag,\" \"An Old Fashioned Thanksgiving\" is a short story by what American author?"
-        },
-        {
-          "points": 2,
-          "question": "Also basing \"Hospital Sketches\" on her time as a nurse for the Union Army, what writer from Concord, Mass used her own family as inspiration for the March sisters?"
-        },
-        {
-          "points": 1,
-          "question": "May is the middle name of what celebrated activist and author of both \"Little Women\" and \"Little Men\"?"
-        }
-      ]
-    },
-    {
-      "id": 5439,
-      "category": "Social Sciences",
-      "answer": "Devils Tower",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "In Kiowa tradition, seven girls were being chased by bears when they were rescued by the creation of what lacolith near the Belle Fouche River?"
-        },
-        {
-          "points": 2,
-          "question": "It's not a park, but Teddy Roosevelt declared what imposing igneous butte in Wyoming to be the first U.S. National Monument?"
-        },
-        {
-          "points": 1,
-          "question": "Only adding to its demonic mystique, UFOs arrive at what satanically-named rock column in \"Close Encounters of the Third Kind\"?"
-        }
-      ]
-    },
-    {
-      "id": 5438,
+      "id": 5437,
       "category": "Entertainment",
-      "answer": "Focker(s)",
+      "answer": "Six",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Dustin Hoffman, Barbara Streisand, and Teri Polo have all played characters with what off-putting surname that Universal had to get cleared by the MPAA?"
+          "question": "Referring to their call sign, not the number of games, author Tom Clancy inspired the shooter series \"Rainbow WHAT\"?"
         },
         {
           "points": 2,
-          "question": "Henry is played by Skylar Gisondo and is dating Ariana Grande's Olivia in the upcoming Ben Stiller sequel \"WHO-in-Law\"?"
+          "question": "Terra, Celes and others had to take down Kefka in the game released in Japan as \"Final Fantasy WHAT NUMBER\"?"
         },
         {
           "points": 1,
-          "question": "Proving you can milk things even if they don't have nipples, Robert De Niro topped the 2004 box office with the sequel \"Meet the WHOs\"?"
+          "question": "Though technically it's the 16th game in the series, this week Rockstar released \"Grand Theft Auto WHAT ONE DIGIT NUMBER\"?"
         }
       ]
     },
     {
-      "id": 5447,
-      "category": "Science & Nature",
-      "answer": "Hibernation",
+      "id": 5440,
+      "category": "Social Sciences",
+      "answer": "Sioux",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "The common poorwill is the only bird that engages in what animal behavior that's often contrasted with estivation?"
+          "question": "The Grattan Massacre and Red Cloud's War were part of a series of 19th-century conflicts between the US and the Seven Council Fires, aka what people?"
         },
         {
           "points": 2,
-          "question": "Though reptiles can undergo a sort of voluntary hypothermia, only warm-blooded critters can truly enter what seasonal state of reduced metabolic activity?"
+          "question": "Occupied by protestors in 1973, the town of Wounded Knee is located in the multi-state spanning \"Great WHAT Reservation\"?"
         },
         {
           "points": 1,
-          "question": "Bears are famous for overeating and then entering a deep sleep come winter, aka the cozy activity known as WHAT?"
+          "question": "Like the \"Falls\" in South Dakota's most populous city, Gene Autry sang about swapping his horse and dog for \"WHO City Sue\"?"
+        }
+      ]
+    },
+    {
+      "id": 5452,
+      "category": "Arts & Culture",
+      "answer": "Norman Rockwell",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "While working for \"Look\" Magazine, what artist painted U.S. marshals escorting six-year-old Ruby Bridges to school in \"The Problem We All Live With\"?"
+        },
+        {
+          "points": 2,
+          "question": "In his \"Four Freedoms\" series, what illustrator depicted a family enjoying Thanksgiving dinner in the frequently copied \"Freedom from Want\"?"
+        },
+        {
+          "points": 1,
+          "question": "With the Saturday Evening Post, what fella named Norman made a \"Triple Self-Portrait,\" complete with three angles on his trademark pipe?"
+        }
+      ]
+    },
+    {
+      "id": 5450,
+      "category": "Consumer Stuff",
+      "answer": "Stouffer's",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "The \"Supreme\" line are some rare non-frozen offerings from what Nestlé brand that started in Cleveland?"
+        },
+        {
+          "points": 2,
+          "question": "Living on Salisbury steak and pot roast, the Apollo astronauts spent quarantine eating meals from what company that also makes Lean Cuisine?"
+        },
+        {
+          "points": 1,
+          "question": "Though the internet differs and their name kind of sounds like it, what comfort food brand swears they never made a \"Stove Top Stuffing\"?"
+        }
+      ]
+    },
+    {
+      "id": 5448,
+      "category": "Science & Nature",
+      "answer": "Gizzard",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Earthworms grind up their food using what muscular digestive organ that's also found in mollusks?"
+        },
+        {
+          "points": 2,
+          "question": "A trait they shared with dinosaurs, birds will swallow small stones to aid in the function of what organ, located behind the crop?"
+        },
+        {
+          "points": 1,
+          "question": "Part of the giblets, what organ do turkeys have to make up for their lack of teeth? Hint: It rhymes with \"lizard.\""
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1241,
-    "dailyId": "1284",
-    "retrievedAt": "2026-11-21T18:10:00.141532+00:00"
+    "quizNumber": 1242,
+    "dailyId": "1285",
+    "retrievedAt": "2026-11-22T18:38:05.914464+00:00"
   }
 }
