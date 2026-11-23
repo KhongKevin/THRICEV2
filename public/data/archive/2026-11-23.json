@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-23",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5449,
+      "category": "Consumer Stuff",
+      "answer": "Green Beans",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "By breeding out the tough string that had to be removed from it before it could be cooked, Calvin Keeney revolutionized the selling of what unripe vegetable?"
+        },
+        {
+          "points": 2,
+          "question": "A dish they invented, Campbell's still prints recipes on cans of mushroom soup for making \"WHAT WHAT Casserole\"?"
+        },
+        {
+          "points": 1,
+          "question": "Also called \"wax bean\" and \"French bean,\" the most common name for what vegetable simply refers to its color?"
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "category": "Social Sciences",
+      "answer": "Irish Potato Famine",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Just 16 years after the Trail of Tears, the Choctaw Nation was raising money for victims of what event caused by the Phytophthora infestans?"
+        },
+        {
+          "points": 2,
+          "question": "\"Soupers,\" families who traded their Catholicism for food, were a fixture of what 1845-1852 disaster that led to a spike in immigration to the U.S.?"
+        },
+        {
+          "points": 1,
+          "question": "British colonial policies that made locals entirely dependent on a certain tuber caused mass-starvation in Ireland during what period?"
+        }
+      ]
+    },
+    {
+      "id": 5436,
+      "category": "Entertainment",
+      "answer": "Katniss Everdeen",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "A swampy plant that's also called an arrowhead is the namesake of what book-turned-film protagonist?"
+        },
+        {
+          "points": 2,
+          "question": "An explosion planned by Gale Hawthorne ends up killing Primrose, the beloved sister of what Suzanne Collins character?"
+        },
+        {
+          "points": 1,
+          "question": "District 12's Peeta managed to win the 74th Hunger Games along with what archer played by Jennifer Lawrence?"
+        }
+      ]
+    },
+    {
+      "id": 5446,
+      "category": "Arts & Culture",
+      "answer": "Thunderbird",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Evil whales, underwater panthers, and horned serpents are the traditional enemies of what shape-shifting creature the Lakota call a Wakįjya?"
+        },
+        {
+          "points": 2,
+          "question": "Often compared to rocs from Middle Eastern folklore, what magical beast is typically carved at the top of totem poles in the Pacific Northwest?"
+        },
+        {
+          "points": 1,
+          "question": "Ford named a car after what legendary avian creature whose beating wings are typically accompanied by rainfall and lightning?"
+        }
+      ]
+    },
+    {
+      "id": 5442,
+      "category": "Science & Nature",
+      "answer": "Badger",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Though not a true Mustelid, the Philippines are home to a burrowing mammal known as the \"Palawan stink WHAT\"?"
+        },
+        {
+          "points": 2,
+          "question": "The dachshund was originally bred to hunt what large member of the weasel family, whose relatives in Africa are called ratels?"
+        },
+        {
+          "points": 1,
+          "question": "Not to keep hectoring you, but the University of Wisconsin uses what furry black-and-white carnivore as its mascot?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1243,
+    "dailyId": "1286",
+    "retrievedAt": "2026-11-23T22:53:08.689547+00:00"
+  }
+}
