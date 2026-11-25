@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5454,
-      "category": "Science & Nature",
-      "answer": "Wishbone",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Therapod dinosaurs are some of the oldest known creatures to have what specific bone that's essentially just two fused clavicles?"
-        },
-        {
-          "points": 2,
-          "question": "Shake a leg! A certain well-read terrier gets his name from what avian bone that's located just above the sternum?"
-        },
-        {
-          "points": 1,
-          "question": "If two people pull it apart, whoever gets the bigger piece is granted magical powers: So goes the superstition surrounding what Y-shaped turkey bone?"
-        }
-      ]
-    },
-    {
-      "id": 5456,
-      "category": "Entertainment",
-      "answer": "Nirvana",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "1992's \"Incesticide\" collected B-sides and rarities from what band that was only two albums deep then?"
-        },
-        {
-          "points": 2,
-          "question": "Germs guitarist Pat Smear joined up with what Seattle band just in time for their \"In Utero\" tour and legendary \"MTV Unplugged\" set?"
-        },
-        {
-          "points": 1,
-          "question": "On SNL's 50th anniversary, Krist Novoselic, Dave Grohl, and Pat Smear reunited what band to perform \"Smells Like Teen Spirit\" with Post Malone?"
-        }
-      ]
-    },
-    {
-      "id": 5457,
+      "id": 5476,
       "category": "Consumer Stuff",
-      "answer": "Subaru",
+      "answer": "Cornbread",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "What automaker's name comes from a translation of the Pleiades star cluster known as the \"Seven Sisters\"?"
+          "question": "In \"Sinners,\" Omar Benson Miller plays a doomed character named for what baked good that's cooked in a full on skillet in the South?"
         },
         {
           "points": 2,
-          "question": "One of the Seven Sisters is traditionally known as invisible, hence the six-star logo of what Japanese automaker?"
+          "question": "Though distinct, hushpuppies and Johnny Cakes are variations on what quick bread that originated in Native American cuisine?"
         },
         {
           "points": 1,
-          "question": "The Outback and Forester are sturdy models of what car brand that won't shut up about their symmetrical all-wheel drive?"
+          "question": "A whole lot of dried maize kernels go into the making of what yellow bread that for an extra zip can be baked with jalapenos?"
         }
       ]
     },
     {
-      "id": 5451,
+      "id": 5465,
       "category": "Arts & Culture",
-      "answer": "The Potato Eaters",
+      "answer": "The Mashed Potato",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "There are no raccoons, but the de Groot family from the Dutch town of Nuenen modeled for what dimly-lit 1885 oil painting?"
+          "question": "Jumping on a dance craze started by James Brown, Dee Dee Sharp released the 1962 hit \"WHAT WHAT Time\"?"
         },
         {
           "points": 2,
-          "question": "In a letter to his sister, Van Gogh maintained it wasn't \"Starry Night\" but what painting of five peasants at a dinner table that was among his best?"
+          "question": "A variation on the twist by Chubby Checker, what culinary dance move is done by pivoting back forth between your heels and toes?"
         },
         {
           "points": 1,
-          "question": "As opposed to mashed, baked, or au gratin, their meager dinner appears to be boiled in the painting \"The WHAT Eaters\"?"
+          "question": "\"The Monster\"...um...\"Mash\" is meant to be a parody of what dance whose footwork resembles prepping a certain starchy side dish?"
         }
       ]
     },
     {
-      "id": 5458,
-      "category": "Social Sciences",
-      "answer": "Thank You",
+      "id": 5473,
+      "category": "Entertainment",
+      "answer": "Rudy",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "420 meters long and containing 270k signatures, Ireland's Morpeth Roll is considered by many to be the world's longest \"WHAT WHAT Note\"?"
+          "question": "In 1993, writer Angelo Pizzo and director David Anspaugh followed up their collab on \"Hoosiers\" with what other Indiana sports movie?"
         },
         {
           "points": 2,
-          "question": "It's just good manners. One theory for the origin of the phrase \"mind your p's and q's\" is that p stands \"please\" and q stands for what two words squished together?"
+          "question": "Daniel Ruettiger was the inspiration for what biopic that shot several major scenes at the University of Notre Dame?"
         },
         {
           "points": 1,
-          "question": "Something we'd like to say to all the Thrice players this year! \"Arigato\" in Japanese, \"merci\" in French, and \"gracias\" in Spanish all translate to what common English phrase?"
+          "question": "No relation, thank goodness, to Mr. Giuliani, Sean Astin portrayed football players in \"Woodlawn\" and what tearjerker?"
+        }
+      ]
+    },
+    {
+      "id": 5468,
+      "category": "Social Sciences",
+      "answer": "Breast",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In masonry, the extra bit of wall needed to accommodate a fireplace is anatomically known as a \"chimney WHAT\"?"
+        },
+        {
+          "points": 2,
+          "question": "The root of the word \"panzer,\" the Old French word pancier originally referred to the chest part of a knight's armor known as the \"WHAT-plate\"?"
+        },
+        {
+          "points": 1,
+          "question": "Activist Charlotte Haley is the reason peach and pink ribbons are associated with \"WHAT Cancer Awareness\"?"
+        }
+      ]
+    },
+    {
+      "id": 5474,
+      "category": "Science & Nature",
+      "answer": "Pheasants",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Ask Brennan Lee Mulligan: The Siamese fireback belongs to what subset of Asian birds that were naturalized across Europe and North America?"
+        },
+        {
+          "points": 2,
+          "question": "\"Ring-necked\" is another name for the common variety of what gamebird that grows larger than their cousins the quail and partridge?"
+        },
+        {
+          "points": 1,
+          "question": "While related, guinea fowl, grouse and chickens are NOT considered what type of ground-dwelling P-bird?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1244,
-    "dailyId": "1287",
-    "retrievedAt": "2026-11-24T21:28:01.471483+00:00"
+    "quizNumber": 1245,
+    "dailyId": "1288",
+    "retrievedAt": "2026-11-25T20:37:11.362896+00:00"
   }
 }
