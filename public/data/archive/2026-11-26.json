@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-26",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5460,
+      "category": "Consumer Stuff",
+      "answer": "Gravy",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "In \"The Catastrophe of Success,\" Tennessee Williams laments staying at a first class hotel and pouring chocolate sauce on his steak, thinking it was WHAT?"
+        },
+        {
+          "points": 2,
+          "question": "Though red or red-eye is sometimes used, it's typically a white style of what sauce that gets paired with biscuits for breakfast?"
+        },
+        {
+          "points": 1,
+          "question": "KFC thankfully pulled their bizarre ads where people baptized themselves in what wet, brown, and savory potato topping?"
+        }
+      ]
+    },
+    {
+      "id": 5467,
+      "category": "Social Sciences",
+      "answer": "Pardon",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Article II, Section 2 of the US Constitution grants what presidential power that can be rejected per United States v. Wilson?"
+        },
+        {
+          "points": 2,
+          "question": "Steve Bannon, Patty Hearst, Hunter Biden, and Richard Nixon, among others, have all been the subject of what official acts of clemency?"
+        },
+        {
+          "points": 1,
+          "question": "Though the tradition goes back as far as Lincoln, George H.W. Bush was the first to officially issue what reprieve of offense to a turkey?"
+        }
+      ]
+    },
+    {
+      "id": 5472,
+      "category": "Entertainment",
+      "answer": "Snoopy",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Joe Cool is one of the alter egos used by what comic strip character who always beings his stories with \"It was a dark and stormy night\"?"
+        },
+        {
+          "points": 2,
+          "question": "The Daisy Hill Puppy Farm is the birthplace of what character who is based on Charles Schultz's dog Spike?"
+        },
+        {
+          "points": 1,
+          "question": "What beagle owned by Charlie Brown is dear friends with Woodstock and prefers to sleep on top of his doghouse?"
+        }
+      ]
+    },
+    {
+      "id": 5444,
+      "category": "Arts & Culture",
+      "answer": "Kachina",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Much like similar depictions of Kokopelli and Koyemsi aka Mudhead, the Met's White Ogre Tihu is an example of what type of figurine?"
+        },
+        {
+          "points": 2,
+          "question": "Kiva rooms throughout the American Southwest often have murals of what masked spirits found in the religions of the Zuni and Hopi?"
+        },
+        {
+          "points": 1,
+          "question": "Cottonwood root and other natural materials like feathers and shells are used to make what Indigenous American dolls that start with \"K\"?"
+        }
+      ]
+    },
+    {
+      "id": 5463,
+      "category": "Science & Nature",
+      "answer": "Turkey",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "J-shaped for toms/jakes and spiral-shaped for females: Hunters maintain you can figure out what North American animal's gender based on its feces?"
+        },
+        {
+          "points": 2,
+          "question": "Changing color depending on their mood, especially during mating season, the snood and wattle are those dangly bits that hang off what bird's beak?"
+        },
+        {
+          "points": 1,
+          "question": "Confused with the birds sold to Europeans by Ottoman traders, what North American bird got named for a country it's not from?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1246,
+    "dailyId": "1289",
+    "retrievedAt": "2026-11-26T20:28:28.284739+00:00"
+  }
+}

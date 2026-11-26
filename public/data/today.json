@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5476,
+      "id": 5460,
       "category": "Consumer Stuff",
-      "answer": "Cornbread",
+      "answer": "Gravy",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "In \"Sinners,\" Omar Benson Miller plays a doomed character named for what baked good that's cooked in a full on skillet in the South?"
+          "question": "In \"The Catastrophe of Success,\" Tennessee Williams laments staying at a first class hotel and pouring chocolate sauce on his steak, thinking it was WHAT?"
         },
         {
           "points": 2,
-          "question": "Though distinct, hushpuppies and Johnny Cakes are variations on what quick bread that originated in Native American cuisine?"
+          "question": "Though red or red-eye is sometimes used, it's typically a white style of what sauce that gets paired with biscuits for breakfast?"
         },
         {
           "points": 1,
-          "question": "A whole lot of dried maize kernels go into the making of what yellow bread that for an extra zip can be baked with jalapenos?"
+          "question": "KFC thankfully pulled their bizarre ads where people baptized themselves in what wet, brown, and savory potato topping?"
         }
       ]
     },
     {
-      "id": 5465,
-      "category": "Arts & Culture",
-      "answer": "The Mashed Potato",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Jumping on a dance craze started by James Brown, Dee Dee Sharp released the 1962 hit \"WHAT WHAT Time\"?"
-        },
-        {
-          "points": 2,
-          "question": "A variation on the twist by Chubby Checker, what culinary dance move is done by pivoting back forth between your heels and toes?"
-        },
-        {
-          "points": 1,
-          "question": "\"The Monster\"...um...\"Mash\" is meant to be a parody of what dance whose footwork resembles prepping a certain starchy side dish?"
-        }
-      ]
-    },
-    {
-      "id": 5473,
-      "category": "Entertainment",
-      "answer": "Rudy",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "In 1993, writer Angelo Pizzo and director David Anspaugh followed up their collab on \"Hoosiers\" with what other Indiana sports movie?"
-        },
-        {
-          "points": 2,
-          "question": "Daniel Ruettiger was the inspiration for what biopic that shot several major scenes at the University of Notre Dame?"
-        },
-        {
-          "points": 1,
-          "question": "No relation, thank goodness, to Mr. Giuliani, Sean Astin portrayed football players in \"Woodlawn\" and what tearjerker?"
-        }
-      ]
-    },
-    {
-      "id": 5468,
+      "id": 5467,
       "category": "Social Sciences",
-      "answer": "Breast",
+      "answer": "Pardon",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "In masonry, the extra bit of wall needed to accommodate a fireplace is anatomically known as a \"chimney WHAT\"?"
+          "question": "Article II, Section 2 of the US Constitution grants what presidential power that can be rejected per United States v. Wilson?"
         },
         {
           "points": 2,
-          "question": "The root of the word \"panzer,\" the Old French word pancier originally referred to the chest part of a knight's armor known as the \"WHAT-plate\"?"
+          "question": "Steve Bannon, Patty Hearst, Hunter Biden, and Richard Nixon, among others, have all been the subject of what official acts of clemency?"
         },
         {
           "points": 1,
-          "question": "Activist Charlotte Haley is the reason peach and pink ribbons are associated with \"WHAT Cancer Awareness\"?"
+          "question": "Though the tradition goes back as far as Lincoln, George H.W. Bush was the first to officially issue what reprieve of offense to a turkey?"
         }
       ]
     },
     {
-      "id": 5474,
-      "category": "Science & Nature",
-      "answer": "Pheasants",
+      "id": 5472,
+      "category": "Entertainment",
+      "answer": "Snoopy",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Ask Brennan Lee Mulligan: The Siamese fireback belongs to what subset of Asian birds that were naturalized across Europe and North America?"
+          "question": "Joe Cool is one of the alter egos used by what comic strip character who always beings his stories with \"It was a dark and stormy night\"?"
         },
         {
           "points": 2,
-          "question": "\"Ring-necked\" is another name for the common variety of what gamebird that grows larger than their cousins the quail and partridge?"
+          "question": "The Daisy Hill Puppy Farm is the birthplace of what character who is based on Charles Schultz's dog Spike?"
         },
         {
           "points": 1,
-          "question": "While related, guinea fowl, grouse and chickens are NOT considered what type of ground-dwelling P-bird?"
+          "question": "What beagle owned by Charlie Brown is dear friends with Woodstock and prefers to sleep on top of his doghouse?"
+        }
+      ]
+    },
+    {
+      "id": 5444,
+      "category": "Arts & Culture",
+      "answer": "Kachina",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Much like similar depictions of Kokopelli and Koyemsi aka Mudhead, the Met's White Ogre Tihu is an example of what type of figurine?"
+        },
+        {
+          "points": 2,
+          "question": "Kiva rooms throughout the American Southwest often have murals of what masked spirits found in the religions of the Zuni and Hopi?"
+        },
+        {
+          "points": 1,
+          "question": "Cottonwood root and other natural materials like feathers and shells are used to make what Indigenous American dolls that start with \"K\"?"
+        }
+      ]
+    },
+    {
+      "id": 5463,
+      "category": "Science & Nature",
+      "answer": "Turkey",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "J-shaped for toms/jakes and spiral-shaped for females: Hunters maintain you can figure out what North American animal's gender based on its feces?"
+        },
+        {
+          "points": 2,
+          "question": "Changing color depending on their mood, especially during mating season, the snood and wattle are those dangly bits that hang off what bird's beak?"
+        },
+        {
+          "points": 1,
+          "question": "Confused with the birds sold to Europeans by Ottoman traders, what North American bird got named for a country it's not from?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1245,
-    "dailyId": "1288",
-    "retrievedAt": "2026-11-25T20:37:11.362896+00:00"
+    "quizNumber": 1246,
+    "dailyId": "1289",
+    "retrievedAt": "2026-11-26T20:28:28.284739+00:00"
   }
 }
