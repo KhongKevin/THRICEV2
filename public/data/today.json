@@ -1,104 +1,104 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "title": "Today's Trivia",
   "rounds": [
     {
-      "id": 5460,
-      "category": "Consumer Stuff",
-      "answer": "Gravy",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "In \"The Catastrophe of Success,\" Tennessee Williams laments staying at a first class hotel and pouring chocolate sauce on his steak, thinking it was WHAT?"
-        },
-        {
-          "points": 2,
-          "question": "Though red or red-eye is sometimes used, it's typically a white style of what sauce that gets paired with biscuits for breakfast?"
-        },
-        {
-          "points": 1,
-          "question": "KFC thankfully pulled their bizarre ads where people baptized themselves in what wet, brown, and savory potato topping?"
-        }
-      ]
-    },
-    {
-      "id": 5467,
-      "category": "Social Sciences",
-      "answer": "Pardon",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Article II, Section 2 of the US Constitution grants what presidential power that can be rejected per United States v. Wilson?"
-        },
-        {
-          "points": 2,
-          "question": "Steve Bannon, Patty Hearst, Hunter Biden, and Richard Nixon, among others, have all been the subject of what official acts of clemency?"
-        },
-        {
-          "points": 1,
-          "question": "Though the tradition goes back as far as Lincoln, George H.W. Bush was the first to officially issue what reprieve of offense to a turkey?"
-        }
-      ]
-    },
-    {
-      "id": 5472,
-      "category": "Entertainment",
-      "answer": "Snoopy",
-      "aliases": [],
-      "clues": [
-        {
-          "points": 3,
-          "question": "Joe Cool is one of the alter egos used by what comic strip character who always beings his stories with \"It was a dark and stormy night\"?"
-        },
-        {
-          "points": 2,
-          "question": "The Daisy Hill Puppy Farm is the birthplace of what character who is based on Charles Schultz's dog Spike?"
-        },
-        {
-          "points": 1,
-          "question": "What beagle owned by Charlie Brown is dear friends with Woodstock and prefers to sleep on top of his doghouse?"
-        }
-      ]
-    },
-    {
-      "id": 5444,
+      "id": 5455,
       "category": "Arts & Culture",
-      "answer": "Kachina",
+      "answer": "London",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "Much like similar depictions of Kokopelli and Koyemsi aka Mudhead, the Met's White Ogre Tihu is an example of what type of figurine?"
+          "question": "Zadie Smith's \"White Teeth\" follows the lives of a family living in what major city?"
         },
         {
           "points": 2,
-          "question": "Kiva rooms throughout the American Southwest often have murals of what masked spirits found in the religions of the Zuni and Hopi?"
+          "question": "Mick Herron's \"Slough House\" series follows a bunch of MI5 misfits relegated as \"Slow Horses\" to 126 Aldergate Street in what capital city?"
         },
         {
           "points": 1,
-          "question": "Cottonwood root and other natural materials like feathers and shells are used to make what Indigenous American dolls that start with \"K\"?"
+          "question": "Sherlock Holmes's silhouette adorns tiles in the Baker Street tube station in what city?"
         }
       ]
     },
     {
-      "id": 5463,
-      "category": "Science & Nature",
-      "answer": "Turkey",
+      "id": 5470,
+      "category": "Entertainment",
+      "answer": "Wings",
       "aliases": [],
       "clues": [
         {
           "points": 3,
-          "question": "J-shaped for toms/jakes and spiral-shaped for females: Hunters maintain you can figure out what North American animal's gender based on its feces?"
+          "question": "Joe and Brian Hackett run Sandpiper Air in what 90s TV series that's in the same universe as \"Cheers\"?"
         },
         {
           "points": 2,
-          "question": "Changing color depending on their mood, especially during mating season, the snood and wattle are those dangly bits that hang off what bird's beak?"
+          "question": "Following pilots in WWI, the first ever Best Picture Oscar went to what 1927 silent film with a one-word title?"
         },
         {
           "points": 1,
-          "question": "Confused with the birds sold to Europeans by Ottoman traders, what North American bird got named for a country it's not from?"
+          "question": "11 total, the US hockey franchise with the most Stanley Cup wins is the \"Detroit Red WHATS\"?"
+        }
+      ]
+    },
+    {
+      "id": 5459,
+      "category": "Consumer Stuff",
+      "answer": "Butterball",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Pushing samples at a grocery store, Deb and Lynn are the two \"Gals\" in ads for what \"Care hard. Cook easy\" brand?"
+        },
+        {
+          "points": 2,
+          "question": "The name of what Raleigh-based company is meant to emphasize a certain bird's plump shape, not to imply it contains extra ingredients?"
+        },
+        {
+          "points": 1,
+          "question": "Answering a purported 200,000 calls a year, the Turkey-Talk Line is sponsored by what poultry company with a round yellow logo?"
+        }
+      ]
+    },
+    {
+      "id": 5475,
+      "category": "Social Sciences",
+      "answer": "Pilgrimage",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Protesting Henry VIII's dissolution of the monastaries, Robert Aske led a rebellion in Yorkshire known as the \"WHAT of Grace\"?"
+        },
+        {
+          "points": 2,
+          "question": "The Kumbh Mela and the Hajj are examples of what religious practice also observed along the Camino de Santiago?"
+        },
+        {
+          "points": 1,
+          "question": "Like the Crusades but with less violence, what Medieval proto-tourism involved traveling to sacred Christian sites to seek penance?"
+        }
+      ]
+    },
+    {
+      "id": 5453,
+      "category": "Science & Nature",
+      "answer": "Tryptophan",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Charles Yanofsky first discovered attenuation via the E. coli operon that codes for what heaviest of the 20 standard amino acids?"
+        },
+        {
+          "points": 2,
+          "question": "Your body produces serotonin and the sleep hormone melatonin by breaking down foods containing what biomolecule that looks a lot like a \"W\"?"
+        },
+        {
+          "points": 1,
+          "question": "The truth is we eat too much. There's a long held myth that Thanksgiving drowsiness is caused by what amino acid acid found in turkey meat?"
         }
       ]
     }
@@ -106,8 +106,8 @@
   "source": {
     "name": "Thrice by Geeks Who Drink",
     "url": "https://thrice.geekswhodrink.com/",
-    "quizNumber": 1246,
-    "dailyId": "1289",
-    "retrievedAt": "2026-11-26T20:28:28.284739+00:00"
+    "quizNumber": 1247,
+    "dailyId": "1290",
+    "retrievedAt": "2026-11-27T20:13:42.349346+00:00"
   }
 }

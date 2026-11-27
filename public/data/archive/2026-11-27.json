@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-27",
+  "title": "Today's Trivia",
+  "rounds": [
+    {
+      "id": 5455,
+      "category": "Arts & Culture",
+      "answer": "London",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Zadie Smith's \"White Teeth\" follows the lives of a family living in what major city?"
+        },
+        {
+          "points": 2,
+          "question": "Mick Herron's \"Slough House\" series follows a bunch of MI5 misfits relegated as \"Slow Horses\" to 126 Aldergate Street in what capital city?"
+        },
+        {
+          "points": 1,
+          "question": "Sherlock Holmes's silhouette adorns tiles in the Baker Street tube station in what city?"
+        }
+      ]
+    },
+    {
+      "id": 5470,
+      "category": "Entertainment",
+      "answer": "Wings",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Joe and Brian Hackett run Sandpiper Air in what 90s TV series that's in the same universe as \"Cheers\"?"
+        },
+        {
+          "points": 2,
+          "question": "Following pilots in WWI, the first ever Best Picture Oscar went to what 1927 silent film with a one-word title?"
+        },
+        {
+          "points": 1,
+          "question": "11 total, the US hockey franchise with the most Stanley Cup wins is the \"Detroit Red WHATS\"?"
+        }
+      ]
+    },
+    {
+      "id": 5459,
+      "category": "Consumer Stuff",
+      "answer": "Butterball",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Pushing samples at a grocery store, Deb and Lynn are the two \"Gals\" in ads for what \"Care hard. Cook easy\" brand?"
+        },
+        {
+          "points": 2,
+          "question": "The name of what Raleigh-based company is meant to emphasize a certain bird's plump shape, not to imply it contains extra ingredients?"
+        },
+        {
+          "points": 1,
+          "question": "Answering a purported 200,000 calls a year, the Turkey-Talk Line is sponsored by what poultry company with a round yellow logo?"
+        }
+      ]
+    },
+    {
+      "id": 5475,
+      "category": "Social Sciences",
+      "answer": "Pilgrimage",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Protesting Henry VIII's dissolution of the monastaries, Robert Aske led a rebellion in Yorkshire known as the \"WHAT of Grace\"?"
+        },
+        {
+          "points": 2,
+          "question": "The Kumbh Mela and the Hajj are examples of what religious practice also observed along the Camino de Santiago?"
+        },
+        {
+          "points": 1,
+          "question": "Like the Crusades but with less violence, what Medieval proto-tourism involved traveling to sacred Christian sites to seek penance?"
+        }
+      ]
+    },
+    {
+      "id": 5453,
+      "category": "Science & Nature",
+      "answer": "Tryptophan",
+      "aliases": [],
+      "clues": [
+        {
+          "points": 3,
+          "question": "Charles Yanofsky first discovered attenuation via the E. coli operon that codes for what heaviest of the 20 standard amino acids?"
+        },
+        {
+          "points": 2,
+          "question": "Your body produces serotonin and the sleep hormone melatonin by breaking down foods containing what biomolecule that looks a lot like a \"W\"?"
+        },
+        {
+          "points": 1,
+          "question": "The truth is we eat too much. There's a long held myth that Thanksgiving drowsiness is caused by what amino acid acid found in turkey meat?"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "name": "Thrice by Geeks Who Drink",
+    "url": "https://thrice.geekswhodrink.com/",
+    "quizNumber": 1247,
+    "dailyId": "1290",
+    "retrievedAt": "2026-11-27T20:13:42.349346+00:00"
+  }
+}
